@@ -1,0 +1,47 @@
+---
+title: "PSYCH 260 Recent Grades Summary"
+author: "rogilmore"
+date: "`r Sys.time()`"
+output: html_document
+---
+
+This document summarizes student performance in PSYCH 260 for a couple of recent class years.
+
+## Read data
+```{r}
+df_260 <- read.csv('data/260-recent-grades.csv')
+library(ggplot2) # pretty plotting
+```
+
+## Grade distribution by Year
+
+```{r total-score}
+p <- ggplot(df_260) +
+  aes(Total, fill=Grade) +
+  geom_histogram() +
+  facet_grid(. ~ Year) + 
+  ggtitle('Total score distribution')
+p
+```
+
+## Exam score distribution
+
+```{r exam-scores}
+p <- ggplot(df_260) +
+  aes(Exam.total, fill=Grade) +
+  geom_histogram() +
+  facet_grid(. ~ Year) + 
+  ggtitle('Exam score distribution')
+p
+```
+
+## Quiz score distribution
+
+```{r quiz-scores}
+p <- ggplot(df_260) +
+  aes(Quiz.total, fill=Grade) +
+  geom_histogram() +
+  facet_grid(. ~ Year) + 
+  ggtitle('Quiz score distribution')
+p
+```

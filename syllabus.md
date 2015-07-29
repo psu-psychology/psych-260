@@ -37,6 +37,8 @@ There is perhaps no more fascinating scientific frontier than the study of the b
 
 Course home page: <http://psu-psych.github.io/psych-260>
 
+---
+
 ## Schedule
 
 [PSU Academic Calendar](http://registrar.psu.edu/academic_calendar/fall15.cfm)
@@ -253,6 +255,8 @@ The Cerebral Symphony
 
 **FINAL EXAM -- TBA**
 
+---
+
 ## Evaluation
 
 ### Elements
@@ -266,6 +270,8 @@ The Cerebral Symphony
 | *Paper* | You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. | |
 | | **TOTAL POINTS POSSIBLE** | 165 |
 | Extra Credit | There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them. | |
+
+[Data about recent performance](grades/analysis.html)
 
 ### Grading Scheme
 
@@ -281,6 +287,8 @@ The Cerebral Symphony
 | 115-126 | 70-76   | C     |
 | 99-114  | 60-69   | D     |
 | 0-98    | <59     | F     |
+
+---
 
 ## Policies
 
