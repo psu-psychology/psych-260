@@ -3,8 +3,9 @@
 
 ## Instructor
 
-<p>**Rick O. Gilmore**</br>
-<rogilmore@psu.edu></br>
+<p>
+**Rick O. Gilmore**</br>
+<rogilmore@psu.edu> </br>
 114 Moore</br>
 814-865-3664</br>
 <http://gilmore-lab.github.io>
@@ -64,7 +65,7 @@ Course home page: <http://psu-psych.github.io/psych-260>
 
 #### Mon 
 
-**NO CLASSES -- LABOR DAY HOLIDAY **
+**NO CLASS -- LABOR DAY HOLIDAY**
 
 #### Wed
 
@@ -152,7 +153,7 @@ Course home page: <http://psu-psych.github.io/psych-260>
 
 ### Week 14, November 23 - 27 
 
-**NO CLASS -- THANKSGIVING BREAK **
+**NO CLASS -- THANKSGIVING BREAK**
 
 ### Week 15, November 30 - December 4
 
@@ -181,12 +182,11 @@ Course home page: <http://psu-psych.github.io/psych-260>
 | Component | Description                                  | Points |
 |-----------|----------------------------------------------|--------|
 | Exams     |There will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You may choose not to take the final. | 120 |
-| Quizzes | There will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade. |
-30 |
+| Quizzes | There will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade. | 30 |
 | Participation | There are a total of 15 points available by completing any mixture of three assignments. | 15 | 
-| Blog | You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, blogs.psu.edu. You may create up to 5 posts and earn 3 points/post, for a total of 15 possible points. | |
-| Paper | You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. | |
-| | TOTAL POINTS POSSIBLE | 165 |
+| *Blog* | You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, blogs.psu.edu. You may create up to 5 posts and earn 3 points/post, for a total of 15 possible points. | |
+| *Paper* | You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. | |
+| | **TOTAL POINTS POSSIBLE** | 165 |
 | Extra Credit | There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them. | |
 
 ### Grading Scheme
@@ -217,6 +217,7 @@ It is your responsibility to maintain high standards of academic integrity. If y
 Make-up exams may be permitted under unusual circumstances such as (a) an interview for graduate school or a job, (b) illness, (c) religious observance, (d) the death of a family member, or (e) any other event recognized by the university as a valid excuse for absence from class. 
 
 If you must miss class on the day an exam is scheduled, you must do the following:
+
 1. Contact the TA or the instructor by telephone, email, or in person in advance of the exam. Twenty-four hours notice is expected. If you do not contact the TA or instructor in advance, it is possible that you may not be able to schedule a make-up exam.
 2. Arrange with the TA or instructor to take a make-up exam as soon as possible, but no later than one (1) week following the date of the scheduled exam. It is your responsibility, not the TA's or the instructor's to schedule an approved make-up exam in a timely way.
 
