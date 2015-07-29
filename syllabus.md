@@ -3,14 +3,14 @@
 
 ## Instructor
 
-<p>
-**Rick O. Gilmore**</br>
-<rogilmore@psu.edu> </br>
-114 Moore</br>
+**Rick O. Gilmore, Ph.D.**</br>
+Associate Professor of [Psychology](http://psych.la.psu.edu/)</br>
+114 Moore Building</br>
 814-865-3664</br>
-<http://gilmore-lab.github.io>
+<rogilmore@psu.edu></br>
+<http://gilmore-lab.github.io></br>
+<http://psych.la.psu.edu/directory/rog1></br>
 Office hours by appointment: <http://doodle.com/rickgilmore>
-</p>
 
 ### Teaching Assistant
 
@@ -43,23 +43,31 @@ Course home page: <http://psu-psych.github.io/psych-260>
 
 ### Week 01, August 24 - 28
 
-#### Mon
+#### Mon, August 24
 
-#### Topic
-
-#### Reading
+Introduction to the course
 
 #### Wed
 
+History of neuroscience
+
 #### Fri
+
+Levels of analysis
 
 ### Week 02, August 31 - September 4
 
 #### Mon
 
+Methods to the madness
+
 #### Wed
 
+Neuranatomy I
+
 #### Fri
+
+Neuranatomy II
 
 ### Week 03, September 7 - 11
 
@@ -69,47 +77,81 @@ Course home page: <http://psu-psych.github.io/psych-260>
 
 #### Wed
 
+Cells of the nervous system
+
 #### Fri
+
+Neurophysiology I
 
 ### Week 04, September 14 - 18
 
 #### Mon
 
+**Quiz 1**; Neurophysiology II
+
 #### Wed
 
+Neurophysiology III
+
 #### Fri
+
+Neurochemistry I
 
 ### Week 05, September 21 - 25
 
 #### Mon
 
+Neurochemistry II
+
 #### Wed
 
+Exam 1 review
+
 #### Fri
+
+**Exam 1**
 
 ### Week 06, September 28 - October 2
 
 #### Mon
 
+Hormones and the brain I
+
 #### Wed
 
+Hormones and the brain II
+
 #### Fri
+
+Sex and the brain
 
 ### Week 07, October 5 - 9
 
 #### Mon
 
+**Quiz 2**; Exam 1 returned.
+
 #### Wed
 
+Biological rhythms and sleep
+
 #### Fri
+
+Evolution of the nervous system
 
 ### Week 08, October 12 - 16
 
 #### Mon
 
+From evolution to development
+
 #### Wed
 
+Exam 2 review
+
 #### Fri
+
+**Exam 2**
 
 ### Week 09, October 19 - 23
 
@@ -123,33 +165,57 @@ Course home page: <http://psu-psych.github.io/psych-260>
 
 #### Mon
 
+Emotion
+
 #### Wed
 
+Aggression and stress
+
 #### Fri
+
+Psychopathology I
 
 ### Week 11, November 2 - 6
 
 #### Mon
 
+Psychopathology II
+
 #### Wed
 
+Developmental disorders, addiction
+
 #### Fri
+
+Sensory systems
 
 ### Week 12, November 9 - 13
 
 #### Mon
 
+Somatosensation
+
 #### Wed
 
+Quiz 3; Exam 2 returned
+
 #### Fri
+
+Audition
 
 ### Week 13, November 16 - 20
 
 #### Mon
 
+Vision I
+
 #### Wed
 
+Vision II
+
 #### Fri
+
+Action I
 
 ### Week 14, November 23 - 27 
 
@@ -159,17 +225,29 @@ Course home page: <http://psu-psych.github.io/psych-260>
 
 #### Mon
 
+Action II
+
 #### Wed
 
+Exam 3 review
+
 #### Fri
+
+**Exam 3**
 
 ### Week 16, December 7 - 11
 
 #### Mon
 
+Learning & memory I
+
 #### Wed
 
+Learning & memory II
+
 #### Fri
+
+The Cerebral Symphony
 
 ### Week 17, December 14 - 18
 
