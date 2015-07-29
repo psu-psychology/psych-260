@@ -69,7 +69,7 @@ Neuranatomy I
 
 #### Fri
 
-Neuranatomy II
+Neuroanatomy II
 
 ### Week 03, September 7 - 11
 
@@ -79,27 +79,41 @@ Neuranatomy II
 
 #### Wed
 
-Cells of the nervous system
+Neuroanatomy Lab
 
 #### Fri
 
-Neurophysiology I
+Cells of the nervous system
 
 ### Week 04, September 14 - 18
 
 #### Mon
 
-**Quiz 1**; Neurophysiology II
+**Quiz 1**; Neurophysiology I
 
 #### Wed
 
+Neurophysiology II
+
+#### Fri
+
 Neurophysiology III
+
+### Week 05, September 21 - 25
+
+#### Mon
+
+Exam 1 review
+
+#### Wed
+
+**Exam 1**
 
 #### Fri
 
 Neurochemistry I
 
-### Week 05, September 21 - 25
+### Week 06, September 28 - October 2
 
 #### Mon
 
@@ -107,21 +121,7 @@ Neurochemistry II
 
 #### Wed
 
-Exam 1 review
-
-#### Fri
-
-**Exam 1**
-
-### Week 06, September 28 - October 2
-
-#### Mon
-
-Hormones and the brain I
-
-#### Wed
-
-Hormones and the brain II
+Hormones and the brain
 
 #### Fri
 
@@ -159,14 +159,6 @@ Exam 2 review
 
 #### Mon
 
-#### Wed
-
-#### Fri
-
-### Week 10, October 26 - 30
-
-#### Mon
-
 Emotion
 
 #### Wed
@@ -177,7 +169,7 @@ Aggression and stress
 
 Psychopathology I
 
-### Week 11, November 2 - 6
+### Week 10, October 26 - 30
 
 #### Mon
 
@@ -189,23 +181,23 @@ Developmental disorders, addiction
 
 #### Fri
 
-Sensory systems
+**Quiz 3**; Exam 2 returned.
 
-### Week 12, November 9 - 13
+### Week 11, November 2 - 6
 
 #### Mon
 
-Somatosensation
+Sensory systems
 
 #### Wed
 
-Quiz 3; Exam 2 returned
+Somatosensation
 
 #### Fri
 
 Audition
 
-### Week 13, November 16 - 20
+### Week 12, November 9 - 13
 
 #### Mon
 
@@ -219,11 +211,7 @@ Vision II
 
 Action I
 
-### Week 14, November 23 - 27 
-
-**NO CLASS -- THANKSGIVING BREAK**
-
-### Week 15, November 30 - December 4
+### Week 13, November 16 - 20
 
 #### Mon
 
@@ -237,15 +225,33 @@ Exam 3 review
 
 **Exam 3**
 
+### Week 14, November 23 - 27 
+
+**NO CLASS -- THANKSGIVING BREAK**
+
+### Week 15, November 30 - December 4
+
+#### Mon
+
+Speed of Nervous System Conduction Lab
+
+#### Wed
+
+Learning & memory I
+
+#### Fri
+
+Learning & memory II
+
 ### Week 16, December 7 - 11
 
 #### Mon
 
-Learning & memory I
+Quiz 4; Thinking
 
 #### Wed
 
-Learning & memory II
+Review for Exam 4
 
 #### Fri
 
