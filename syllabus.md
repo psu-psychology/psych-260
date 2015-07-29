@@ -271,7 +271,7 @@ The Cerebral Symphony
 | | **TOTAL POINTS POSSIBLE** | 165 |
 | Extra Credit | There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them. | |
 
-[Data about recent performance](grades/analysis.html)
+[Data about recent performance](grades/analysis.pdf)
 
 ### Grading Scheme
 

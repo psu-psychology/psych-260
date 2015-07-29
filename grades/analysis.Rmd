@@ -2,7 +2,7 @@
 title: "PSYCH 260 Recent Grades Summary"
 author: "rogilmore"
 date: "`r Sys.time()`"
-output: html_document
+output: pdf_document
 ---
 
 This document summarizes student performance in PSYCH 260 for a couple of recent class years.
