@@ -247,7 +247,7 @@ Learning & memory II
 
 #### Mon
 
-Quiz 4; Thinking
+Quiz 4; Return Exam 3
 
 #### Wed
 
