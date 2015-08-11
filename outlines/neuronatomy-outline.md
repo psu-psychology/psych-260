@@ -29,7 +29,7 @@
 ### Meninges (exterior-\>interior)
 
 - Dura mater
-    + "Touch mother"
+    + "Tough mother"
 - Arachnoid membrane
 - Cerebrospinal fluid (CSF)
 - Subarachnoid Space

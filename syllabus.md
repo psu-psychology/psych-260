@@ -33,9 +33,21 @@ There is perhaps no more fascinating scientific frontier than the study of the b
 
 ### Textbook
 
+Watson, N.V. & Breedlove, S.M. (2012). The Minds's Machine. Sinauer: Sunderland, MA. <http://www.mindsmachine.com>
+
 ### Web links
 
-Course home page: <http://psu-psych.github.io/psych-260>
+Course home page: <http://psu-psych.github.io/psych-260></br>
+BrainFacts.org from The Society for Neuroscience: <http://www.brainfacts.org>
+
+## Outlines
+
+These outlines are a convenient way to organize and review some of the course material. You are not expected to know every detail on the outlines for this course.
+
+- [Levels of analysis outline](outlines/levels-of-analysis.md)
+- [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
+- [Cellular outline](outlines/cellular-outline.md)
+- [Neurotransmission outline](outlines/neurotransmission-outline.md)
 
 ---
 
@@ -47,29 +59,29 @@ Course home page: <http://psu-psych.github.io/psych-260>
 
 #### Mon, August 24
 
-Introduction to the course
+Introduction to the course. Read W&B 1:2-19.
 
 #### Wed
 
-History of neuroscience
+History of neuroscience. Review W&B 1:2-19. Read <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>. Scan <https://faculty.washington.edu/chudler/hist.html> 
 
 #### Fri
 
-Levels of analysis
+Levels of analysis. Review W&B 2:24. Read [Levels of analysis outline](outlines/levels-of-analysis.md). Optional: Scan [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688).
 
 ### Week 02, August 31 - September 4
 
 #### Mon
 
-Methods to the madness
+Methods to the madness. Read W&B 2:42-47; 3:50-54; 3:69-73.
 
 #### Wed
 
-Neuranatomy I
+Neuroanatomy I. Read W&B: 2:29-42. [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 
 #### Fri
 
-Neuroanatomy II
+Neuroanatomy II. Read W&B: 2:29-42. [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 
 ### Week 03, September 7 - 11
 
@@ -79,31 +91,31 @@ Neuroanatomy II
 
 #### Wed
 
-Neuroanatomy Lab
+Neuroanatomy Lab. [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 
 #### Fri
 
-Cells of the nervous system
+Cells of the nervous system. Read W&B: 2:22-29. [Cellular outline](outlines/cellular-outline.md)
 
 ### Week 04, September 14 - 18
 
 #### Mon
 
-**Quiz 1**; Neurophysiology I
+**Quiz 1**. Neurophysiology I. Read W&B 3:48-54.
 
 #### Wed
 
-Neurophysiology II
+Neurophysiology II. Read W&B 3:54-64.
 
 #### Fri
 
-Neurophysiology III
+Neurophysiology III. Read W&B 3:64-69
 
 ### Week 05, September 21 - 25
 
 #### Mon
 
-Exam 1 review
+Exam 1 review. Read W&B 1:19, 2:46-47, 3:73.
 
 #### Wed
 
@@ -111,21 +123,21 @@ Exam 1 review
 
 #### Fri
 
-Neurochemistry I
+Neurochemistry I. Read W&B 4:76-82. [Neurotransmission outline](outlines/neurotransmission-outline.md)
 
 ### Week 06, September 28 - October 2
 
 #### Mon
 
-Neurochemistry II
+Neurochemistry II. Read W&B 4:82-99. [Neurotransmission outline](outlines/neurotransmission-outline.md)
 
 #### Wed
 
-Hormones and the brain
+Hormones and the brain. Read W&B 8:202-222.
 
 #### Fri
 
-Sex and the brain
+Sex and the brain. Read W&B 8:223-247.
 
 ### Week 07, October 5 - 9
 
@@ -135,7 +147,7 @@ Sex and the brain
 
 #### Wed
 
-Biological rhythms and sleep
+Biological rhythms and sleep. 
 
 #### Fri
 
