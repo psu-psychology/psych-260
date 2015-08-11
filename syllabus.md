@@ -1,4 +1,4 @@
-# PSYCH 260 Syllabus
+# PSYCH 260.002/BBH 203.002 Syllabus
 ## Fall 2015
 
 ## Instructor
@@ -143,25 +143,25 @@ Sex and the brain. Read W&B 8:223-247.
 
 #### Mon
 
-**Quiz 2**; Exam 1 returned.
+**Quiz 2**. Exam 1 returned.
 
 #### Wed
 
-Biological rhythms and sleep. 
+Biological rhythms and sleep. Read W&B 10:270-299.
 
 #### Fri
 
-Evolution of the nervous system
+Evolution of the human brain. Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
 ### Week 08, October 12 - 16
 
 #### Mon
 
-From evolution to development
+From evolution to development. Read W&B 13:387-392.
 
 #### Wed
 
-Exam 2 review
+Exam 2 review. 
 
 #### Fri
 
@@ -171,63 +171,63 @@ Exam 2 review
 
 #### Mon
 
-Emotion
+Emotion. Read W&B 11:302-315.
 
 #### Wed
 
-Aggression and stress
+Aggression and stress. Read W&B 11:316-324.
 
 #### Fri
 
-Psychopathology I
+Psychopathology I. Read W&B 12:326-340.
 
 ### Week 10, October 26 - 30
 
 #### Mon
 
-Psychopathology II
+Psychopathology II. Read W&B 12:340-352.
 
 #### Wed
 
-Developmental disorders, addiction
+Drugs & Addiction. Read W&B 4:89-103.
 
 #### Fri
 
-**Quiz 3**; Exam 2 returned.
+**Quiz 3**. Exam 2 returned.
 
 ### Week 11, November 2 - 6
 
 #### Mon
 
-Sensory systems
+Sensory systems. Read W&B 5:106-114.
 
 #### Wed
 
-Somatosensation
+Somatosensation. Read W&B 5:114-122.
 
 #### Fri
 
-Audition
+Action I. Read W&B 5:122-131.
 
 ### Week 12, November 9 - 13
 
 #### Mon
 
-Vision I
+Action II. Read W&B 5:131-138.
 
 #### Wed
 
-Vision II
+Audition. Read W&B 6:140-156.
 
 #### Fri
 
-Action I
+Vision I. Read W&B 7:168-180.
 
 ### Week 13, November 16 - 20
 
 #### Mon
 
-Action II
+Vision II. Read W&B 7:180-201.
 
 #### Wed
 
@@ -245,15 +245,15 @@ Exam 3 review
 
 #### Mon
 
-Speed of Nervous System Conduction Lab
+Speed of Nervous System Conduction Lab.
 
 #### Wed
 
-Learning & memory I
+Learning & memory I. Read W&B 13:354-370.
 
 #### Fri
 
-Learning & memory II
+Learning & memory II. Read W&B 13:370-379.
 
 ### Week 16, December 7 - 11
 
