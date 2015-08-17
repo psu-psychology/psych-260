@@ -59,7 +59,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 #### Mon, August 24
 
-Introduction to the course. Read W&B 1:2-19. [Lecture](psu-psychology.github.io/psych-260/lectures/2015-08-24-intro.html)
+Introduction to the course. Read W&B 1:2-19. [Lecture](http://psu-psychology.github.io/psych-260/lectures/2015-08-24-intro.html)
 
 #### Wed
 
