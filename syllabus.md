@@ -259,7 +259,7 @@ Learning & memory II. Read W&B 13:370-379.
 
 #### Mon
 
-Quiz 4; Return Exam 3
+**Quiz 4**; Return Exam 3
 
 #### Wed
 
