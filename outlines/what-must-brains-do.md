@@ -35,21 +35,25 @@
         * Movement
         * Communication
     + Internal
-        * Change state
+        * Change state (current or future)
 
 ## Nervous systems must
 
 - Gather information about
-    + State of world
+    + State of world (exteroceptive)
         - Physical
         - Other entities
-    + State of observer
+    + State of observer (interoceptive)
 - Evaluate, choose actions
     + Status of achieving goals
     + Predict consequences of possible actions
 - Control responses, actions
     + Ballistic vs. closed-loop control
-    + Physical vs. psychological world
+    + Physical vs. psychological/social world
+    + Action types
+        - Locomotion, steering, posture/balance control
+        - Object manipulation/exploration
+        - Communication/signaling
 
 ## How to control or upgrade the brain
 
@@ -57,5 +61,6 @@
 - Disease/injury/surgery
 - Influence electrically/magnetically
 - Influence chemistry
-- Information flow
+- Alter information flow
+- Learning
 

@@ -64,6 +64,7 @@
                 - Precentral gyrus
                     + Anterior to central sulcus
                 - Cingulate gyrus
+                    + Anterior cingulate cortex (ACC)
         * Nerves & tracts
             - Nerves = PNS, tracts = CNS
             - Optic nerve and tract

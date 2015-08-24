@@ -1,0 +1,162 @@
+---
+title: "260-2015-08-24-intro"
+author: "rogilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    self_contained: false
+    lib_dir: ../libs
+    widescreen: true
+    incremental: true
+    transition: default
+---
+
+```{r set-up, echo=FALSE, error=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+path2figs = '../figs'
+knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
+```
+
+## PSYCH 260/BBH 203 {.flexbox .vcenter}
+
+<div class="centered">
+### Neurological Bases of Human Behavior
+<img src="figs/fesi-source.jpg"/>
+
+#### Rick O. Gilmore, Ph.D.</br>
+Associate Professor of Psychology
+</div>
+
+## What is this course about?
+
+## What is behavior?
+
+## What distinguishes human behavior?
+
+## What are neurological bases?
+
+## What other bases are there?
+
+## This course is about...
+
+## Genes {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://ecx.images-amazon.com/images/I/41OzMnt3lpL._SX319_BO1,204,203,200_.jpg"/>
+
+<http://ecx.images-amazon.com/images/I/41OzMnt3lpL._SX319_BO1,204,203,200_.jpg>
+</div>
+
+## Neurotransmitters {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://rlv.zcache.com/blame_my_neurotransmitters_if_not_paying_attention_mousepad-p144383961261005279trak_400.jpg"/>
+<http://rlv.zcache.com/blame_my_neurotransmitters_if_not_paying_attention_mousepad-p144383961261005279trak_400.jpg>
+</div>
+
+## Neurons {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://www.biolegend.com/NewsLegend/032515blog/neuron_cartoon.jpg"/>
+<http://www.biolegend.com/NewsLegend/032515blog/neuron_cartoon.jpg>
+</div>
+
+## Networks
+
+<div class="centered">
+<img src="https://s-media-cache-ak0.pinimg.com/236x/a9/94/3a/a9943ae81a965e483227b6f9f5e7ca5f.jpg"/>
+
+<https://s-media-cache-ak0.pinimg.com/236x/a9/94/3a/a9943ae81a965e483227b6f9f5e7ca5f.jpg>
+</div>
+
+## Brains {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://unearthedcomics.com/wp-content/uploads/2012/12/Unearthed-BrainWandering-1211-2-web.jpg"/>
+<http://unearthedcomics.com/wp-content/uploads/2012/12/Unearthed-BrainWandering-1211-2-web.jpg>
+</div>
+
+## Behavior {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://www.glasbergen.com/wp-content/gallery/teen/edu01.gif"/>
+<http://www.glasbergen.com/wp-content/gallery/teen/edu01.gif>
+</div>
+
+## Today's topics
+
+- Course overview
+- Neurological bases of human behavior?
+  - What does that mean?
+  - Why psychology (and neuroscience) is more difficult than physics
+  
+## Course overview
+
+- [Syllabus](https://github.com/psu-psychology/psych-260/blob/master/syllabus.md)
+
+## Keys for success
+
+- Study the figures.
+- Study regularly.
+- Come to class.
+
+## Neurological bases of human behavior
+
+- Why is biology essential for the science of behavior?
+- What is science?
+  - What distinguishes sciences?
+  - What is neuroscience?
+- Why is neuroscience harder than physics?
+- Why is it more fun?
+
+## What is science?
+
+- [Science](http://dictionary.reference.com/browse/science)
+
+- Body of facts or truths.
+- Process of acquiring knowledge
+  - Systematic study
+  - Observation, experiment, description
+  - Strives for objectivity
+  - Aims at reliable, reproducible, general, systematic, universal laws
+
+## Similarities between sciences
+
+- What are the different kinds of X?
+  - Form
+- How does X work?
+  - Function
+- Where did X come from?
+  - Origins
+  
+## What distinguishes sciences
+
+- Phenomena of interest
+- Methods or tools
+- Levels of analysis
+  - Spatial scale (nanometers to light-years)
+  - Temporal scale (milliseconds to millenia)
+  
+## What is neuroscience?
+
+- The study of the nervous system
+  - And the behavior it makes possible
+- Questions
+  - What are the parts of the nervous system?
+  - How do the parts work?  What do they do?
+  - Where did they come from?
+  
+## Why neuroscience is harder than physics {.flexbox .vcenter}
+
+<div class="centered">
+<img src="figs/psych-harder-1.jpg" width=800px//>
+</div>
+
+## Why neuroscience is more fun than physics {.flexbox .vcenter}
+
+<div class="centered">
+<img src="figs/psych-harder-2.jpg" width=800px//>
+</div>
+
+## Next time...
+
+- History of neuroscience
