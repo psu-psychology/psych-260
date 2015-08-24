@@ -14,7 +14,9 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 
 ### Teaching Assistant
 
-TBD
+**Erin Guty**</br>
+Graduate Assistant
+<exg5204@psu.edu>
 
 ## Meeting Location and Time
 
