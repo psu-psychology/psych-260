@@ -379,7 +379,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, December 7
 
 - Topic
-    - Quiz 4
+    - **Quiz 4**
     - Return Exam 3
 
 #### Wed, December 9
