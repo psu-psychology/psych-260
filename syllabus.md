@@ -61,179 +61,289 @@ These outlines are a convenient way to organize and review some of the course ma
 
 #### Mon, August 24
 
-Introduction to the course. Read W&B 1:2-19. [Lecture](http://psu-psychology.github.io/psych-260/lectures/2015-08-24-intro.html)
+- Topic
+    - Introduction to the course.
+    - [Lecture notes](http://psu-psychology.github.io/psych-260/lectures/2015-08-24-intro.html)
+- Assignment
+    - Read W&B 1:2-19. 
+    
+#### Wed, August 26
 
-#### Wed
+- Topic
+    - History of neuroscience. 
+- Assignments
+    - Review W&B 1:2-19. 
+    - Read <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>. 
+    - Scan <https://faculty.washington.edu/chudler/hist.html> 
 
-History of neuroscience. Review W&B 1:2-19. Read <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>. Scan <https://faculty.washington.edu/chudler/hist.html> 
+#### Fri, August 28
 
-#### Fri
-
-Levels of analysis. Review W&B 2:24. Read [Levels of analysis outline](outlines/levels-of-analysis.md). Optional: Scan [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688).
+- Topic
+    - Levels of analysis. [Lecture notes](lectures/2015-08-28/260-2015-08-28-levels.md)
+- Assignments
+    - Review W&B 2:24. 
+    - Read [Levels of analysis outline](outlines/levels-of-analysis.md). 
+    - Optional
+        - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688).
 
 ### Week 02, August 31 - September 4
 
-#### Mon
+#### Mon, August 31
 
-Methods to the madness. Read W&B 2:42-47; 3:50-54; 3:69-73.
+- Topic
+    - Methods to the madness. [Lecture Notes](lectures/2015-08-31/260-2015-08-31-methods.md).
+- Assignment
+    - Read W&B 2:42-47; 3:50-54; 3:69-73.
 
-#### Wed
+#### Wed, September 2
 
-Neuroanatomy I. Read W&B: 2:29-42. [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
+- Topic
+    - Neuroanatomy I. 
+- Assignment
+    - Read W&B: 2:29-42. 
+    - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 
-#### Fri
+#### Fri, September 4
 
-Neuroanatomy II. Read W&B: 2:29-42. [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
+- Topic
+    - Neuroanatomy II. 
+- Assignment
+    - Read W&B: 2:29-42. 
+    - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 
 ### Week 03, September 7 - 11
 
-#### Mon 
+#### Mon, September 7
 
 **NO CLASS -- LABOR DAY HOLIDAY**
 
-#### Wed
+#### Wed, September 9
 
-Neuroanatomy Lab. [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
+- Topic
+    - Neuroanatomy Lab. 
+    - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 
-#### Fri
+#### Fri, September 11
 
-Cells of the nervous system. Read W&B: 2:22-29. [Cellular outline](outlines/cellular-outline.md)
+- Topic
+    - Cells of the nervous system. 
+- Assignment
+    - Read W&B: 2:22-29. 
+    - [Cellular outline](outlines/cellular-outline.md)
 
 ### Week 04, September 14 - 18
 
-#### Mon
+#### Mon, September 14
 
-**Quiz 1**. Neurophysiology I. Read W&B 3:48-54.
+- Topic
+    - **Quiz 1**. 
+    - Neurophysiology I. 
+- Assignment
+    - Read W&B 3:48-54.
 
-#### Wed
+#### Wed, September 16
 
-Neurophysiology II. Read W&B 3:54-64.
+- Topic
+    - Neurophysiology II. 
+- Assignment
+    - Read W&B 3:54-64.
 
-#### Fri
+#### Fri, September 18
 
-Neurophysiology III. Read W&B 3:64-69
+- Topic
+    - Neurophysiology III. 
+- Assignment
+    - Read W&B 3:64-69
 
 ### Week 05, September 21 - 25
 
-#### Mon
+#### Mon, September 21
 
-Exam 1 review. Read W&B 1:19, 2:46-47, 3:73.
+- Topics
+    - Exam 1 review. 
+- Assignment
+    - Read W&B 1:19, 2:46-47, 3:73.
 
-#### Wed
+#### Wed, September 23
 
 **Exam 1**
 
 #### Fri
 
-Neurochemistry I. Read W&B 4:76-82. [Neurotransmission outline](outlines/neurotransmission-outline.md)
+- Topic
+    - Neurochemistry I. 
+- Assignment
+    -  Read W&B 4:76-82. 
+    -  [Neurotransmission outline](outlines/neurotransmission-outline.md)
 
 ### Week 06, September 28 - October 2
 
-#### Mon
+#### Mon, September 28
 
-Neurochemistry II. Read W&B 4:82-99. [Neurotransmission outline](outlines/neurotransmission-outline.md)
+- Topic
+    - Neurochemistry II. 
+- Assignment
+    - Read W&B 4:82-99. 
+    - [Neurotransmission outline](outlines/neurotransmission-outline.md)
 
-#### Wed
+#### Wed, September 30
 
-Hormones and the brain. Read W&B 8:202-222.
+- Topics
+    - Hormones and the brain. 
+- Assignment
+    - Read W&B 8:202-222.
 
 #### Fri
 
-Sex and the brain. Read W&B 8:223-247.
+- Topic
+    - Sex and the brain. 
+- Assignment
+    - Read W&B 8:223-247.
 
 ### Week 07, October 5 - 9
 
-#### Mon
+#### Mon, October 5
 
-**Quiz 2**. Exam 1 returned.
+- Topics
+    + **Quiz 2**.
+    + Exam 1 returned.
 
-#### Wed
+#### Wed, October 7
 
-Biological rhythms and sleep. Read W&B 10:270-299.
+- Topic
+    - Biological rhythms and sleep. 
+- Assignment
+    - Read W&B 10:270-299.
 
-#### Fri
+#### Fri, October 9
 
-Evolution of the human brain. Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+- Topic
+    - Evolution of the human brain. 
+- Assignment
+    - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
 ### Week 08, October 12 - 16
 
-#### Mon
+#### Mon, October 12
 
-From evolution to development. Read W&B 13:387-392.
+- Topic
+    - From evolution to development. 
+- Assignment
+    - Read W&B 13:387-392.
 
-#### Wed
+#### Wed, October 14
 
-Exam 2 review. 
+- Topic
+    - Exam 2 review. 
 
-#### Fri
+#### Fri, October 16
 
 **Exam 2**
 
 ### Week 09, October 19 - 23
 
-#### Mon
+#### Mon, October 19
 
-Emotion. Read W&B 11:302-315.
+- Topic
+    - Emotion. 
+- Assignment
+    - Read W&B 11:302-315.
 
-#### Wed
+#### Wed, October 21
 
-Aggression and stress. Read W&B 11:316-324.
+- Topic
+    - Aggression and stress. 
+- Assignment
+    - Read W&B 11:316-324.
 
-#### Fri
+#### Fri, October 23
 
-Psychopathology I. Read W&B 12:326-340.
+- Topic
+    - Psychopathology I. 
+- Assignment
+    - Read W&B 12:326-340.
 
 ### Week 10, October 26 - 30
 
-#### Mon
+#### Mon, October 26
 
-Psychopathology II. Read W&B 12:340-352.
+- Topic
+    - Psychopathology II. 
+- Assignment
+    - Read W&B 12:340-352.
 
-#### Wed
+#### Wed, October 28
 
-Drugs & Addiction. Read W&B 4:89-103.
+- Topic
+    - Drugs & Addiction. 
+- Assignment
+    - Read W&B 4:89-103.
 
 #### Fri
 
-**Quiz 3**. Exam 2 returned.
+- Topics
+    - **Quiz 3**. 
+    - Exam 2 returned.
 
 ### Week 11, November 2 - 6
 
-#### Mon
+#### Mon, November 2
 
-Sensory systems. Read W&B 5:106-114.
+- Topic
+    - Sensory systems. 
+- Assignment
+    - Read W&B 5:106-114.
 
-#### Wed
+#### Wed, November 4
 
-Somatosensation. Read W&B 5:114-122.
+- Topic
+    - Somatosensation. 
+- Assignment
+    - Read W&B 5:114-122.
 
-#### Fri
+#### Fri, November 6
 
-Action I. Read W&B 5:122-131.
+- Topic
+    - Action I. 
+- Assignment
+    - Read W&B 5:122-131.
 
 ### Week 12, November 9 - 13
 
-#### Mon
+#### Mon, November 9
 
-Action II. Read W&B 5:131-138.
+- Topic
+    - Action II. 
+- Assignment
+    - Read W&B 5:131-138.
 
-#### Wed
+#### Wed, November 11
 
-Audition. Read W&B 6:140-156.
+- Topic
+    - Audition. 
+- Assignment
+    - Read W&B 6:140-156.
 
-#### Fri
+#### Fri, November 13
 
-Vision I. Read W&B 7:168-180.
+- Topic
+    - Vision I. 
+- Assignment
+    - Read W&B 7:168-180.
 
 ### Week 13, November 16 - 20
 
-#### Mon
+#### Mon, November 16
 
-Vision II. Read W&B 7:180-201.
+- Topic
+    - Vision II. 
+- Assignment
+    - Read W&B 7:180-201.
 
-#### Wed
+#### Wed, November 18
 
-Exam 3 review
+- Topic
+    - Exam 3 review
 
 #### Fri
 
@@ -245,31 +355,42 @@ Exam 3 review
 
 ### Week 15, November 30 - December 4
 
-#### Mon
+#### Mon, November 30
 
-Speed of Nervous System Conduction Lab.
+- Topic
+    - Speed of Nervous System Conduction Lab.
 
-#### Wed
+#### Wed, December 2
 
-Learning & memory I. Read W&B 13:354-370.
+- Topic
+    - Learning & memory I. 
+- Assignment
+    - Read W&B 13:354-370.
 
-#### Fri
+#### Fri, December 4
 
-Learning & memory II. Read W&B 13:370-379.
+- Topic
+    - Learning & memory II. 
+- Assignment
+    - Read W&B 13:370-379.
 
 ### Week 16, December 7 - 11
 
-#### Mon
+#### Mon, December 7
 
-Quiz 4; Return Exam 3
+- Topic
+    - Quiz 4
+    - Return Exam 3
 
-#### Wed
+#### Wed, December 9
 
-Review for Exam 4
+- Topic
+    - Review for Exam 4
 
-#### Fri
+#### Fri, December 11
 
-The Cerebral Symphony
+- Topic
+    - The Cerebral Symphony
 
 ### Week 17, December 14 - 18
 
