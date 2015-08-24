@@ -70,7 +70,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Wed, August 26
 
 - Topic
-    - History of neuroscience. 
+    - History of neuroscience.
+    - [Lecture notes](lectures/2015-08-26/260-2015-08-26-history.md) 
 - Assignments
     - Review W&B 1:2-19. 
     - Read <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>. 
@@ -79,7 +80,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Fri, August 28
 
 - Topic
-    - Levels of analysis. [Lecture notes](lectures/2015-08-28/260-2015-08-28-levels.md)
+    - Levels of analysis. 
+    - [Lecture notes](lectures/2015-08-28/260-2015-08-28-levels.md)
 - Assignments
     - Review W&B 2:24. 
     - Read [Levels of analysis outline](outlines/levels-of-analysis.md). 
