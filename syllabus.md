@@ -192,7 +192,7 @@ These outlines are a convenient way to organize and review some of the course ma
     - Read W&B 4:82-99. 
     - [Neurotransmission outline](outlines/neurotransmission-outline.md)
 
-#### Fri
+#### Fri, October 2
 
 - Topics
     - Hormones and the brain. 
