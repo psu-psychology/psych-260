@@ -81,7 +81,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Levels of analysis. 
-    - Lecture Notes. [PDF](lectures/2015-08-28/260-2015-08-28-levels.pdf), [HTML](https://raw.githubusercontent.com/psu-psychology/psych-260/lectures/2015-08-28/260-2015-08-28-levels.html).
+    - Lecture Notes. [PDF](lectures/2015-08-28/260-2015-08-28-levels.pdf), [HTML](http://htmlpreview.github.io/?https://raw.githubusercontent.com/psu-psychology/psych-260/lectures/2015-08-28/260-2015-08-28-levels.html).
 - Assignments
     - Review W&B 2:24. 
     - Read [Levels of analysis outline](outlines/levels-of-analysis.md). 
