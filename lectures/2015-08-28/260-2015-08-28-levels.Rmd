@@ -23,6 +23,12 @@ bibliography: bibliography.bib
 - Case Studies
 - Systems Thinking
 
+## Replicability in Psychological Science
+
+[@bohannon_many_2015], <http://dx.doi.org/10.1126/science.349.6251.910>
+
+[collaboration_estimating_2015], <http://dx.doi.org/10.1126/science.aac4716>
+
 ## Spatial resolution
 
 <div class="centered">
