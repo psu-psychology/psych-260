@@ -93,7 +93,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, August 31
 
 - Topic
-    - Methods to the madness. [Lecture Notes](lectures/2015-08-31/260-2015-08-31-methods.md).
+    - Methods to the madness. 
+    - Lecture Notes. [Markdown](lectures/2015-08-31/260-2015-08-31-methods.Rmd). [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-08-31/260-2015-08-31-methods.html#1). [PDF](lectures/lectures/2015-08-31/260-2015-08-31-methods.pdf).
 - Assignment
     - Read W&B 2:42-47; 3:50-54; 3:69-73.
 

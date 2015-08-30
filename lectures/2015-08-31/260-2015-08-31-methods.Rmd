@@ -1,0 +1,341 @@
+---
+title: "260-2015-08-28-methods"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+    incremental: true
+  beamer_presentation: default
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+  bibliography: bibliography.bib
+---
+
+## Today's Topics
+
+- Methods to the madness
+- Tools in the neuroscientist’s toolkit
+- What they tell us, and what they don’t
+
+## Evaluating methods 
+
+- What is the question?
+- What are we measuring?
+    + Structure
+    + Activity
+- Strengths & Weaknesses
+    + Cost
+    + Invasiveness
+    + Spatial/temporal resolution
+
+## Spatial and Temporal Resolution
+
+<div class="centered">
+[@sejnowski2014putting]
+
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+</div>
+
+## Types of methods
+
+- Structural
+    + Mapping the circuitry
+    + Anatomy
+- Functional
+    + What does it do?
+    + Physiology/Activity
+
+## ￼Mapping structures
+
+- Cell/axon stains
+    + Golgi stain -- whole cells
+    + Cellular distribution, concentration, microanatomy
+
+<div class="centered">
+<img src="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg" height="400px"/>
+
+<http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg>
+</div>
+
+## Retrograde vs. anterograde tracers
+
+- What connects where
+
+<div class="centered">
+<img src="http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png" height="500px"/>
+
+<http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png>
+</div>
+
+## Mapping structures
+
+- Computed axial tomography (CAT), CT
+- X-ray based
+
+## Tomography
+
+<div class="centered">
+<img src="http://img.tfd.com/mk/T/X2604-T-22.png" height="400px"/>
+
+<http://img.tfd.com/mk/T/X2604-T-22.png>
+</div>
+
+## Tomography
+
+<div class="centered">
+<img src="http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg"/>
+
+<http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg>
+</div>
+
+## Magnetic Resonance Imaging (MRI)
+
+- Magnetic resonance
+- Protons have spin (magnetic dipole)
+- Align with strong magnetic field
+- When perturbed, speed of realignment varies by tissue
+- Realignment gives off radio frequency signals
+
+## MRI
+
+<div class="centered">
+<img src="http://s.hswstatic.com/gif/mri-steps.jpg"/>
+
+<http://s.hswstatic.com/gif/mri-steps.jpg>
+</div>
+
+## Structural MRI
+
+- Tissue density/type differences
+- Gray vs. white - Axon fibers
+- Spectroscopy
+- Region sizes/volumes
+
+## Diffusion tensor imaging (DTI)
+
+<div class="centered">
+<img src="https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg"/>
+
+<https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg>
+</div>
+
+## Voxel-based morphometry (VBM)
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg">
+
+<http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg>
+</div>
+
+## Functional methods
+
+- Recording from the brain 
+- Interfering with the brain 
+- Stimulating the brain
+
+## ￼Recording from the brain
+
+- Single/multi unit recording
+- Microelectrodes
+- Small numbers of nerve cells
+
+## Single/multi-unit Recording
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg"/>
+
+<http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg>
+</div>
+
+## Single/multi-unit recording
+
+- What does neuron X respond to?
+- Great temporal (ms), spatial resolution (um)
+- Invasive
+- Rarely suitable for humans, but...
+
+## Electrocorticography
+
+<div class="centered">
+<img src="http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg"/>
+
+<http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg>
+</div>
+
+## Positron Emission Tomography (PET)
+
+- Radioactive tracers (glucose, oxygen)
+- Positron decay
+- Experimental condition - control
+- Average across individuals
+- Evaluating PET
+    + Temporal (~ s) and spatial (mm-cm) resolution worse than fMRI
+    + Radioactive exposures + mildly invasive 
+    + Dose < airline crew exposure in 1 yr
+
+## Functional Magnetic Resonance Imaging (fMRI)
+
+- Neural activity -> local O^^2 consumption increase
+- Blood Oxygen Level Dependent (BOLD) response
+    + Oxygenated vs. deoxygenated hemoglobin
+    + Do regional blood O^^2 levels (and flow) vary with behavior X?
+- Evaluating
+    + Non-invasive, but expensive
+    + Moderate but improving (mm) spatial, temporal (~sec) resolution
+- Hemodynamic Response Function
+    + 1s delay plus 3-6 s ramp-up
+
+## Hemodynamic Response Function (HRF)
+
+<div class="centered">
+<img src="http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png"/>
+
+<http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png>
+</div>
+
+## Electroencephalography (EEG)
+
+- How does it work?
+- Electrodes on scalp or brain surface
+- What do we measure?
+- Combined activity of huge # of neurons
+
+## EEG
+
+<div class="centered">
+<img src="http://sfari.org/images/images-2013-folder/images-sfn-2013/20131110sfneeg"/>
+
+<http://sfari.org/images/images-2013-folder/images-sfn-2013/20131110sfneeg>
+</div>
+
+## EEG
+
+- High temporal, poor spatial resolution
+- Analyze frequency bands
+    + LOW: deep sleep
+    + MIDDLE: Quiet, alert state
+    + HIGH:“Binding” information across senses
+  
+## EEG Frequency
+
+<div class="centered">
+<img src="http://www.peakmind.co.uk/images/frequency.jpg"/>
+
+<http://www.peakmind.co.uk/images/frequency.jpg>
+</div>
+
+## Event-related potentials (ERPs)
+
+- EEGs time-locked to some event - Averaged over many trials
+
+## ERPs
+
+<div class="centered">
+<img src="http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif"/>
+
+<http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif>
+</div>
+
+## [Brain Computer Interface (BCI)](http://computer.howstuffworks.com/brain-computer-interface.htm)
+
+<div class="centered">
+<img src="http://s.hswstatic.com/gif/brain-computer-interface-3.gif"/>
+
+<http://s.hswstatic.com/gif/brain-computer-interface-3.gif>
+</div>
+
+## Magneto-encephalography (MEG)
+
+- Like EEG, but measuring magnetic fields
+- High temporal resolution
+- Magnetic field propagates w/o distortion
+
+## MEG
+
+<div class="centered">
+<img src="http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg" height="500px"/>
+
+<http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg>
+</div>
+
+## Manipulating the brain
+
+- Nature’s “experiments”
+    + Stroke, head injury, tumor
+    + Neuropsychology
+- Logic: damage impairs performance = region critical for behavior
+- Poor spatial/temporal resolution, limited experimental control
+
+## Phineas Gage
+
+<div class="centered">
+<img src="http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png" height="500px"/>
+
+<http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png>
+</div>
+
+## ￼Stimulating the brain
+
+- Pharmacological
+- Electrical (transcranial Direct Current Stimulation - tDCS)
+- Magnetic (Transcranial magnetic stimulation - TMS)
+
+## tDCS
+
+<div class="centered">
+<img src="http://sci2.haifa.ac.il/faculty/kaphzan/images/stories/tdcs%20stimulation2.jpg" width="700px"/>
+
+<http://sci2.haifa.ac.il/faculty/kaphzan/images/stories/tdcs%20stimulation2.jpg>
+
+</div>
+
+## TMS
+
+<div class="centered">
+<img src="http://www.med.upenn.edu/lcns/images/TMS.jpg"/>
+
+<http://www.med.upenn.edu/lcns/images/TMS.jpg>
+</div>
+
+## Evaluating stimulation methods
+
+- Spatial/temporal resolution?
+    + Assume stimulation mimics natural activity?
+- Deep brain stimulation as therapy
+    + Parkinson’s Disease 
+    + Depression 
+    + Epilepsy
+
+## Deep brain stimulation
+
+<div class="centered">
+<img src="http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/dbs_60715_3.jpg"/>
+
+<http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/dbs_60715_3.jpg>
+</div>
+
+## ￼Simulating the brain
+
+- Computer/mathematical models of brain function
+- Example: neural networks
+- Cheap, noninvasive, can be stimulated or “lesioned”
+
+## Growing a brain
+
+<div class="centered">
+<http://www.kurzweilai.net/most-complete-functioning-human-brain-model-to-date-according-to-researchers>
+
+<img src="http://www.kurzweilai.net/images/organoid-derivation-development.jpg" width="700px"/>
+
+<http://www.kurzweilai.net/images/organoid-derivation-development.jpg>
+</div>
+
+## ￼Main points
+
+- Multiple structural, functional methods
+- Different levels of spatial and temporal resolution
+- Goal is converging evidence
