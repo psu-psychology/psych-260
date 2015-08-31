@@ -53,6 +53,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 ---
 
+*Note: If the reading assignment says 'W&B 1:2-19' that means read the Watson and Breedlove text Chapter 1, pages 2 through 19.*
+
 ## Schedule
 
 [PSU Academic Calendar](http://registrar.psu.edu/academic_calendar/fall15.cfm)
