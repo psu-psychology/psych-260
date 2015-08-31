@@ -17,8 +17,8 @@ output:
 
 ## Announcements
 
-- **NO CLASS* this Monday, 9/7
-- **Quiz 1**, Monday 9/14
+- **NO CLASS** this Monday, 9/7
+- **Quiz 1** on Monday 9/14
 - **Exam 1** moved to Friday 9/25.
 
 ## Today's Topics
