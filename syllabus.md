@@ -15,8 +15,9 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 ### Teaching Assistant
 
 **Erin Guty**</br>
-Graduate Assistant
+Graduate Assistant</br>
 <exg5204@psu.edu>
+Office hours Tuesdays 1:00-2:15pm or by appointment
 
 ## Meeting Location and Time
 
