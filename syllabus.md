@@ -105,7 +105,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Wed, September 2
 
 - Topic
-    - Neuroanatomy I. 
+    - Neuroanatomy I.
+    - Lecture Notes. [Markdown](lectures/2015-09-01/260-2015-09-01-anatomy-I.Rmd). [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-01/260-2015-09-01-anatomy-I.html#1). [PDF](https://github.com/psu-psychology/psych-260/blob/master/lectures/2015-09-01/260-2015-09-01-anatomy-I.pdf)
 - Assignment
     - Read W&B: 2:29-42. 
     - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
