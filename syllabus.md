@@ -136,7 +136,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Cells of the nervous system. 
-    - Lecture notes.[Markdown](lectures/2015-09-11/260-2015-09-11-cells.Rmd). [HTML](https://rawgit.com/psych-260/master/lectures/2015-09-11/260-2015-09-11-cells.html#1). [PDF](https://rawgit.com/psych-260/master/lectures/2015-09-11/260-2015-09-11-cells.pdf).
+    - Lecture notes.[Markdown](lectures/2015-09-11/260-2015-09-11-cells.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-11/260-2015-09-11-cells.html). [PDF](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-11/260-2015-09-11-cells.pdf).
 - Assignment
     - Read W&B: 2:22-29. 
     - [Cellular outline](outlines/cellular-outline.md)
