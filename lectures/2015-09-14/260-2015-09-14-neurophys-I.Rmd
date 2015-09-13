@@ -28,9 +28,9 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allowfullscreen></iframe>
 
-## EyeWire.org
+## Crowd-sourcing anatomy research with [EyeWire](http://eyewire.org)
 
-<http://eyewire.org>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zMmjGExpDP8" frameborder="0" allowfullscreen></iframe>
 
 ## Neural communication
 
