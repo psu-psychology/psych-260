@@ -147,7 +147,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - **Quiz 1**. 
-    - Neurophysiology I. 
+    - Neurophysiology I.
+    - Lecture notes. [Markdown](lectures/2015-09-14/260-2015-09-14-neurophys-I.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-14/260-2015-09-14-neurophys-I.html). [PDF](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-14/260-2015-09-14-neurophys-I.pdf).
 - Assignment
     - Read W&B 3:48-54.
 
