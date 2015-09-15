@@ -20,7 +20,7 @@ output:
 
 ## Today's Topics
 
-- Go over Quiz 1
+- Go over [Quiz 1](https://rawgit.com/psu-psychology/psych-260/master/quiz/psych-260-quiz-1.pdf)
 - Neurophysiology
 
 ## Neural communication
