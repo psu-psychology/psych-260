@@ -21,6 +21,7 @@
 ### Planes of section
 
 - Sagittal
+    + From the *S*ide.
 - Coronal/Transverse
 - Horizontal/Axial
 
@@ -79,36 +80,44 @@
                     - to brainstem, spinal cord: 5
                     - to thalamus: 6                  
             - White matter - interior
-
     - Basal ganglia
         - Striatum
             - Caudate
             - Putamen
         - Globus Pallidus
         - Sub-thalamic nucleus
+        - Substantia nigra (but see midbrain tegmentum)
     - Hippocampus
     - Amygdala
 
 - Diencephalon
     - Thalamus
         - Lateral geniculate nucleus (LGN)
+            + Visual info via optic/2nd/II cranial nerve
         - Medial geniculate nucleus (MGN)
+            + Auditory info from inferior colliculus
         - Pulvinar
     - Hypothalamus
         + Hypodermic goes under the skin, so hypthalamus is under the ...
-    - Pituitary gland
+        + Pituitary gland (anterior landmark)
             + Anterior
             + Posterior
-    - Mammillary bodies
+        + Mammillary bodies (posterior landmark)
 
 #### Midbrain (mesencephalon)
 
-- Tectum (roof)
+- Tectum (roof)/dorsal surface
     - Superior colliculus
+        + Reflexive orienting of head, eyes, ears
     - Inferior colliculus
-- Tegmentum (floor)
+        + Auditory processing
+- Tegmentum (floor)/ventral surface
     - Substantia nigra, "black stuff"
+        + Degenerates in Parkinson's Disease
     - Ventral tegmental area
+- Pineal gland
+    + Secretes melatonin
+    + *Not* motor control center as Descartes presumed.
 
 #### Hindbrain (rhombencephalon)
 

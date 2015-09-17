@@ -164,7 +164,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Fri, September 18
 
 - Topic
-    - Neurophysiology III. 
+    - Neurophysiology II.
+    - Lecture notes. [Markdown](lectures/2015-09-18/260-2015-09-18-neurophys-II.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-18/260-2015-09-18-neurophys-II.html). [PDF](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-18/260-2015-09-18-neurophys-II.pdf). 
 - Assignment
     - Read W&B 3:64-69
 
