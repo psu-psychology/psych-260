@@ -81,8 +81,8 @@ output:
 ## Question
 
 - The electrostatic force tends to
-    + Pull K+ in
-    + **Push K+ out**
+    + **Pull K+ in**
+    + Push K+ out
 
 ## Question
 
@@ -93,8 +93,8 @@ output:
 ## Question
 
 - The electrostatic force tends to
-    + Pull Na+ in
-    + **Push Na+ out**
+    + **Pull Na+ in**
+    + Push Na+ out
     
 ## Action potential
 
