@@ -173,7 +173,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, September 21
 
 - Topics
-    - Exam 1 review. 
+    - Exam 1 review.
+    - Lecture notes. [Markdown](lectures/2015-09-21/260-2015-09-21-exam-1-review.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-21/260-2015-09-21-exam-1-review.html).
 - Assignment
     - Read W&B 1:19, 2:46-47, 3:73.
 
