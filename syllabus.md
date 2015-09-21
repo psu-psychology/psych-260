@@ -40,7 +40,8 @@ Watson, N.V. & Breedlove, S.M. (2012). The Minds's Machine. Sinauer: Sunderland,
 
 ### Web links
 
-Course home page: <http://psu-psych.github.io/psych-260></br>
+Course syllbus: <https://github.com/psu-psychology/psych-260/blob/master/syllabus.md></br>
+Course repository: <https://github.com/psu-psychology/psych-260></br>
 BrainFacts.org from The Society for Neuroscience: <http://www.brainfacts.org>
 
 ## Outlines
