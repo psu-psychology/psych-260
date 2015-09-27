@@ -192,7 +192,9 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, September 28
 
 - Topic
-    - Neurochemistry I. 
+    - Neurochemistry I.
+    - Lecture notes. [Markdown](lectures/2015-09-28/260-2015-09-28-neurochem-I.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-28/260-2015-09-28-neurochem-I.html).
+
 - Assignment
     -  Read W&B 4:76-82. 
     -  [Neurotransmission outline](outlines/neurotransmission-outline.md)
