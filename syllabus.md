@@ -212,7 +212,7 @@ These outlines are a convenient way to organize and review some of the course ma
     - Hormones and the brain. 
 - Assignment
     - Read W&B 8:202-222.
-    - 
+
 ### Week 07, October 5 - 9
 
 #### Mon, October 5
