@@ -202,6 +202,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neurochemistry II. 
+    - Lecture notes. [Markdown](lectures/2015-09-30/260-2015-09-30-neurochem-II.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures2015-09-30/260-2015-09-30-neurochem-II.html).
 - Assignment
     - Read W&B 4:82-99. 
     - [Neurotransmission outline](outlines/neurotransmission-outline.md)

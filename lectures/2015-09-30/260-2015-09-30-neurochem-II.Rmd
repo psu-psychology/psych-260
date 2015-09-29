@@ -1,0 +1,305 @@
+---
+title: "260-2015-09-30-neurochem-II"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bibliography.bib
+output:
+  ioslides_presentation:
+    css: gilmore.css
+    incremental: false
+    widescreen: true
+  beamer_presentation:
+    pandoc_args: [
+      "--latex-engine=xelatex"
+    ]
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+---
+
+## Today's Topics
+
+- Synaptic communication
+- Neurotransmitters
+
+## Synapses on
+
+- dendrites
+    + usually excitatory 
+- cell bodies
+    + usually inhibitory 
+- axons 
+    + usually modulatory (change p(fire))
+
+## Summary of chemical transmission
+
+<div class="centered">
+<img src="https://classconnection.s3.amazonaws.com/94/flashcards/1500094/jpg/chemical_synapse1355159626230.jpg" height=450px>
+</div>
+
+## Neurotransmiters
+
+| Family      | Neurotansmitter                     |
+|-------------|-------------------------------------|
+| Amino acids | *Glutamate (Glu)*                   |
+|             | *Gamma aminobutyric acid (GABA)*      |
+|             | *Glycine*                             |
+|             | *Aspartate*                           |
+
+## Glutamate
+
+- Primary excitatory NT in CNS
+- Role in learning (via NMDA)
+- Receptors on neurons and glia (astrocytes and oligodendrocytes)
+- Linked to umami (savory) taste sensation, think MSG
+- Dysregulation in schizophrenia? [@javitt2010glutamatergic]
+
+## Glutamate
+
+| Type         | Receptor   | Esp Permeable to |
+|--------------|------------|------------------|
+| Ionotropic   | *AMPA*       | Na+, K+          |
+|              | Kainate    |                  |
+|              | *NMDA*       | Ca+              |
+| Metabotropic | mGlu       |                  |
+
+## GABA
+
+- Primary inhibitory NT in CNS
+- Excitatory in developing CNS, [Cl-] in >> [Cl-] out
+- Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.
+
+| Type         | Receptor   | Esp Permeable to |
+|--------------|------------|------------------|
+| Ionotropic   | *GABA-A*     | Cl-              |
+| Metabotropic | *GABA-B*     | K+            |
+
+## GABA
+
+<div class="centered">
+<p><a href="https://commons.wikimedia.org/wiki/File:GABAA-receptor-protein-example.png#/media/File:GABAA-receptor-protein-example.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/GABAA-receptor-protein-example.png/1200px-GABAA-receptor-protein-example.png" alt="GABAA-receptor-protein-example.png" width=450px></a><br>"<a href="https://commons.wikimedia.org/wiki/File:GABAA-receptor-protein-example.png#/media/File:GABAA-receptor-protein-example.png">GABAA-receptor-protein-example</a>" by <a href="//en.wikipedia.org/wiki/User:Chemgirl131" class="extiw" title="wikipedia:User:Chemgirl131">Chemgirl131</a> at <a href="//en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a> - Transferred from&nbsp;<span class="plainlinks"><a class="external text" href="http://en.wikipedia.org">en.wikipedia</a></span>&nbsp;to Commons&nbsp;by&nbsp;<a href="//commons.wikimedia.org/wiki/User:Sreejithk2000" title="User:Sreejithk2000">Sreejithk2000</a>&nbsp;using <a href="//tools.wmflabs.org/commonshelper/" class="extiw" title="toollabs:commonshelper/">CommonsHelper</a>.. Licensed under Public Domain via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.</p>
+</div>
+
+## Other amino acid NTs
+
+- *Aspartate*
+    + Like Glu, stimulates NMDA receptor
+- *Glycine*
+    + Spinal cord interneurons
+
+## Acetylcholine (ACh)
+
+- Primary NT of CNS output
+- Somatic nervous system (neuromuscular junction)
+- Autonomic nervous system
+    + Sympathetic branch: preganglionic neuron
+    + Parasympathetic branch: pre/postganglionic
+    
+## ACh anatomy
+
+<div class="centered">
+<img src="http://myzone.hrvfitltd.netdna-cdn.com/wp-content/uploads/2014/09/Image-1.jpg" width=450px>
+
+<http://myzone.hrvfitltd.netdna-cdn.com/wp-content/uploads/2014/09/Image-1.jpg>
+</div>
+
+## Acetylcholine
+
+| Type         | Receptor           | Esp Permeable to | Blocked by       |
+|--------------|--------------------|------------------|------------------|
+| Ionotropic   | Nicotinic (nAChR)  | Na+, K+          | e.g., Curare     |
+| Metabotropic | Muscarinic (mAChR) | K+               | e.g., Atropine   |
+
+## Curare
+
+<div class="centered">
+<img src="http://www.general-anaesthesia.com/images/indian-curare.jpg" width=450px>
+
+<http://www.general-anaesthesia.com/images/indian-curare.jpg>
+</div>
+
+## Atropine
+
+- aka, nightshade or belladonna
+
+<div class="centered">
+<img src="http://www.aapos.org/client_data/files/2011/_138_dilatingeyedrops2.jpg">
+
+<http://www.aapos.org/client_data/files/2011/_138_dilatingeyedrops2.jpg>
+</div>
+
+## Monoamine NTs
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Monoamines  | Dopamine (DA)                           |
+|             | Norepinephrine (NE)/Noradrenaline (NAd) |
+|             | Epinephrine (Epi)/Adrenaline (Ad)       |
+|             | Serotonin (5-HT)                        |
+|             | Melatonin                               |
+|             | Histamine                               |
+
+## Monoamine Song
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gsjcb7w1Y-w" frameborder="0" allowfullscreen></iframe>
+
+<https://en.wikipedia.org/wiki/Mah_Nà_Mah_Nà>
+
+## Monoamine Song
+
+￼Monoamines, do-do do do-do</br>
+Monoamines, do do do-do</br>
+Monoamines, do do do do-do do do-do do do-do do do do do-do do
+
+## Monoamine Song
+
+￼Monoamines, do-pa-mine is one</br>
+Monoamines, norepi, too</br>
+Monoamines, sero-tonin e-pinephrine, dop-a- mine, nor-epinephrine, melatonin, whoo!
+
+## Monoamine Song
+
+Monoamines, mod-u-late neurons </br>
+Monoamines, throughout the brain</br>
+Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
+
+## Information processing
+
+- Point-to-point
+    + One sender, small number of recipients
+    + Glu, GABA
+- Broadcast
+    + One sender, widespread recipients
+    + DA, NE, 5-HT, melatonin, histamine
+- Need to know
+    + NT, where projecting, type of receptor to predict function
+
+## Dopamine
+
+- Released by
+    + Substantia nigra -> striatum, *meso-striatal projection*
+    + Ventral tegmental area (VTA) -> nucleus accumbens, ventral striatum, hippocampus, amygdala, cortex; *meso-limbo-cortical projection*
+
+## DA Disruption linked to
+
+- Parkinson's Disease (mesostriatal)
+    + DA agonists treat (agonists facilitate/increase transmission)
+- ADHD (mesolimbocortical)
+- Schizophrenia (mesolimbocortical)
+    + DA antagonists treat
+- Addiction (mesolimbocortical)
+
+## DA Inactivated by 
+
+- Dopamine transporter (DAT) and chemical breakdown
+    
+<http://www.scholarpedia.org/article/Dopamine_anatomy#Dopamine_receptors>
+    
+## Dopamine receptors
+
+| Type         | Receptor             | Comments                      |
+|--------------|----------------------|-------------------------------|
+| Metabotropic | D1-like (D1 and D5)  | more prevalent                |
+|              | D2-like (D2, D3, D4) | target of many antipsychotics |
+
+## Norepinephrine
+
+- Released by 
+    + *[locus coeruleus](http://www.scholarpedia.org/article/Locus_coeruleus)* in pons
+    + postganglionic sympathetic neurons onto target tissues
+- Role in arousal, mood, eating, sexual behavior
+
+
+## NE and Monoamine oxidase inhibitors (MAOIs)
+
+- inactivate monoamines in neurons, astrocytes
+- MAOIs increase NE, DA
+- Treatment for depression, but have side effects
+    
+## NE Anatomy
+
+<div class="centered">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg">
+
+<https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg>
+</div>
+
+## NE receptors
+
+| Type         | Receptor             | Comments                           |
+|--------------|----------------------|------------------------------------|
+| Metabotropic | $\alpha$ (1,2)       | antagonists treat anxiety, panic   |
+|              | $\beta$ (1,2,3)      | 'beta blockers' in cardiac disease |
+
+## Serotonin (5-HT)
+
+- Released by *raphe nuclei* in brainstem
+- Role in mood, sleep, eating, pain, nausea, cognition, memory
+- Modulates release of other NTs
+- Most of body's 5-HT regulates digestion
+
+## 5-HT anatomy
+
+<div class="centered">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg">
+
+<https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg>
+</div>
+
+## 5-HT receptors
+
+- Seven families (5-HT 1-7) with 14 types
+- All but one metabotropic
+
+## 5-HT clinical significance
+
+- Ecstasy (MDMA) disturbs serotonin
+- So does LSD
+- Fluoxetine (Prozac)
+    + *Selective Serotonin Reuptake Inhibitor (SSRI)*
+    + Treats depression, panic, eating disorders, others
+- 5-HT3 receptor antagonists are anti-mimetics used in treating nausea
+
+## Melatonin
+
+- Released by pineal gland
+
+<div class="centered">
+<img src="http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg">
+<http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg>
+
+</div>
+
+## Histamine
+- Released by hypothalamus, project to whole brain
+- Metabotropic receptors
+- Role in arousal/sleep regulation
+- In body, part of immune response
+
+## Targets of psychotropic drugs
+
+<div class="centered">
+<img src="img/psychotropic-drug-targets.jpg" width=450px>
+
+<https://stahlonline.cambridge.org/essential_4th_chapter.jsf?page=chapter2_summary.htm&name=Chapter%202&title=Summary>
+</div>
+
+## Other NTs
+
+- Gases
+    + *Nitric Oxide (NO)*, *carbon monoxide (CO)*
+- Neuropeptides
+    + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
+    + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulates appetite, arousal
+    + *Cholecystokinin (CCK)* stimulates digestion
+    
+## Other NTs
+
+- Purines
+    + *Adenosine* (inhibited by caffeine)
+- Others
+    + *Anandamide* (activates endogenous cannabinoid receptors)
+
+## References
