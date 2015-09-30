@@ -86,7 +86,7 @@ output:
 |--------------|------------|------------------|
 | Ionotropic   | *AMPA*       | Na+, K+          |
 |              | Kainate    |                  |
-|              | *NMDA*       | Ca+              |
+|              | *NMDA*       | Ca++              |
 | Metabotropic | mGlu       |                  |
 
 ## GABA
@@ -134,8 +134,8 @@ output:
 
 | Type         | Receptor           | Esp Permeable to | Blocked by       |
 |--------------|--------------------|------------------|------------------|
-| Ionotropic   | Nicotinic (nAChR)  | Na+, K+          | e.g., Curare     |
-| Metabotropic | Muscarinic (mAChR) | K+               | e.g., Atropine   |
+| Ionotropic   | *Nicotinic (nAChR)*  | Na+, K+          | e.g., Curare     |
+| Metabotropic | *Muscarinic (mAChR)* | K+               | e.g., Atropine   |
 
 ## Curare
 
@@ -205,14 +205,12 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 | Family      | Neurotansmitter                         |
 |-------------|-----------------------------------------|
-| Monoamines  | Dopamine (DA)                           |
-|             | Norepinephrine (NE)/Noradrenaline (NAd) |
-|             | Epinephrine (Epi)/Adrenaline (Ad)       |
-|             | Serotonin (5-HT)                        |
-|             | Melatonin                               |
-|             | Histamine                               |
-
-
+| Monoamines  | *Dopamine (DA)*                           |
+|             | *Norepinephrine (NE)/Noradrenaline (NAd)* |
+|             | *Epinephrine (Epi)/Adrenaline (Ad)*       |
+|             | *Serotonin (5-HT)*                        |
+|             | *Melatonin*                               |
+|             | *Histamine*                               |
 
 ## Dopamine
 
@@ -239,8 +237,8 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 | Type         | Receptor             | Comments                      |
 |--------------|----------------------|-------------------------------|
-| Metabotropic | D1-like (D1 and D5)  | more prevalent                |
-|              | D2-like (D2, D3, D4) | target of many antipsychotics |
+| Metabotropic | *D1-like (D1 and D5)*  | more prevalent                |
+|              | *D2-like (D2, D3, D4)* | target of many antipsychotics |
 
 ## Norepinephrine
 
@@ -315,14 +313,6 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Metabotropic receptors
 - Role in arousal/sleep regulation
 - In body, part of immune response
-
-## Targets of psychotropic drugs
-
-<div class="centered">
-<img src="img/psychotropic-drug-targets.jpg" width=450px>
-
-<https://stahlonline.cambridge.org/essential_4th_chapter.jsf?page=chapter2_summary.htm&name=Chapter%202&title=Summary>
-</div>
 
 ## Other NTs
 
