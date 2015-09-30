@@ -52,7 +52,7 @@ output:
 
 - Primary excitatory NT in CNS
 - Role in learning (via NMDA)
-- Receptors on neurons and glia (astrocytes and oligodendrocytes)
+- Transporters on neurons and glia (astrocytes and oligodendrocytes)
 - Linked to umami (savory) taste sensation, think MSG
 - Dysregulation in schizophrenia? [@javitt2010glutamatergic]
 
@@ -96,6 +96,7 @@ output:
 - Autonomic nervous system
     + Sympathetic branch: preganglionic neuron
     + Parasympathetic branch: pre/postganglionic
+- Inactivation by acetylcholinesterase (ACh)
     
 ## ACh anatomy
 
@@ -130,16 +131,27 @@ output:
 <http://www.aapos.org/client_data/files/2011/_138_dilatingeyedrops2.jpg>
 </div>
 
-## Monoamine NTs
+## How to stop your prey
 
-| Family      | Neurotansmitter                         |
-|-------------|-----------------------------------------|
-| Monoamines  | Dopamine (DA)                           |
-|             | Norepinephrine (NE)/Noradrenaline (NAd) |
-|             | Epinephrine (Epi)/Adrenaline (Ad)       |
-|             | Serotonin (5-HT)                        |
-|             | Melatonin                               |
-|             | Histamine                               |
+| Substance | Effect |
+|-----------|--------|
+| Japanese pufferfish toxin | Blocks voltage-gated Na+ channels |
+| Black widow spider venom | Accelerates presynaptic ACh release |
+| Botulinum toxin | Prevents ACh vesicles from binding presynaptically |
+| Sarin nerve gas | Impedes ACh breakdown by AChE |
+| Pesticides | Impede AChE |
+| Tetanus toxin | Blocks release of GABA, glycine |
+
+## Information processing
+
+- Point-to-point
+    + One sender, small number of recipients
+    + Glu, GABA, ACh
+- Broadcast
+    + One sender, widespread recipients
+    + DA, NE, 5-HT, melatonin, histamine
+- Need to know
+    + NT, where projecting, type of receptor to predict function
 
 ## Monoamine Song
 
@@ -165,16 +177,18 @@ Monoamines, mod-u-late neurons </br>
 Monoamines, throughout the brain</br>
 Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
 
-## Information processing
+## Monoamine NTs
 
-- Point-to-point
-    + One sender, small number of recipients
-    + Glu, GABA
-- Broadcast
-    + One sender, widespread recipients
-    + DA, NE, 5-HT, melatonin, histamine
-- Need to know
-    + NT, where projecting, type of receptor to predict function
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Monoamines  | Dopamine (DA)                           |
+|             | Norepinephrine (NE)/Noradrenaline (NAd) |
+|             | Epinephrine (Epi)/Adrenaline (Ad)       |
+|             | Serotonin (5-HT)                        |
+|             | Melatonin                               |
+|             | Histamine                               |
+
+
 
 ## Dopamine
 
@@ -293,7 +307,12 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Neuropeptides
     + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
     + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulates appetite, arousal
+    
+## Other NTs
+
+- Neuropeptides (continued)
     + *Cholecystokinin (CCK)* stimulates digestion
+    + *Oxytocin* and *vasopressin* released by hypothalamus onto posterior pituitary, regulate social behavior
     
 ## Other NTs
 
