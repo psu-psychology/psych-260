@@ -24,6 +24,30 @@ output:
 - Synaptic communication
 - Neurotransmitters
 
+## Visual metaphor I
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Marionnette.jpg/1280px-Marionnette.jpg" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Marionnette.jpg/1280px-Marionnette.jpg>
+</div>
+
+## Visual metaphor II
+
+<div class="centered">
+<img src="https://cdnd.icons8.com/wp-content/uploads/2015/06/photo1239589301.jpg" height=450px>
+
+<https://cdnd.icons8.com/wp-content/uploads/2015/06/photo1239589301.jpg>
+</div>
+
+## Visual metaphor III
+
+<div class="centered">
+<img src="http://1.bp.blogspot.com/-ysSNMv3to_M/Tg2snEHiA3I/AAAAAAAACMA/vTQAJjI3RP4/s1600/network_giant_only.png" height=450px>
+
+<http://1.bp.blogspot.com/-ysSNMv3to_M/Tg2snEHiA3I/AAAAAAAACMA/vTQAJjI3RP4/s1600/network_giant_only.png>
+</div>
+
 ## Synapses on
 
 - dendrites
@@ -101,7 +125,7 @@ output:
 ## ACh anatomy
 
 <div class="centered">
-<img src="http://myzone.hrvfitltd.netdna-cdn.com/wp-content/uploads/2014/09/Image-1.jpg" width=450px>
+<img src="http://myzone.hrvfitltd.netdna-cdn.com/wp-content/uploads/2014/09/Image-1.jpg" height=450px>
 
 <http://myzone.hrvfitltd.netdna-cdn.com/wp-content/uploads/2014/09/Image-1.jpg>
 </div>
@@ -116,7 +140,7 @@ output:
 ## Curare
 
 <div class="centered">
-<img src="http://www.general-anaesthesia.com/images/indian-curare.jpg" width=450px>
+<img src="http://www.general-anaesthesia.com/images/indian-curare.jpg" height=450px>
 
 <http://www.general-anaesthesia.com/images/indian-curare.jpg>
 </div>
@@ -126,7 +150,7 @@ output:
 - aka, nightshade or belladonna
 
 <div class="centered">
-<img src="http://www.aapos.org/client_data/files/2011/_138_dilatingeyedrops2.jpg">
+<img src="http://www.aapos.org/client_data/files/2011/_138_dilatingeyedrops2.jpg" height=450px>
 
 <http://www.aapos.org/client_data/files/2011/_138_dilatingeyedrops2.jpg>
 </div>
@@ -235,7 +259,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 ## NE Anatomy
 
 <div class="centered">
-<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg" height=450px>
 
 <https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg>
 </div>
@@ -257,7 +281,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 ## 5-HT anatomy
 
 <div class="centered">
-<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg" height=450px>
 
 <https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg>
 </div>
