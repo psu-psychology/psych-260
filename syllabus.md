@@ -211,6 +211,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topics
     - Hormones and the brain. 
+    - Lecture notes. [Markdown](lectures/2015-10-02/260-2015-10-02-hormones.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-02/260-2015-10-02-hormones.html).
+    
 - Assignment
     - Read W&B 8:202-222.
 
