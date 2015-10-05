@@ -185,7 +185,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 #### Fri, September 25
 
-**Exam 1**
+**[Exam 1](https://github.com/psu-psychology/psych-260/blob/master/exam/psych-260-exam-1.pdf)**
 
 ### Week 06, September 28 - October 2
 
