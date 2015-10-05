@@ -222,7 +222,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topics
     + **Quiz 2**.
-    + Exam 1 returned.
+    + [Exam 1 returned](https://github.com/psu-psychology/psych-260/blob/master/exam/psych-260-exam-1.pdf).
 
 #### Wed, October 7
 
