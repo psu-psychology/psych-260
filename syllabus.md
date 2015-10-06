@@ -212,7 +212,6 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topics
     - Hormones and the brain. 
     - Lecture notes. [Markdown](lectures/2015-10-02/260-2015-10-02-hormones.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-02/260-2015-10-02-hormones.html).
-    
 - Assignment
     - Read W&B 8:202-222.
 
@@ -228,6 +227,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Biological rhythms and sleep. 
+    - Lecture notes. [Markdown](lectures/2015-10-06/260-2015-10-06-sleep.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/2015-10-06/260-2015-10-06-sleep.html). [PDF](https://rawgit.com/psu-psychology/psych-260/master/2015-10-06/260-2015-10-06-sleep.pdf)
 - Assignment
     - Read W&B 10:270-299.
 
