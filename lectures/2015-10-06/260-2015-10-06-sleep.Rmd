@@ -8,15 +8,9 @@ output:
     css: ../css/gilmore.css
     incremental: false
     widescreen: true
-  beamer_presentation:
-    pandoc_args: [
-      "--latex-engine=xelatex"
-    ]
   slidy_presentation: default
   pdf_document: default
   md_document: default
-  html_document:
-    keep_md: true
 ---
 
 ## Today's Topics
@@ -70,7 +64,6 @@ output:
 <http://thebrain.mcgill.ca/flash/a/a_11/a_11_cr/a_11_cr_hor/a_11_cr_hor_1a.jpg>
 </div>
 
-
 ## ￼Pineal gland & melatonin 
 
 - Pineal gland
@@ -103,7 +96,7 @@ output:
 <div class="centered">
 <img src="http://www.nature.com/nature/journal/v497/n7450_supp/images/497S2a-f1.2.jpg" height=450px>
 
-[@peplow2013structure]
+[@peplow2013structure], <http://dx.doi.org/10.1038/497S2a>
 </div>
 
 ## Sleep phases
@@ -111,7 +104,7 @@ output:
 <div class="centered">
 <img src="http://www.nature.com.ezaccess.libraries.psu.edu/nature/journal/v497/n7450_supp/images/497S2a-f2.2.jpg" height=450px>
 
-[@peplow2013structure]
+[@peplow2013structure], <http://dx.doi.org/10.1038/497S2a>
 </div>
 
 ## Neuroscience of sleep
@@ -162,7 +155,7 @@ output:
 <div class="centered">
 <img src="http://www.nature.com.ezaccess.libraries.psu.edu/nrn/journal/v3/n9/images/nrn915-f3.gif" height=450px>
 
-[@hobson2002cognitive]
+[@hobson2002cognitive], <http://dx.doi.org/10.1038/nrn915>
 </div>
 
 ## Rapid Eye Movement (REM) Sleep
@@ -183,7 +176,7 @@ output:
 <div class="centered">
 <img src="http://www.nature.com.ezaccess.libraries.psu.edu/neuro/journal/v13/n12/images/nn1210-1448-F1.jpg" height=450px>
 
-[@mcgregor2010illuminating]
+[@mcgregor2010illuminating], <http://dx.doi.org/10.1038/nn1210-1448>
 </div>
 
 ## Brain systems and sleep
@@ -201,7 +194,7 @@ output:
 <div class="centered">
 <img src="http://www.nature.com.ezaccess.libraries.psu.edu/nrn/journal/v3/n9/images/nrn915-f2.gif" height=450px>
 
-[@hobson2002cognitive]
+[@hobson2002cognitive], <http://dx.doi.org/10.1038/nrn915>
 </div>
 
 ## Other ￼Structures and their functions
@@ -216,7 +209,7 @@ output:
 <div class="centered">
 <img src="http://www.nature.com.ezaccess.libraries.psu.edu/nature/journal/v497/n7450_supp/images/497S2a-f4.2.jpg" height=450px>
 
-[@peplow2013structure]
+[@peplow2013structure], <http://dx.doi.org/10.1038/497S2a>
 </div>
 
 ## Sleep and development
@@ -232,7 +225,7 @@ output:
 <div class="centered">
 <img src="http://www.nature.com.ezaccess.libraries.psu.edu/nature/journal/v497/n7450_supp/images/497S2a-f3.2.jpg" height=450px>
 
-[@peplow2013structure]
+[@peplow2013structure], <http://dx.doi.org/10.1038/497S2a>
 </div>
 
 ## ￼￼Sleeping around the animal kingdom
@@ -249,7 +242,14 @@ output:
     + Growth hormones released, but
     + Amount of exercise unrelated to sleep duration
 - Consolidate learning & memory
-- Brain needs more than body
+
+## Sleep, Learning & Memory
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v11/n2/images/nrn2762-f1.jpg" height=450px>
+
+[@diekelmann2010memory], <http://dx.doi.org/10.1038/nrn2762>
+</div>
 
 ## ￼￼Main point
 
