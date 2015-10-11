@@ -21,7 +21,7 @@ output:
 
 ## Announcements
 
-- **Exam 1 next Friday, October 16**
+- **Exam 2 next Friday, October 16**
     + In-class review on Wednesday
 - Participation points
     + [Blog](../../blog-assignment.md)
