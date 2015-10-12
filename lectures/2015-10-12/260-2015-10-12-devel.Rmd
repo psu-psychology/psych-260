@@ -230,15 +230,15 @@ output:
 
 <iframe width="420" height="315" src="http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie1.mpg" frameborder="0" allowfullscreen></iframe>
 
-## [@gogtay2004dynamic]
+## [[@gogtay2004dynamic]](http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie1.mpg)
 
 <iframe width="420" height="315" src="http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie2.mpg" frameborder="0" allowfullscreen></iframe>
 
-## [@gogtay2004dynamic]
+## [[@gogtay2004dynamic]](http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie2.mpg)
 
 <iframe width="420" height="315" src="http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie3.mpg" frameborder="0" allowfullscreen></iframe>
 
-## [@gogtay2004dynamic]
+## [[@gogtay2004dynamic]](http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie4.mpg)
 
 <iframe width="420" height="315" src="http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie4.mpg" frameborder="0" allowfullscreen></iframe>
 
