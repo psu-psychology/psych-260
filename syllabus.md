@@ -263,7 +263,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, October 19
 
 - Topic
-    - Emotion. 
+    - Emotion.
+    - Lecture notes. [Markdown](lectures/2015-10-19/260-2015-10-19-emotion.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-19/260-2015-10-19-emotion.html).
 - Assignment
     - Read W&B 11:302-315.
 
@@ -292,15 +293,12 @@ These outlines are a convenient way to organize and review some of the course ma
 
 #### Wed, October 28
 
-- Topic
-    - Drugs & Addiction. 
-- Assignment
-    - Read W&B 4:89-103.
+**NO CLASS**
 
 #### Fri
 
 - Topics
-    - **Quiz 3**. 
+    - **Quiz 3**.
     - Exam 2 returned.
 
 ### Week 11, November 2 - 6
