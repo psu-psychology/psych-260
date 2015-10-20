@@ -271,7 +271,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Wed, October 21
 
 - Topic
-    - Aggression and stress. 
+    - Fear and stress.
+    - Lecture notes. [Markdown](lectures/2015-10-21/260-2015-10-21-fear-stress.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-21/260-2015-10-21-fear-stress.html). 
 - Assignment
     - Read W&B 11:316-324.
 
