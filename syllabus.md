@@ -279,7 +279,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Fri, October 23
 
 - Topic
-    - Psychopathology I. 
+    - Psychopathology I.
+    - Lecture notes. [Markdown](lectures/2015-10-23/260-2015-10-23-psychopathology-I.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-23/260-2015-10-23-psychopathology-I.html).  
 - Assignment
     - Read W&B 12:326-340.
 
