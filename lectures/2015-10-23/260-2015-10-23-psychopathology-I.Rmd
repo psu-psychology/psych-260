@@ -33,7 +33,7 @@ output:
 
 ## Today's Topics
 
-- Wrap up on [happiness](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-21/260-2015-10-21-fear-stress.html)
+- Wrap up on [fear/anxiety/stress](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-21/260-2015-10-21-fear-stress.html)
 - From normal to abnormal emotional expression
 
 ## Major affective (emotional) disorders
@@ -122,7 +122,7 @@ output:
 ## Pharmacological factors
 
 - Lowered thyroid function
-- High/chronic corticol levels 
+- High/chronic cortisol levels 
 - Monoamine hypothesis
     + More: euphoria
     + Less: depression
@@ -147,7 +147,7 @@ output:
 
 - Monoamine oxidase (MAO) inhibitors
     + MAO destroys excess monoamines in terminal buttons
-    + MAO-I’s boost monamine levels
+    + MAO-I’s boost monoamine levels
 - Tricyclics
     + Inhibit NE, 5-HT reuptake
     + Upregulate monoamine levels, but non-selective = side effects
