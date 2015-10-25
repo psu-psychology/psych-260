@@ -289,7 +289,9 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, October 26
 
 - Topic
-    - Psychopathology II. 
+    - Psychopathology II.
+    - Lecture notes. [Markdown](lectures/2015-10-26/260-2015-10-26-psychopathology-II.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-26/260-2015-10-26-psychopathology-II.html).  
+- Assig 
 - Assignment
     - Read W&B 12:340-352.
 

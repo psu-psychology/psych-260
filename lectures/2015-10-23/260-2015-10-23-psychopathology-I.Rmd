@@ -1,5 +1,5 @@
 ---
-title: "260-2015-10-19-psychopathology-I"
+title: "260-2015-10-23-psychopathology-I"
 author: Rick Gilmore
 date: "`r Sys.time()`"
 bibliography: bibliography.bib
