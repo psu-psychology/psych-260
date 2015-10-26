@@ -19,10 +19,27 @@ output:
     keep_md: true
 ---
 
+## Prelude
+
+<iframe src="http://dx.doi.org/10.1038/nature15709" width=750px height=450px frameborder="0" allowfullscreen></iframe>
+
+## Prelude (cont.)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lud8D0Pr1-s" frameborder="0" allowfullscreen></iframe>
+
+<http://ucsdnews.ucsd.edu/pressrelease/biologists_discover_bacteria_communicate_like_neurons_in_the_brain>
+
+## Finding where all the pieces fit
+
+<div class="centered">
+<img src="http://www.publicdomainpictures.net/pictures/80000/nahled/jigsaw-puzzle.jpg" width=750px>
+
+<http://www.publicdomainpictures.net/pictures/80000/nahled/jigsaw-puzzle.jpg>
+</div>
 
 ## Announcements
 
-- **No class next Wednesday, 10/28**
+- **No class Wednesday, 10/28**
 
 ## Today's Topics
 
@@ -111,6 +128,14 @@ output:
     + Usually to treat epilepsy
     + e.g. lamotrigine (Lamictal)
 - Antipsychotics
+
+## Effects of Lithium
+
+- Reduces mania, minimal effects on depressive states
+- Increases/preserves PFC, hip, amyg volume
+- downregulates DA, glu; upregulates GABA
+- modulates 5-HT, NE
+- [[@malhi_potential_2013]](http://dx.doi.org/10.1007/s40263-013-0039-0)
 
 ## An Unquiet Mind
 
