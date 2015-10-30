@@ -211,13 +211,13 @@ output:
 
 ## Genetic disposition
 
-<class="centered">
+<div class="centered">
 <img src="img/schizophrenia-risk.jpg" height=450px>
 </div>
 
 ## Ventricles larger, esp in males
 
-<class="centered">
+<div class="centered">
 <img src="img/schizophrenia-ventricles.jpg" height=450px>
 </div>
 
@@ -228,7 +228,7 @@ output:
 
 ## Rapid gray matter loss in adolescents?
 
-<class="centered">
+<div class="centered">
 <img src="img/thompson-2001-F2.large.jpg" height=450px>
 
 [[@thompson_mapping_2001]](http://dx.doi.org/10.1073/pnas.201243998)
@@ -236,7 +236,7 @@ output:
 
 ## Dopamine hypothesis
 
-<class="centered">
+<div class="centered">
 <img src="img/mesolimbocortical-da.jpg" height=450px>
 </div>
 
