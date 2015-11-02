@@ -309,7 +309,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, November 2
 
 - Topic
-    - Sensory systems. 
+    - Sensory systems.
+    - Lecture notes. [Markdown](lectures/2015-11-02/260-2015-11-02-sensation.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-02/260-2015-11-02-sensation.html).
 - Assignment
     - Read W&B 5:106-114.
 
