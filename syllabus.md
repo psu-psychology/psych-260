@@ -317,7 +317,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Wed, November 4
 
 - Topic
-    - Somatosensation. 
+    - Somatosensation.
+    - Lecture notes. [Markdown](lectures/2015-11-04/260-2015-11-04-somatosensation.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-04/260-2015-11-04-somatosensation.html). 
 - Assignment
     - Read W&B 5:114-122.
 

@@ -1,0 +1,148 @@
+---
+title: "260-2015-11-04-somatosensation"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: ../css/gilmore.css
+    incremental: false
+    widescreen: true
+  beamer_presentation:
+    pandoc_args: [
+      "--latex-engine=xelatex"
+    ]
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+---
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/otCpCn0l4Wo" frameborder="0" allowfullscreen></iframe>
+
+## Prelude II
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/JWT7GuBX-zw" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- Wrap up on [sensory systems](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-02/260-2015-11-02-sensation.html#31)
+- Somatosensation
+
+## Types of somatosensation
+
+- Internal (interoceptive)
+    + Where am I?  How do I feel?
+    + Proprioception
+- External (exteroceptive)
+    + What’s in the world?
+    + Where is it?
+
+## Internal senses
+
+- Vestibular sense
+    + Head position
+    + Head movement (rotation, translation)
+- Kinesthesia
+    + Body position
+    + Movement 
+- Pain
+
+## External senses
+
+- Cutaneous senses (touch)
+    + Hot, cold
+    + Pressure
+    + Vibration
+    + Damage (pain)
+- Plus kinesthesia (why?)
+
+## Cutaneous receptors
+
+<div class="centered">
+<img src="img/cuteneous-receptors.jpg" height=450px>
+</div>
+
+## Receptors specialize
+
+<div class="centered">
+<img src="img/pacinian-meissner.jpg" width=350px>
+<img src="img/merkel-ruffini.jpg" width=350>
+</div>
+
+## Combined thermo and chemo receptors
+
+- Why are spicy foods hot?
+- Why are minty foods cool?
+
+## Combined thermo and chemo receptors
+
+- Menthol/mint receptor (CMR1)
+    + Also signals "cool"
+- Vanilloid Receptors (VR1, VRL1)
+    + Also signal "hot
+    + Capsaicin
+    
+## Menthol & vanilloid receptors
+
+<div class="centered">
+<img src="img/menthol-vanilloid-receptors.jpg" height=450px>
+</div>
+
+## Size/speed trade-off
+
+<div class="centered">
+<img src="img/axon-size-speed-tradeoff.jpg" height=450px>
+</div>
+
+## From skin to brain
+
+- Cutaneous receptors
+- Dorsal root ganglion
+- Ventral posterior lateral thalamus
+- Primary somatosensory cortex (S1)
+    + Parietal lobe
+    
+## Dermatomes
+
+<div class="centered">
+<img src="img/skin-to-spinal-cord.jpg" height=450px>
+</div>
+    
+## Dermatomes
+
+<div class="centered">
+<img src="img/dermatomes.jpg" height=450px>
+</div>
+
+## Somatatopic maps
+
+<div class="centered">
+<img src="img/s1.jpg" height=450px>
+</div>
+
+## Non-inform mapping of skin surface
+
+<div class="centered">
+<img src="img/homunculus.jpg" height=450px>
+</div>
+
+## Columnar organization/functional segregation
+
+<div class="centered">
+<img src="img/s1-columns.jpg" height=450px>
+</div>
+
+##  What/where
+
+- Perceiving Where
+    + Somatotopic maps -- where on skin
+    + Kinesthesia -- configuration of limbs
+- Perceiving What
+    + Patterns of smoothness, roughness, shape, temperature
+    
+## Next time...
+
+<iframe width="420" height="315" src="http://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains#" frameborder="0" allowfullscreen></iframe>
