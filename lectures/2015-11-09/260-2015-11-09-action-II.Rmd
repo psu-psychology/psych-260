@@ -1,0 +1,205 @@
+---
+title: "260-2015-11-09-action-II"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bibliography.bib
+output:
+  ioslides_presentation:
+    css: ../css/gilmore.css
+    incremental: false
+    widescreen: true
+  beamer_presentation:
+    pandoc_args: [
+      "--latex-engine=xelatex"
+    ]
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+---
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/L0CVoFsUhC4" frameborder="0" allowfullscreen></iframe>
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/XaI5IRuS2aE" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- The neuroscience of movement (continued)
+
+## Muscles are sensory organs, too!
+
+<div class="centered">
+<img src="http://cdn.xl.thumbs.canstockphoto.com/canstock6466988.jpg" height=450px>
+</div>
+
+## Two muscle fiber types
+
+<div class="centered">
+<img src="img/muscle-fiber-types.jpg" height=450px>
+</div>
+
+## Two muscle fiber types
+
+- Extrafusal fibers
+    + Generate force
+    + ennervated by alpha ($\alpha$) motor neurons
+- Intrafusal fibers
+    + Sense length/tension
+    + Contain muscle spindles linked to Ia afferents
+    + ennervated by gamma ($\gamma$) motor neurons
+    
+## Monosynaptic stretch (myotatic) reflex
+
+- Muscle stretched (length increases)
+- Muscle spindle activates
+- Ia afferent sends signal to spinal cord
+    + Activates alpha ($\alpha$) motor neuron
+- Muscle contracts, shortens length
+
+## Monosynaptic stetch (myotatic) reflex
+
+<div class="centered">
+<img src="img/intrafusal-extrafusal-fibers.jpg" height=400px>
+</div>
+
+- Gamma ($\gamma$) motor neuron fires to take up intrafusal fiber slack
+
+## Monosynaptic stretch (myotatic) reflex
+
+<div class="centered">
+<img src="img/stretch-reflex.jpg" height=450px>
+</div>
+
+## Why doesn't antagonist muscle respond?
+
+<div class="centered">
+<img src="img/stretch-reflex.jpg" height=450px>
+</div>
+
+## Why doesn't antagonist muscle respond?
+
+- Polysynaptic inhibition of antagonist muscle
+- Prevents/dampens tremor
+
+## Brain gets fast(est) sensory info from spindles
+
+<div class="centered">
+<img src="../2015-11-04/img/axon-size-speed-tradeoff.jpg" height=450px>
+</div>
+
+## How the brain controls the muscles
+
+- Pyramidal tracts
+    + Pyramidal cells (Cerebral Cortex Layer 5) in primary motor cortex (M1)
+    + Corticobulbar (cortex -> brainstem) tract
+    + Corticospinal (cortex -> spinal cord) tract
+- Crossover (decussate) in medulla
+    + L side of brain ennervates R side of body
+    
+## Corticospinal tract
+
+<div class="centered">
+<img src="img/gray-corticospinal-tract.png" height=450px>
+
+<https://commons.wikimedia.org/wiki/File:Gray764.png#/media/File:Gray764.png>
+</div>
+    
+## How the brain controls the muscles
+
+- Extrapyramidal system
+    + Tectospinal tract
+    + Vestibulospinal tract
+    + Reticulospinal tract
+- Involuntary movements
+    + Posture, balance, arousal
+    
+## Extrapyramidal system
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Gray672.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/b/be/Gray672.png>
+</div>
+
+## Disorders
+
+- Parkinson's
+- Huntington's
+
+## Parkinson's
+
+<div class="centered">
+<img src="http://a3.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjM0MjU0NDkzMTk2.jpg" height=400px>
+
+Maurice White, Musician
+</div>
+
+## The Faces of Parkinson's
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CqEwPqUO1Bw" frameborder="0" allowfullscreen></iframe>
+
+## Parkinson's
+
+- Slow, absent movement, resting tremor
+- Cognitive deficits, depression
+- DA Neurons in substantia nigra degenerate
+- Treatments
+    + DA agonists
+    
+## Huntington's
+
+<div class="centered">
+<img src="http://cp91279.biography.com/1000509261001/1000509261001_1733824754001_woody-guthrie-centennial-1.jpg" height=450px>
+
+<http://cp91279.biography.com/1000509261001/1000509261001_1733824754001_woody-guthrie-centennial-1.jpg>
+</div>
+
+## Huntington's
+
+- Formerly Huntington’s Chorea
+    + "Chorea" from Greek for "dance"
+    + “Dance-like” pattern of involuntary movements
+- Cognitive decline
+- Genetic + environmental influences
+- Disturbance in striatum
+- No effective treatment
+
+## Huntington's
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBLrY_nXU_U" frameborder="0" allowfullscreen></iframe>
+
+## Final thoughts
+
+- Control of movement determined by multiple sources
+- Cerebral cortex + basal ganglia + cerebellum + spinal circuits
+
+## Multiple, parallel controllers
+
+<div class="centered">
+<img src="../2015-11-06/img/motor-controllers-biopsych.jpg" height=450px>
+</div>
+
+## Cerebellum as predictor of future sensory states? [[@ito_control_2008]](10.1038/nrn2332) {.smaller}
+
+<div class="centered">
+<img src="http://venturebeat.com/wp-content/uploads/2009/10/star-trek-holodeck.jpg" height=450px>
+
+<http://venturebeat.com/wp-content/uploads/2009/10/star-trek-holodeck.jpg>
+</div>
+
+## Next time...
+
+- Audition
+
+## Postlude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/It7107ELQvY" frameborder="0" allowfullscreen></iframe>
+
+## References
+
+

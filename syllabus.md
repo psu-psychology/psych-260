@@ -325,7 +325,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Fri, November 6
 
 - Topic
-    - Action I.- Lecture notes. [Markdown](lectures/2015-11-06/260-2015-11-06-action-I.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-06/260-2015-11-06-action-I.html).  
+    - Action I.
+    - Lecture notes. [Markdown](lectures/2015-11-06/260-2015-11-06-action-I.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-06/260-2015-11-06-action-I.html).  
 - Assignment
     - Read W&B 5:122-131.
 
@@ -334,7 +335,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, November 9
 
 - Topic
-    - Action II. 
+    - Action II.
+    - Lecture notes. [Markdown](lectures/2015-11-09/260-2015-11-09-action-II.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-09/260-2015-11-09-action-II.html).
 - Assignment
     - Read W&B 5:131-138.
 

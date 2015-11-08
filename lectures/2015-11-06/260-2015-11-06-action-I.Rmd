@@ -1,5 +1,5 @@
 ---
-title: "260-2015-11-04-action-I"
+title: "260-2015-11-06-action-I"
 author: Rick Gilmore
 date: "`r Sys.time()`"
 output:
@@ -24,7 +24,7 @@ output:
 
 ## Today's Topics
 
-- The neuroscience of movement
+- The neuroscience of movement [continued](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-06/260-2015-11-06-action-I.html#17)
 
 ## The Real Reason for Brains
 
@@ -128,7 +128,8 @@ output:
 - Motor endplate
     + Nicotinic ACh receptor
 - Excitatory endplate potential
-    + Voltage-gated Ca++ channels open
+    + Muscle fibers depolarize
+    + Depolarization spreads along sarcomere like an action potentail
     + Intramuscular stores release Ca++
     
 ## Motor endplate
@@ -157,6 +158,10 @@ output:
 <div class="centered">
 <img src="img/motor-endplate-nt-release.jpg" height=450px>
 </div>
+
+## Muscle contraction
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Ki6WjplSUcE" frameborder="0" allowfullscreen></iframe>
 
 ## Agonist/antagonist muscle pairs
 
