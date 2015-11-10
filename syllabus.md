@@ -343,7 +343,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Wed, November 11
 
 - Topic
-    - Audition. 
+    - Audition.
+    - Lecture notes. [Markdown](lectures/2015-11-11/260-2015-11-11-audition.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-11/260-2015-11-11-audition.html).
 - Assignment
     - Read W&B 6:140-156.
 
