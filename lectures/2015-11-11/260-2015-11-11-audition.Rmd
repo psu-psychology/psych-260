@@ -190,7 +190,7 @@ output:
 ## Place code ~ xylophone
 
 <div class="centered">
-<img src="img/Wood_zylo.jpg" height=450px>
+<img src="img/Wood_xylo.jpg" height=450px>
 </div>
 
 ## *Tonotopy*
@@ -208,7 +208,7 @@ output:
 ## Timbre
 
 <div class="centered">
-<img src="img/timbre-of-the-instruments.jpg" height=450px>
+<img src="img/timbre-of-the-instruments.png" height=450px>
 </div>
 
 ## Perceiving location

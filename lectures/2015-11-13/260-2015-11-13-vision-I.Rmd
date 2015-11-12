@@ -1,0 +1,217 @@
+---
+title: "260-2015-11-13-vision-I"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: ../css/gilmore.css
+    incremental: false
+    widescreen: true
+  beamer_presentation:
+    pandoc_args: [
+      "--latex-engine=xelatex"
+    ]
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+---
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FscIgtDJFXg" frameborder="0" allowfullscreen></iframe>
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x76VEPXYaI0" frameborder="0" allowfullscreen></iframe>
+
+## Announcements
+
+- Exam 3 next Friday
+
+## Today's topics
+
+- Vision
+
+## How vision informs
+
+- What's out there?
+    + Shape, form, color
+- Where is it?
+    + Position, orientation, motion
+    
+## Electromagnetic radiation {.smaller}
+
+<div class="centered">
+<img src="img/em-spectrum.jpg" height=450px>
+
+<http://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg>
+</div>
+
+## Features of EM
+
+- Wavelength/frequency
+- Intensity
+- Location/position of source
+- Reflects off some materials
+- Refracted (bent) moving through other materials
+
+## Reflectance spectra differ by surface
+
+<div class="centered">
+<img src="img/reflectance-spectrum.gif" height=450px>
+
+<http://http://www.vgt.vito.be/userguide/book_1/4/42/ie42bd.gif>
+</div>
+
+## Color == categories of wavelength
+
+- Eyes categorize wavelength into relative intensities within wavelength bands
+- RGB ~ **R**ed, **G**reen, **B**lue
+    + Long, medium, short wavelengths
+- *Color is a neural/psychological construct*
+
+## RGB monitors
+
+<div class="centered">
+<img src="img/rgb-monitor.jpg" height=450px>
+</div>
+
+## How a camera works
+
+<div class="centered">
+<img src="img/how-camera-works.jpg" height=450px>
+</div>
+
+## The biological camera
+
+<div class="centered">
+<img src="img/the-eye-ksj.jpg" height=450px>
+</div>
+
+## The biological camera
+
+<div class="centered">
+<img src="img/the-eye.jpg" height=450px>
+</div>
+
+## Parts of the eye
+
+- *Cornea* - refraction (2/3 of total)
+- *Pupil* - light intensity; diameter regulated by Iris.
+- *Lens* - refraction (remaining 1/3; focus)
+
+## Parts of the eye
+
+- *Retina* - light detection
+    + ~ skin or organ of Corti
+- *Pigment epithelium* - regenerate photopigment
+- *Muscles* - move eye, reshape lens, change pupil diameter
+
+## Eye forms image on retina
+
+- Image inverted (up/down)
+- Image reverseed (left/right)
+- Point-to-point map (*retinotopic*)
+- Binocular and monocular zones
+
+## Retinal image
+
+<div class="centered">
+<img src="img/retinal-image.jpg" height=450px>
+</div>
+
+## Eyes views overlap
+
+<div class="centered">
+<img src="img/visual-fields.jpg" height=450px>
+</div>
+
+## The *fovea* {.smaller}
+
+<div class="centered">
+<img src="img/fovea.jpg" height=450px>
+
+<http://www.brainhq.com/sites/default/files/fovea.jpg>
+</div>
+
+## The fovea
+
+- Central 1-2 deg of visual field
+- Aligned with visual axis
+- *Retinal ganglion cells* pushed aside
+- Highest *acuity* vision == best for details
+
+## Acuity varies across fovea
+
+<div class="centered">
+<img src="img/acuity-across-visual-field.jpg" height=450px>
+</div>
+
+## Acuity varies across fovea
+
+<div class="centered">
+<img src="img/acuity-across-visual-field-graph.jpg" height=450px>
+
+<http://michaeldmann.net/pix_7/blndspot.gif>
+</div>
+
+
+## Photoreceptors detect light
+
+<div class="centered">
+<img src="img/photoreceptors.jpg" height=450px>
+</div>
+
+## *Photoreceptors* detect light
+
+- *Rods*
+    + ~120 M/eye
+    + Mostly in periphery
+    + Active in low light conditions
+    + One wavelength range
+    
+## Photorceptors detect light
+
+- *Cones*
+    + ~5 M/eye
+    + Mostly in center
+    + 3 wavelength ranges
+    
+## How photoreceptors work
+
+- Outer segment
+    + Membrane disks
+    + Photopigments
+- Inner segment
+    + Synaptic terminal
+- Light *hyperpolarizes* photoreceptor!
+    + The *dark current*
+    
+## Retina
+
+- Physiologically *backwards*
+    + Dark current
+- Anatomically *inside-out*
+    + Photoreceptors at back of eye
+    
+## Retinal layers {.smaller}
+
+<div class="centered">
+<img src="img/retinal-layers.jpg" height=450px>
+
+<http://www.retinareference.com/anatomy/>
+</div>
+
+## Retinal layers
+
+- Bipolar cells
+    + Horizontal cells
+- Retinal ganglion cells
+    + Amacrine cells
+
+## Next time...
+
+- From eye to brain
+
