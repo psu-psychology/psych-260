@@ -41,7 +41,7 @@ output:
 - Where is it?
     + Position, orientation, motion
     
-## Electromagnetic radiation {.smaller}
+## Electromagnetic (EM) radiation {.smaller}
 
 <div class="centered">
 <img src="img/em-spectrum.jpg" height=450px>
@@ -49,7 +49,7 @@ output:
 <http://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg>
 </div>
 
-## Features of EM
+## Features of EM radiation
 
 - Wavelength/frequency
 - Intensity
@@ -57,12 +57,24 @@ output:
 - Reflects off some materials
 - Refracted (bent) moving through other materials
 
+## EM radiation provides information across space (and time)
+
+<div class="centered">
+<a href="http://apod.nasa.gov/apod/ap140605.html"><img src="img/hud2014_1000c.jpg" height=450px></a>
+</div>
+
 ## Reflectance spectra differ by surface
 
 <div class="centered">
 <img src="img/reflectance-spectrum.gif" height=450px>
 
 <http://http://www.vgt.vito.be/userguide/book_1/4/42/ie42bd.gif>
+</div>
+
+## [Optic array](https://en.wikipedia.org/wiki/Ambient_optic_array) specifies geometry of environment
+
+<div class="centered">
+<img src="img/OpticArray.jpg" height=450px>
 </div>
 
 ## Color == categories of wavelength
