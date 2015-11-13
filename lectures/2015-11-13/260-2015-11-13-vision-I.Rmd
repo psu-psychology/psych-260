@@ -157,14 +157,15 @@ output:
 <http://michaeldmann.net/pix_7/blndspot.gif>
 </div>
 
+## What part of the skin is like the fovea?
 
-## Photoreceptors detect light
+## *Photoreceptors* detect light
 
 <div class="centered">
 <img src="img/photoreceptors.jpg" height=450px>
 </div>
 
-## *Photoreceptors* detect light
+## Photoreceptors detect light
 
 - *Rods*
     + ~120 M/eye
@@ -179,6 +180,14 @@ output:
     + Mostly in center
     + 3 wavelength ranges
     
+## Photoreceptors "specialize" in particular wavelengths {.smaller}
+
+<div class="centered">
+<img src="img/1416_Color_Sensitivity.jpg" height=450px>
+
+Anatomy & Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/, Jun 19, 2013.
+</div>
+    
 ## How photoreceptors work
 
 - Outer segment
@@ -192,10 +201,17 @@ output:
 ## Retina
 
 - Physiologically *backwards*
+    + 
+- Anatomically *inside-out*
+    + 
+  
+## Retina
+
+- Physiologically *backwards*
     + Dark current
 - Anatomically *inside-out*
     + Photoreceptors at back of eye
-    
+
 ## Retinal layers {.smaller}
 
 <div class="centered">
@@ -214,4 +230,3 @@ output:
 ## Next time...
 
 - From eye to brain
-
