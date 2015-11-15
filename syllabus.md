@@ -361,7 +361,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, November 16
 
 - Topic
-    - Vision II. 
+    - Vision II.
+    - Lecture notes. [Markdown](lectures/2015-11-16/260-2015-11-16-vision-II.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-16/260-2015-11-16-vision-II.html). 
 - Assignment
     - Read W&B 7:180-201.
 
