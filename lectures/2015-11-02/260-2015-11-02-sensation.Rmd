@@ -171,7 +171,7 @@ output:
 
 ## Common principles
 
-- > 1 sensor for each channel
+- Compare (>1) sensor for each channel
     + Eyes
     + Ears
     + Nostrils

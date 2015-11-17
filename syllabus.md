@@ -370,6 +370,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Exam 3 review
+    - Lecture notes. [Markdown](lectures/2015-11-18/260-2015-11-18-review.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-18/260-2015-11-18-review.html). 
 
 #### Fri
 

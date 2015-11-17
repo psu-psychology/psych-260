@@ -78,9 +78,9 @@ output:
 ## *Opponent processing*
 
 <div class="centered">
-<img src="img/opponentpic.jpg" height=450px>
+<img src="img/RGBOpponent.gif" height=450px>
 
-<http://psych.ucalgary.ca/PACE/VA-Lab/colourperceptionweb/opponentpic.jpg>
+<http://www.visualexpert.com/sbfaqimages/RGBOpponent.gif>
 </div>
 
 ## Opponent processing
@@ -226,9 +226,9 @@ output:
 ## Beyond V1
 
 - Larger, more complex receptive fields
-- Dorsal (where/how) stream
+- *Dorsal stream* (where/how)
     + Toward parietal lobe
-- Ventral (what) stream
+- *Ventral stream* (what)
 
 ## What is vision for?
 
