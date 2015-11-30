@@ -129,14 +129,14 @@ times
 
 ## Alternative: Load data into RStudio (alternate way)
 
-```{r}
+```{r, eval=TRUE}
 body <- read.csv('~/Downloads/psych-260-bbh-203-nerve-conduction-lab - body-measurements.csv')
 str(body)
 ```
 
-### Alternative: Load data into RStudio
+## Alternative: Load data into RStudio
 
-```{r}
+```{r, eval=TRUE}
 times <- read.csv('~/Downloads/psych-260-bbh-203-nerve-conduction-lab - time-measurements.csv')
     str(times)
 ```
@@ -152,8 +152,16 @@ require(dplyr)
 ## Plot body measurements
 
 <div class="centered">
-```{r body-measurements}
+```{r body-measurements-all}
 qplot(x=Participant, y=Ankle_shoulder_cm, data=body, facets = . ~ Group)
+```
+</div>
+
+## Body measurements by Sex
+
+<div class="centered">
+```{r body-measurements-by-sex}
+qplot(x=Participant, y=Ankle_shoulder_cm, data=body, facets = Sex ~ Group)
 ```
 </div>
 
@@ -227,6 +235,16 @@ qplot(x=Trial_num, y=cmPsec, data=merged, facets = . ~ Group, geom=c("point", "s
 qplot(x = factor(Group), y=cmPsec, data=merged, geom="boxplot")
 ```
 </div>
+
+## Summarize mean, standard dev, median Speed (in m/s)
+
+```{r speeds-in-meters-per-sec-by-group}
+# Convert to 
+merged_summ <- merged %>%
+  group_by(Group) %>%
+  summarize(mean_spd = mean(cmPsec/100), stdev_spd = sd(cmPsec/100), median_spd = median(cmPsec/100))
+merged_summ
+```
 
 ## Next steps
 

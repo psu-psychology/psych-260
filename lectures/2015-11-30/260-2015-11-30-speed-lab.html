@@ -65,7 +65,7 @@ img {
 <div id="header">
 <h1 class="title">260-2015-11-30-speed-lab</h1>
 <h4 class="author"><em>Rick Gilmore</em></h4>
-<h4 class="date"><em>2015-11-30 08:59:15</em></h4>
+<h4 class="date"><em>2015-11-30 10:30:37</em></h4>
 </div>
 
 
@@ -208,22 +208,22 @@ times</code></pre>
 <h2>Alternative: Load data into RStudio (alternate way)</h2>
 <pre class="r"><code>body &lt;- read.csv(&#39;~/Downloads/psych-260-bbh-203-nerve-conduction-lab - body-measurements.csv&#39;)
 str(body)</code></pre>
-<pre><code>## &#39;data.frame&#39;:    12 obs. of  5 variables:
-##  $ Group            : Factor w/ 2 levels &quot;a&quot;,&quot;b&quot;: 1 1 1 1 1 1 2 2 2 2 ...
-##  $ Participant      : int  1 1 1 2 2 2 1 1 1 2 ...
-##  $ Sex              : Factor w/ 2 levels &quot;f&quot;,&quot;m&quot;: 2 2 2 1 1 1 2 2 2 1 ...
-##  $ Ankle_shoulder_cm: int  125 124 123 110 115 112 127 125 121 111 ...
+<pre><code>## &#39;data.frame&#39;:    49 obs. of  5 variables:
+##  $ Group            : Factor w/ 2 levels &quot;frontrowz&quot;,&quot;team-z&quot;: 1 1 1 1 1 1 1 1 1 1 ...
+##  $ Participant      : int  1 1 1 2 2 2 3 3 3 4 ...
+##  $ Sex              : Factor w/ 2 levels &quot;f&quot;,&quot;m&quot;: 2 2 2 1 1 1 1 1 1 2 ...
+##  $ Ankle_shoulder_cm: num  134 134 132 130 132 ...
 ##  $ Measure_num      : int  1 2 3 1 2 3 1 2 3 1 ...</code></pre>
-<div id="alternative-load-data-into-rstudio" class="section level3">
-<h3>Alternative: Load data into RStudio</h3>
+</div>
+<div id="alternative-load-data-into-rstudio" class="section level2">
+<h2>Alternative: Load data into RStudio</h2>
 <pre class="r"><code>times &lt;- read.csv(&#39;~/Downloads/psych-260-bbh-203-nerve-conduction-lab - time-measurements.csv&#39;)
     str(times)</code></pre>
 <pre><code>## &#39;data.frame&#39;:    40 obs. of  4 variables:
-##  $ Group         : Factor w/ 2 levels &quot;a&quot;,&quot;b&quot;: 1 1 1 1 1 1 1 1 1 1 ...
+##  $ Group         : Factor w/ 2 levels &quot;frontrowz&quot;,&quot;team-z&quot;: 1 1 1 1 1 1 1 1 1 1 ...
 ##  $ Trial_num     : int  1 2 3 4 5 6 7 8 9 10 ...
 ##  $ Ankle_shoulder: Factor w/ 2 levels &quot;ankle&quot;,&quot;shoulder&quot;: 2 2 2 2 2 2 2 2 2 2 ...
-##  $ Time_secs     : num  5 4 6 5.5 4.75 5.25 6.24 4.8 6.5 4.2 ...</code></pre>
-</div>
+##  $ Time_secs     : num  3.84 2.09 2.15 2.38 2.13 2.16 2.04 2.13 2.28 2.5 ...</code></pre>
 </div>
 <div id="get-ready-to-plot" class="section level2">
 <h2>Get ready to plot</h2>
@@ -235,7 +235,14 @@ require(dplyr)</code></pre>
 <h2>Plot body measurements</h2>
 <div class="centered">
 <pre class="r"><code>qplot(x=Participant, y=Ankle_shoulder_cm, data=body, facets = . ~ Group)</code></pre>
-<img src="260-2015-11-30-speed-lab_files/figure-html/body-measurements-1.png" />
+<img src="260-2015-11-30-speed-lab_files/figure-html/body-measurements-all-1.png" />
+</div>
+</div>
+<div id="body-measurements-by-sex" class="section level2">
+<h2>Body measurements by Sex</h2>
+<div class="centered">
+<pre class="r"><code>qplot(x=Participant, y=Ankle_shoulder_cm, data=body, facets = Sex ~ Group)</code></pre>
+<img src="260-2015-11-30-speed-lab_files/figure-html/body-measurements-by-sex-1.png" />
 </div>
 </div>
 <div id="average-body-measurements-within-participants" class="section level2">
@@ -244,14 +251,21 @@ require(dplyr)</code></pre>
   group_by(Group, Participant) %&gt;%
   summarize(mean_part_cm = mean(Ankle_shoulder_cm))
 mean_length</code></pre>
-<pre><code>## Source: local data frame [4 x 3]
+<pre><code>## Source: local data frame [25 x 3]
 ## Groups: Group
 ## 
-##   Group Participant mean_part_cm
-## 1     a           1     124.0000
-## 2     a           2     112.3333
-## 3     b           1     124.3333
-## 4     b           2     113.3333</code></pre>
+##        Group Participant mean_part_cm
+## 1  frontrowz           1     133.3333
+## 2  frontrowz           2     131.0000
+## 3  frontrowz           3     134.0000
+## 4  frontrowz           4     140.6667
+## 5  frontrowz           5     150.6667
+## 6  frontrowz           6     123.5000
+## 7  frontrowz           7     137.1667
+## 8  frontrowz           8     129.1667
+## 9  frontrowz           9     125.5000
+## 10 frontrowz          10     122.0000
+## ..       ...         ...          ...</code></pre>
 </div>
 <div id="sum-body-measurements-across-groups" class="section level2">
 <h2>Sum body measurements across groups</h2>
@@ -261,9 +275,9 @@ mean_length</code></pre>
 total_length</code></pre>
 <pre><code>## Source: local data frame [2 x 2]
 ## 
-##   Group total_cm
-## 1     a 236.3333
-## 2     b 237.6667</code></pre>
+##       Group total_cm
+## 1 frontrowz   1592.5
+## 2    team-z   1678.0</code></pre>
 </div>
 <div id="plot-times" class="section level2">
 <h2>Plot times</h2>
@@ -290,94 +304,135 @@ times$Secs_diff &lt;- ankle_times$Time_secs - shoulder_times$Time_secs</code></p
 <h2>Merge dataframes so can plot speeds</h2>
 <pre class="r"><code>merged &lt;- merge(total_length, times, by=&quot;Group&quot;)
 merged</code></pre>
-<pre><code>##    Group total_cm Trial_num Ankle_shoulder Time_secs Secs_diff
-## 1      a 236.3333         1       shoulder      5.00      5.00
-## 2      a 236.3333         2       shoulder      4.00      7.00
-## 3      a 236.3333         3       shoulder      6.00      6.00
-## 4      a 236.3333         4       shoulder      5.50      5.00
-## 5      a 236.3333         5       shoulder      4.75      6.50
-## 6      a 236.3333         6       shoulder      5.25      4.75
-## 7      a 236.3333         7       shoulder      6.24      3.51
-## 8      a 236.3333         8       shoulder      4.80      4.80
-## 9      a 236.3333         9       shoulder      6.50      3.30
-## 10     a 236.3333        10       shoulder      4.20      5.30
-## 11     a 236.3333         1          ankle     10.00      4.30
-## 12     a 236.3333         2          ankle     11.00      7.70
-## 13     a 236.3333         3          ankle     12.00      4.80
-## 14     a 236.3333         4          ankle     10.50      5.10
-## 15     a 236.3333         5          ankle     11.25      6.70
-## 16     a 236.3333         6          ankle     10.00      5.30
-## 17     a 236.3333         7          ankle      9.75      3.70
-## 18     a 236.3333         8          ankle      9.60      4.70
-## 19     a 236.3333         9          ankle      9.80      3.00
-## 20     a 236.3333        10          ankle      9.50      4.50
-## 21     b 237.6667         1       shoulder      6.00      5.00
-## 22     b 237.6667         2       shoulder      3.00      7.00
-## 23     b 237.6667         3       shoulder      7.00      6.00
-## 24     b 237.6667         4       shoulder      5.50      5.00
-## 25     b 237.6667         5       shoulder      4.75      6.50
-## 26     b 237.6667         6       shoulder      5.00      4.75
-## 27     b 237.6667         7       shoulder      6.20      3.51
-## 28     b 237.6667         8       shoulder      5.00      4.80
-## 29     b 237.6667         9       shoulder      6.20      3.30
-## 30     b 237.6667        10       shoulder      4.70      5.30
-## 31     b 237.6667         1          ankle     10.30      4.30
-## 32     b 237.6667         2          ankle     10.70      7.70
-## 33     b 237.6667         3          ankle     11.80      4.80
-## 34     b 237.6667         4          ankle     10.60      5.10
-## 35     b 237.6667         5          ankle     11.45      6.70
-## 36     b 237.6667         6          ankle     10.30      5.30
-## 37     b 237.6667         7          ankle      9.90      3.70
-## 38     b 237.6667         8          ankle      9.70      4.70
-## 39     b 237.6667         9          ankle      9.20      3.00
-## 40     b 237.6667        10          ankle      9.20      4.50</code></pre>
+<pre><code>##        Group total_cm Trial_num Ankle_shoulder Time_secs Secs_diff
+## 1  frontrowz   1592.5         1       shoulder      3.84     -0.24
+## 2  frontrowz   1592.5         2       shoulder      2.09      0.57
+## 3  frontrowz   1592.5         3       shoulder      2.15      0.35
+## 4  frontrowz   1592.5         4       shoulder      2.38      0.27
+## 5  frontrowz   1592.5         5       shoulder      2.13      0.40
+## 6  frontrowz   1592.5         6       shoulder      2.16      0.34
+## 7  frontrowz   1592.5         7       shoulder      2.04      0.46
+## 8  frontrowz   1592.5         8       shoulder      2.13      0.37
+## 9  frontrowz   1592.5         9       shoulder      2.28      0.22
+## 10 frontrowz   1592.5        10       shoulder      2.50      0.03
+## 11 frontrowz   1592.5         1          ankle      3.60      1.37
+## 12 frontrowz   1592.5         2          ankle      2.66      0.07
+## 13 frontrowz   1592.5         3          ankle      2.50      0.57
+## 14 frontrowz   1592.5         4          ankle      2.65      0.93
+## 15 frontrowz   1592.5         5          ankle      2.53      0.10
+## 16 frontrowz   1592.5         6          ankle      2.50      0.60
+## 17 frontrowz   1592.5         7          ankle      2.50      0.54
+## 18 frontrowz   1592.5         8          ankle      2.50      0.43
+## 19 frontrowz   1592.5         9          ankle      2.50      0.52
+## 20 frontrowz   1592.5        10          ankle      2.53      0.88
+## 21    team-z   1678.0         1       shoulder      3.13     -0.24
+## 22    team-z   1678.0         2       shoulder      4.06      0.57
+## 23    team-z   1678.0         3       shoulder      3.00      0.35
+## 24    team-z   1678.0         4       shoulder      2.97      0.27
+## 25    team-z   1678.0         5       shoulder      3.09      0.40
+## 26    team-z   1678.0         6       shoulder      2.81      0.34
+## 27    team-z   1678.0         7       shoulder      3.18      0.46
+## 28    team-z   1678.0         8       shoulder      2.94      0.37
+## 29    team-z   1678.0         9       shoulder      2.85      0.22
+## 30    team-z   1678.0        10       shoulder      2.78      0.03
+## 31    team-z   1678.0         1          ankle      4.50      1.37
+## 32    team-z   1678.0         2          ankle      4.13      0.07
+## 33    team-z   1678.0         3          ankle      3.57      0.57
+## 34    team-z   1678.0         4          ankle      3.90      0.93
+## 35    team-z   1678.0         5          ankle      3.19      0.10
+## 36    team-z   1678.0         6          ankle      3.41      0.60
+## 37    team-z   1678.0         7          ankle      3.72      0.54
+## 38    team-z   1678.0         8          ankle      3.37      0.43
+## 39    team-z   1678.0         9          ankle      3.37      0.52
+## 40    team-z   1678.0        10          ankle      3.66      0.88</code></pre>
 </div>
 <div id="calculate-speeds-and-add-to-dataframe" class="section level2">
 <h2>Calculate speeds and add to dataframe</h2>
 <pre class="r"><code>merged &lt;- merged %&gt;%
   mutate(cmPsec=total_cm/Secs_diff)
 merged</code></pre>
-<pre><code>##    Group total_cm Trial_num Ankle_shoulder Time_secs Secs_diff   cmPsec
-## 1      a 236.3333         1       shoulder      5.00      5.00 47.26667
-## 2      a 236.3333         2       shoulder      4.00      7.00 33.76190
-## 3      a 236.3333         3       shoulder      6.00      6.00 39.38889
-## 4      a 236.3333         4       shoulder      5.50      5.00 47.26667
-## 5      a 236.3333         5       shoulder      4.75      6.50 36.35897
-## 6      a 236.3333         6       shoulder      5.25      4.75 49.75439
-## 7      a 236.3333         7       shoulder      6.24      3.51 67.33143
-## 8      a 236.3333         8       shoulder      4.80      4.80 49.23611
-## 9      a 236.3333         9       shoulder      6.50      3.30 71.61616
-## 10     a 236.3333        10       shoulder      4.20      5.30 44.59119
-## 11     a 236.3333         1          ankle     10.00      4.30 54.96124
-## 12     a 236.3333         2          ankle     11.00      7.70 30.69264
-## 13     a 236.3333         3          ankle     12.00      4.80 49.23611
-## 14     a 236.3333         4          ankle     10.50      5.10 46.33987
-## 15     a 236.3333         5          ankle     11.25      6.70 35.27363
-## 16     a 236.3333         6          ankle     10.00      5.30 44.59119
-## 17     a 236.3333         7          ankle      9.75      3.70 63.87387
-## 18     a 236.3333         8          ankle      9.60      4.70 50.28369
-## 19     a 236.3333         9          ankle      9.80      3.00 78.77778
-## 20     a 236.3333        10          ankle      9.50      4.50 52.51852
-## 21     b 237.6667         1       shoulder      6.00      5.00 47.53333
-## 22     b 237.6667         2       shoulder      3.00      7.00 33.95238
-## 23     b 237.6667         3       shoulder      7.00      6.00 39.61111
-## 24     b 237.6667         4       shoulder      5.50      5.00 47.53333
-## 25     b 237.6667         5       shoulder      4.75      6.50 36.56410
-## 26     b 237.6667         6       shoulder      5.00      4.75 50.03509
-## 27     b 237.6667         7       shoulder      6.20      3.51 67.71130
-## 28     b 237.6667         8       shoulder      5.00      4.80 49.51389
-## 29     b 237.6667         9       shoulder      6.20      3.30 72.02020
-## 30     b 237.6667        10       shoulder      4.70      5.30 44.84277
-## 31     b 237.6667         1          ankle     10.30      4.30 55.27132
-## 32     b 237.6667         2          ankle     10.70      7.70 30.86580
-## 33     b 237.6667         3          ankle     11.80      4.80 49.51389
-## 34     b 237.6667         4          ankle     10.60      5.10 46.60131
-## 35     b 237.6667         5          ankle     11.45      6.70 35.47264
-## 36     b 237.6667         6          ankle     10.30      5.30 44.84277
-## 37     b 237.6667         7          ankle      9.90      3.70 64.23423
-## 38     b 237.6667         8          ankle      9.70      4.70 50.56738
-## 39     b 237.6667         9          ankle      9.20      3.00 79.22222
-## 40     b 237.6667        10          ankle      9.20      4.50 52.81481</code></pre>
+<pre><code>##        Group total_cm Trial_num Ankle_shoulder Time_secs Secs_diff
+## 1  frontrowz   1592.5         1       shoulder      3.84     -0.24
+## 2  frontrowz   1592.5         2       shoulder      2.09      0.57
+## 3  frontrowz   1592.5         3       shoulder      2.15      0.35
+## 4  frontrowz   1592.5         4       shoulder      2.38      0.27
+## 5  frontrowz   1592.5         5       shoulder      2.13      0.40
+## 6  frontrowz   1592.5         6       shoulder      2.16      0.34
+## 7  frontrowz   1592.5         7       shoulder      2.04      0.46
+## 8  frontrowz   1592.5         8       shoulder      2.13      0.37
+## 9  frontrowz   1592.5         9       shoulder      2.28      0.22
+## 10 frontrowz   1592.5        10       shoulder      2.50      0.03
+## 11 frontrowz   1592.5         1          ankle      3.60      1.37
+## 12 frontrowz   1592.5         2          ankle      2.66      0.07
+## 13 frontrowz   1592.5         3          ankle      2.50      0.57
+## 14 frontrowz   1592.5         4          ankle      2.65      0.93
+## 15 frontrowz   1592.5         5          ankle      2.53      0.10
+## 16 frontrowz   1592.5         6          ankle      2.50      0.60
+## 17 frontrowz   1592.5         7          ankle      2.50      0.54
+## 18 frontrowz   1592.5         8          ankle      2.50      0.43
+## 19 frontrowz   1592.5         9          ankle      2.50      0.52
+## 20 frontrowz   1592.5        10          ankle      2.53      0.88
+## 21    team-z   1678.0         1       shoulder      3.13     -0.24
+## 22    team-z   1678.0         2       shoulder      4.06      0.57
+## 23    team-z   1678.0         3       shoulder      3.00      0.35
+## 24    team-z   1678.0         4       shoulder      2.97      0.27
+## 25    team-z   1678.0         5       shoulder      3.09      0.40
+## 26    team-z   1678.0         6       shoulder      2.81      0.34
+## 27    team-z   1678.0         7       shoulder      3.18      0.46
+## 28    team-z   1678.0         8       shoulder      2.94      0.37
+## 29    team-z   1678.0         9       shoulder      2.85      0.22
+## 30    team-z   1678.0        10       shoulder      2.78      0.03
+## 31    team-z   1678.0         1          ankle      4.50      1.37
+## 32    team-z   1678.0         2          ankle      4.13      0.07
+## 33    team-z   1678.0         3          ankle      3.57      0.57
+## 34    team-z   1678.0         4          ankle      3.90      0.93
+## 35    team-z   1678.0         5          ankle      3.19      0.10
+## 36    team-z   1678.0         6          ankle      3.41      0.60
+## 37    team-z   1678.0         7          ankle      3.72      0.54
+## 38    team-z   1678.0         8          ankle      3.37      0.43
+## 39    team-z   1678.0         9          ankle      3.37      0.52
+## 40    team-z   1678.0        10          ankle      3.66      0.88
+##       cmPsec
+## 1  -6635.417
+## 2   2793.860
+## 3   4550.000
+## 4   5898.148
+## 5   3981.250
+## 6   4683.824
+## 7   3461.957
+## 8   4304.054
+## 9   7238.636
+## 10 53083.333
+## 11  1162.409
+## 12 22750.000
+## 13  2793.860
+## 14  1712.366
+## 15 15925.000
+## 16  2654.167
+## 17  2949.074
+## 18  3703.488
+## 19  3062.500
+## 20  1809.659
+## 21 -6991.667
+## 22  2943.860
+## 23  4794.286
+## 24  6214.815
+## 25  4195.000
+## 26  4935.294
+## 27  3647.826
+## 28  4535.135
+## 29  7627.273
+## 30 55933.333
+## 31  1224.818
+## 32 23971.429
+## 33  2943.860
+## 34  1804.301
+## 35 16780.000
+## 36  2796.667
+## 37  3107.407
+## 38  3902.326
+## 39  3226.923
+## 40  1906.818</code></pre>
 </div>
 <div id="plot-speeds-vs.trial_num" class="section level2">
 <h2>Plot speeds vs. Trial_num</h2>
@@ -394,6 +449,19 @@ merged</code></pre>
 <pre class="r"><code>qplot(x = factor(Group), y=cmPsec, data=merged, geom=&quot;boxplot&quot;)</code></pre>
 <img src="260-2015-11-30-speed-lab_files/figure-html/speeds-by-group-1.png" />
 </div>
+</div>
+<div id="summarize-mean-standard-dev-median-speed-in-ms" class="section level2">
+<h2>Summarize mean, standard dev, median Speed (in m/s)</h2>
+<pre class="r"><code># Convert to 
+merged_summ &lt;- merged %&gt;%
+  group_by(Group) %&gt;%
+  summarize(mean_spd = mean(cmPsec/100), stdev_spd = sd(cmPsec/100), median_spd = median(cmPsec/100))
+merged_summ</code></pre>
+<pre><code>## Source: local data frame [2 x 4]
+## 
+##       Group mean_spd stdev_spd median_spd
+## 1 frontrowz 70.94108  122.7900   35.82722
+## 2    team-z 74.74985  129.3825   37.75076</code></pre>
 </div>
 <div id="next-steps" class="section level2">
 <h2>Next steps</h2>
