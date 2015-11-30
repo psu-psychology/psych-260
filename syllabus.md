@@ -386,6 +386,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Speed of Nervous System Conduction Lab.
+    - Lecture notes. [Markdown](lectures/2015-11-30/260-2015-11-30-speed-lab.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-30/260-2015-11-30-speed-lab.html).
 
 #### Wed, December 2
 
@@ -422,7 +423,12 @@ These outlines are a convenient way to organize and review some of the course ma
 
 ### Week 17, December 14 - 18
 
-**FINAL EXAM -- TBA**
+#### Mon, December 14
+
+- Topic
+    + **Exam 4**
+    + NEW LOCATION: **305 Wagner**
+    + NEW TIME: **8-9:05a**
 
 ---
 
