@@ -12,6 +12,10 @@ output:
     self_contained: false
 ---
 
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/LfmrHTdXgK4" frameborder="0" allowfullscreen></iframe>
+
 ## Announcements
 
 - Quiz 4 next Monday, 12/7
@@ -97,21 +101,44 @@ output:
 
 - [Link to Google Docs](https://docs.google.com/spreadsheets/d/1c9i_g2iOhu6ghhUaZAhMBT_NjfFfWXpS-ICNC5zf5S4/edit?usp=sharing)
 
-## Download data
+## Register Google Sheet
+
+```{r, eval=FALSE}
+require(googlesheets) # logs into Google with my account
+nerve <- gs_title("psych-260-bbh-203-nerve-conduction-lab")
+```
+
+## Load body measure data into RStudio
+
+```{r, eval=FALSE}
+body <- gs_read(ws=1, nerve)
+str(body)
+```
+
+## Load times data into RStudio
+
+```{r, eval=FALSE}
+times = gs_read(ws=2, nerve)
+times
+```
+
+## Alternative: download data
 
 - As .csv, comma-separated value
+- Mine goes to ~/Downloads
 
-## Load data into RStudio
+## Alternative: Load data into RStudio (alternate way)
 
 ```{r}
 body <- read.csv('~/Downloads/psych-260-bbh-203-nerve-conduction-lab - body-measurements.csv')
 str(body)
 ```
 
-### Load data into RStudio
+### Alternative: Load data into RStudio
+
 ```{r}
 times <- read.csv('~/Downloads/psych-260-bbh-203-nerve-conduction-lab - time-measurements.csv')
-str(times)
+    str(times)
 ```
 
 ## Get ready to plot
@@ -124,9 +151,11 @@ require(dplyr)
 
 ## Plot body measurements
 
+<div class="centered">
 ```{r body-measurements}
 qplot(x=Participant, y=Ankle_shoulder_cm, data=body, facets = . ~ Group)
 ```
+</div>
 
 ## Average body measurements within participants
 
@@ -148,9 +177,11 @@ total_length
 
 ## Plot times
 
+<div class="centered">
 ```{r times-by-trial-num}
 qplot(x=Trial_num, y=Time_secs, data=times, facets = . ~ Group, color=Ankle_shoulder, geom=c("point", "smooth"))
 ```
+</div>
 
 ## Calculate time difference
 
@@ -173,26 +204,35 @@ merged <- merge(total_length, times, by="Group")
 merged
 ```
 
-## Plot speeds vs. Trial_num
+## Calculate speeds and add to dataframe
 
-```{r speeds-by-trial-num}
+```{r calculate-speeds}
 merged <- merged %>%
   mutate(cmPsec=total_cm/Secs_diff)
-qplot(x=Trial_num, y=cmPsec, data=merged, facets = . ~ Group)
+merged
 ```
+
+## Plot speeds vs. Trial_num
+
+<div class="centered">
+```{r speeds-by-trial-num}
+qplot(x=Trial_num, y=cmPsec, data=merged, facets = . ~ Group, geom=c("point", "smooth"))
+```
+</div>
 
 ## Plot speeds by Group
 
+<div class="centered">
 ```{r speeds-by-group}
 qplot(x = factor(Group), y=cmPsec, data=merged, geom="boxplot")
 ```
+</div>
 
 ## Next steps
 
 - Write up (2-4 pp, double-spaced)
     + Introduction
     + Methods
-    
     + Results
     + Discussion
 - Worth 15 points (extra credit or replace paper/blog)
