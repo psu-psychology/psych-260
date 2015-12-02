@@ -391,7 +391,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Wed, December 2
 
 - Topic
-    - Learning & memory I. 
+    - Learning & memory I.
+    - Lecture notes. [Markdown](lectures/2015-12-02/260-2015-12-02-learning-memory-I.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-12-02/260-2015-12-02-learning-memory-I.html). 
 - Assignment
     - Read W&B 13:354-370.
 
