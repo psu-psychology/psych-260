@@ -145,6 +145,20 @@ output:
     + Lasting hanges in neural firing, connectivity
 - NMDA receptor molecular mechanism for implementing LTP and spike-timing-dependent plasticity
 
+## How does LTP work?
+
+- Ca++ entry triggers biochemical cascade
+- Existing (AMPA) glutamate receptors made to stay open longer
+- New AMPA Glu receptors synthesized, inserted into postsynaptic membrane
+
+## LTP signaling {.smaller}
+
+<div class="centered">
+<img src="../img/LTP-a_07_m_tra_1a.gif"" height=450px>
+
+<http://thebrain.mcgill.ca/flash/a/a_07/a_07_m/a_07_m_tra/a_07_m_tra.html>
+</div>
+
 ## Dimensions of stored info
 
 - Memory of what?
@@ -161,6 +175,14 @@ output:
 
 [[@squire_memory_2004]](http://dx.doi.org/10.1016/j.nlm.2004.06.005)
 </div>
+
+## Main points
+
+- Learning and memory involve changes in neural firing, circuitry
+- Hebbian learning a type of associative learning
+- NMDA receptor as coincidence detector
+    + Molecular basis of one form of long-term potentiation (LTP)
+- Different types of information stored in different brain systems
 
 ## Next time...
 
