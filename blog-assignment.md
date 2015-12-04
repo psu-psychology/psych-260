@@ -18,6 +18,10 @@ You may choose to comment on articles from the popular or scientific press. You 
 
 Be mindful of personal privacy. You should not reveal sensitive or personal information about yourself or another person in any way that could cause harm or embarrassment.
 
+## How to submit
+
+Send a message via ANGEL to Dr. Gilmore and the TA, Erin Guty. Include the URL (web link) to your blog in the message.
+
 ## Sources
 
 You may use your textbook or other reference materials as resources. When mentioning a finding that appears in your textbook or another source, please cite the source using the APA Publication Manual format — e.g. (Gilmore & Cohen, 2003). If you use sources other than your textbook, provide a full bibliographic reference at the end of your paper. Wherever possible, link to articles or figures in your post so that others can follow what you've found.
