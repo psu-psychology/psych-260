@@ -20,6 +20,10 @@ Choose two articles from the popular or scientific press on the same issue or re
 5. Your paper should be about two to four pages in length, using double-spacing, margins no smaller than 1" and a 12 point typeface. This is approximately 500-1,000 words.
 6. ERIN OR I WILL BE HAPPY TO DISCUSS POSSIBLE ARTICLES AND TOPICS WITH YOU.
 
+## How to submit
+
+Send a message via ANGEL to Dr. Gilmore and the TA, Erin Guty. Attach your paper with the message.
+
 ## Sources
 
 You may use your textbook or other reference materials as additional resources. When mentioning a finding that appears in your textbook or another source, please cite the source using the APA Publication Manual format — e.g. (Gilmore & Cohen, 2003). If you use sources other than your textbook, provide a full bibliographic reference at the end of your paper.
