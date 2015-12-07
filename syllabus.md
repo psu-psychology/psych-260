@@ -411,7 +411,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - **Quiz 4**
-    - Return Exam 3
+    - Return [Exam 3](https://github.com/psu-psychology/psych-260/blob/master/exam/psych-260-exam-3.pdf)
 
 #### Wed, December 9
 
