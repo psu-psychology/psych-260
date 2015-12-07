@@ -302,7 +302,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topics
     - [**Quiz 3**](https://github.com/psu-psychology/psych-260/blob/master/quiz/psych-260-quiz-3.pdf).
-    - [Exam 2]((https://github.com/psu-psychology/psych-260/blob/master/exam/psych-260-exam-2.pdf) returned.
+    - [Exam 2](https://github.com/psu-psychology/psych-260/blob/master/exam/psych-260-exam-2.pdf) returned.
 
 ### Week 11, November 2 - 6
 
