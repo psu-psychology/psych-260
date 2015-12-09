@@ -1,0 +1,70 @@
+---
+title: "260-2015-12-09-exam-4-review"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: ../bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: ../css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+---
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/UFuFFdK7i44" frameborder="0" allowfullscreen></iframe>
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZrXrZ5iiR0o" frameborder="0" allowfullscreen></iframe>
+
+## Announcements
+
+## Today's topics
+
+- Review for Exam 4
+
+## Methods
+
+- [Spatial/temporal resolution](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-08-31/260-2015-08-31-methods.html#5)
+- [Structural/functional methods](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-08-31/260-2015-08-31-methods.html#6)
+
+## Anatomy
+
+- [Directional terms, slices](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-02/260-2015-09-02-anatomy-I.html#(4))
+- Gross
+    + [Forebrain/midbrain/hindbrain](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-02/260-2015-09-02-anatomy-I.html#(19))
+    + [ventricles/CSF](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-02/260-2015-09-02-anatomy-I.html#(12)), [meninges](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-02/260-2015-09-02-anatomy-I.html#(11)), blood supply
+    + [Gyri/sulci](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-04/260-2015-09-04-anatomy-II.html#5)
+    + [gray/white matter](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-04/260-2015-09-04-anatomy-II.html#7)
+    
+## Cellular anatomy
+
+- [Parts of the neuron](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-11/260-2015-09-11-cells.html#17)
+    
+## Neurophysiology
+
+- [Resting potential](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-14/260-2015-09-14-neurophys-I.html#15)
+- Action potential [phases](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-18/260-2015-09-18-neurophys-II.html#16), [components](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-18/260-2015-09-18-neurophys-II.html#18)
+- [Synaptic transmission](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-30/260-2015-09-30-neurochem-II.html#7)
+- Synaptic plasticity, LTP
+
+## Neurochemistry
+
+- Big Three
+- Neuromodulators
+
+## Evolution and development
+
+- Vertebrates vs. non, humans vs. other vertebrates
+- Prenatal vs. postnatal brain development
+
+## Sensation
+
+- Vision
+- Audition
+
+## Action
