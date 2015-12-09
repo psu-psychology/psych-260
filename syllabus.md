@@ -417,6 +417,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Review for Exam 4
+    - Lecture notes. [Markdown](lectures/2015-12-09/260-2015-12-09-exam-4-review.Rmd). [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-12-09/260-2015-12-09-exam-4-review.html).
 
 #### Fri, December 11
 

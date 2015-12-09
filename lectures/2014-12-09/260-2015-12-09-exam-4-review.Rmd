@@ -15,11 +15,7 @@ output:
 
 ## Prelude
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/UFuFFdK7i44" frameborder="0" allowfullscreen></iframe>
-
-## Prelude
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZrXrZ5iiR0o" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K8MWjFO9NCc" frameborder="0" allowfullscreen></iframe>
 
 ## Announcements
 
@@ -50,21 +46,36 @@ output:
 - [Resting potential](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-14/260-2015-09-14-neurophys-I.html#15)
 - Action potential [phases](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-18/260-2015-09-18-neurophys-II.html#16), [components](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-18/260-2015-09-18-neurophys-II.html#18)
 - [Synaptic transmission](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-30/260-2015-09-30-neurochem-II.html#7)
-- Synaptic plasticity, LTP
+- [Hebbian learning](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-12-02/260-2015-12-02-learning-memory-I.html#12), [Synaptic plasticity, LTP, NMDA](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-12-02/260-2015-12-02-learning-memory-I.html#13)
 
 ## Neurochemistry
 
-- Big Three
-- Neuromodulators
+- Big Three -- [Glu](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-30/260-2015-09-30-neurochem-II.html#9), [GABA](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-30/260-2015-09-30-neurochem-II.html#11), [ACh](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-30/260-2015-09-30-neurochem-II.html#14)
+- Neuromodulators -- [DA](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-30/260-2015-09-30-neurochem-II.html#26), [NE](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-30/260-2015-09-30-neurochem-II.html#30), [5-HT](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-09-30/260-2015-09-30-neurochem-II.html#34)
 
 ## Evolution and development
 
-- Vertebrates vs. non, humans vs. other vertebrates
-- Prenatal vs. postnatal brain development
+- [History of life on Earth](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-09/260-2015-10-09-evo.html#13)
+- [Vertebrates vs. non](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-09/260-2015-10-09-evo.html#15), [humans vs. other vertebrates](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-09/260-2015-10-09-evo.html#19)
+- [Prenatal vs. postnatal brain development](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-12/260-2015-10-12-devel.html#3)
 
-## Sensation
+## Biological rhythms and sleep
 
-- Vision
-- Audition
+- [REM vs. other phases](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-07/260-2015-10-07-sleep.html#16)
+- [SCN, pineal gland, melatonin](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-07/260-2015-10-07-sleep.html#7)
 
-## Action
+## Emotion
+
+- [Pleasure/reward system](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-19/260-2015-10-19-emotion.html#29)
+- Fear, stress in [behavior](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-21/260-2015-10-21-fear-stress.html#6) and [brain](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-10-21/260-2015-10-21-fear-stress.html#8)
+
+## Perception and Action
+
+- Topographic maps: [somatosensation](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-04/260-2015-11-04-somatosensation.html#17), [audition](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-11/260-2015-11-11-audition.html#27), [vision](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-16/260-2015-11-16-vision-II.html#18)
+- Perceiving what vs. where: [audition](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-11/260-2015-11-11-audition.html#31), [vision](https://rawgit.com/psu-psychology/psych-260/master/lectures/2015-11-16/260-2015-11-16-vision-II.html#32)
+- Functional segregation: by receptor, type of info
+- Receptive fields
+
+## Next time
+
+- The Cerebral Symphony
