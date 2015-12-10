@@ -423,6 +423,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - The Cerebral Symphony
+    - Lecture notes. [Markdown](lectures/2015-12-11/260-2015-12-11-cerebral-symphony.Rmd). [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/2015-12-11/260-2015-12-11-cerebral-symphony.html).
 
 ### Week 17, December 14 - 18
 
