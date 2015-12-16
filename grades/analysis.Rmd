@@ -11,6 +11,8 @@ This document summarizes student performance in PSYCH 260 for a couple of recent
 ```{r}
 df_260 <- read.csv('data/260-recent-grades.csv')
 library(ggplot2) # pretty plotting
+# levels(df_260$Grade) <- ordered(df_260$Grade, levels=c("F", "D", "C", "C+", "B-", "B", "B+", "A-", "A", "A+"))
+df_260$Grade <- factor(df_260$Grade, levels=c("A+", "A-", "A", "B+", "B", "B-", "C+", "C", "D", "F"))
 ```
 
 ## Grade distribution by Year
