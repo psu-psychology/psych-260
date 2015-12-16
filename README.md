@@ -14,6 +14,8 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 
 ### Teaching Assistant
 
+**TBA**
+
 ## Meeting Location and Time
 
 ### Section 001
