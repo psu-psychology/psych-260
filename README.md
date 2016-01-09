@@ -14,6 +14,9 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 
 ### Teaching Assistant
 
+**Erin Guty**</br>
+Graduate Assistant</br>
+<exg5204@psu.edu>
 **TBA**
 
 ## Meeting Location and Time
@@ -71,6 +74,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Introduction to the course, history of neuroscience
+    - Lectures notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-12.Rmd).
 - Assignment
     - Read W&B 1:2-19.
     <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
