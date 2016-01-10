@@ -16,7 +16,7 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 
 **Erin Guty**</br>
 Graduate Assistant</br>
-<exg5204@psu.edu>
+<exg5204@psu.edu></br>
 **TBA**
 
 ## Meeting Location and Time
@@ -47,7 +47,7 @@ Watson, N.V. & Breedlove, S.M. (2012). The Minds's Machine, 2/E. Sinauer: Sunder
 
 ### Web links
 
-Course syllbus: <https://github.com/psu-psychology/psych-260/blob/master/syllabus.md></br>
+Course syllabus: <https://github.com/psu-psychology/psych-260/blob/master/README.md></br>
 Course repository: <https://github.com/psu-psychology/psych-260></br>
 BrainFacts.org from The Society for Neuroscience: <http://www.brainfacts.org>
 
