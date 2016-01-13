@@ -74,7 +74,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Introduction to the course, history of neuroscience
-    - Lectures notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-12.Rmd).
+    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-12.Rmd).
 - Assignment
     - Read W&B 1:2-19.
     <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
@@ -84,6 +84,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Levels of analysis; neuroscience methods I
+    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-14-levels.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-14-levels.Rmd).
 - Assignments
     - Review W&B 2:24.
     - Read [Levels of analysis outline](outlines/levels-of-analysis.md).
@@ -292,12 +293,12 @@ These outlines are a convenient way to organize and review some of the course ma
 
 ### Week 15, April 18-22
 
-#### Tue, November 18
+#### Tue, April 19
 
 - Topic
     - **Exam 3**
 
-#### Thu
+#### Thu, April 21
 
 - Topic
     - Learning & memory.
