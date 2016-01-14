@@ -249,8 +249,8 @@ bibliography: bib/bibliography.bib
 ## Tomography
 
 <div class="centered">
-<a href="http://img.tfd.com/mk/T/X2604-T-22.png>">
-<img src="http://img.tfd.com/mk/T/X2604-T-22.png" height="400px"/>
+<a href="http://img.tfd.com/mk/T/X2604-T-22.png">
+<img src="img/ct-scanner.png" height="400px"/>
 </a>
 </div>
 
@@ -260,6 +260,14 @@ bibliography: bib/bibliography.bib
 <img src="http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg"/>
 
 <http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg>
+</div>
+
+## CT scan of stroke
+
+<div class="centered">
+<a href="http://1.bp.blogspot.com/-I5AIwDp1jJM/UF9gqPEw4vI/AAAAAAAB77M/VfLRw2JDEiY/s1600/mca+inferior+division+infarct+ct+brain.JPG">
+<img src="img/mca-inferior-division-infarct-ct-brain.jpg" height=500px>
+</a>
 </div>
 
 ## These sketches from da Vinci show depict what fluid filled chambers in the brain?
@@ -310,6 +318,14 @@ bibliography: bib/bibliography.bib
 - Gray vs. white - Axon fibers
 - Spectroscopy
 - Region sizes/volumes
+
+## Structural MRI of the brain
+
+<div class="centered">
+<a href="http://www.brainfacts.org/~/media/Brainfacts/Article%20Multimedia/About%20Neuroscience/Technologies/MRI_blackandwhite.ashx">
+<img src="http://www.brainfacts.org/~/media/Brainfacts/Article%20Multimedia/About%20Neuroscience/Technologies/MRI_blackandwhite.ashx" width=500px>
+</a>
+</div>
 
 ## Diffusion tensor imaging (DTI)
 
