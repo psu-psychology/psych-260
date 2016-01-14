@@ -108,6 +108,18 @@ bibliography: bib/bibliography.bib
     + Centuries
         * cultural changes
     + Millenia
+    
+## What does the practice of trephining suggest about our human ancestors?
+
+- A. That they knew nothing about how to treat mental illness
+- B. That they knew a lot about how to treat mental illness 
+- C. That they had some notion about the link between mental illness and the brain
+
+## What does the practice of trephining suggest about our human ancestors?
+
+- A. That they knew nothing about how to treat mental illness
+- B. That they knew a lot about how to treat mental illness 
+- **C. That they had some notion about the link between mental illness and the brain**
 
 ## Why does this matter?
 
@@ -249,6 +261,28 @@ bibliography: bib/bibliography.bib
 
 <http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg>
 </div>
+
+## These sketches from da Vinci show depict what fluid filled chambers in the brain?
+
+<div class="centered">
+<a href="http://www.unige.ch/cyberdocuments/theses2003/RivaraC-B/images/fig.1.jpg">
+<img src="http://www.unige.ch/cyberdocuments/theses2003/RivaraC-B/images/fig.1.jpg"/>
+</a>
+</div>
+
+## These sketches from da Vinci show depict what fluid filled chambers in the brain?
+
+- A. The cerebellum
+- B. Synaptic vesicles
+- C. Cerebral ventricles
+- D. Cerebral cortex
+
+## These sketches from da Vinci show depict what fluid filled chambers in the brain?
+
+- A. The cerebellum
+- B. Synaptic vesicles
+- **C. Cerebral ventricles**
+- D. Cerebral cortex
 
 ## Magnetic Resonance Imaging (MRI)
 
