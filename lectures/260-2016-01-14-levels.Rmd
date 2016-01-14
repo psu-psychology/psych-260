@@ -13,6 +13,10 @@ output:
 bibliography: bib/bibliography.bib
 ---
 
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allowfullscreen></iframe>
+
 ## Today's Topics
 
 - Levels of analysis in the study of brain and behavior
@@ -203,7 +207,6 @@ bibliography: bib/bibliography.bib
 
 ## [Brainbow](http://cbs.fas.harvard.edu/science/connectome-project/brainbow)
 
-
 <div class="centered">
 <img src="img/lichtman-nrn2391-f1.jpg">
 
@@ -217,6 +220,10 @@ bibliography: bib/bibliography.bib
 
 [[@lichtman_technicolour_2008]](http://doi.org/10.1038/nrn2391)
 </div>
+
+## [Eyewire.org](http://eyewire.org)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c43jVfpzvZ0" frameborder="0" allowfullscreen></iframe>
 
 ## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
 
@@ -258,6 +265,10 @@ bibliography: bib/bibliography.bib
 
 <http://s.hswstatic.com/gif/mri-steps.jpg>
 </div>
+
+## How MRI works
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CGzk-nV06g" frameborder="0" allowfullscreen></iframe>
 
 ## Structural MRI
 
