@@ -16,8 +16,9 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 
 **Erin Guty**</br>
 Graduate Assistant</br>
+372 Moore Building</br>
 <exg5204@psu.edu></br>
-**TBA**
+Office hours T 1:30-3:00 pm and by appointment.</br>
 
 ## Meeting Location and Time
 
