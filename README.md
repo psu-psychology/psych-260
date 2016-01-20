@@ -42,7 +42,7 @@ There is perhaps no more fascinating scientific frontier than the study of the b
 
 ## Resources
 
-### Textbook
+### Textbook (optional)
 
 Watson, N.V. & Breedlove, S.M. (2012). The Minds's Machine, 2/E. Sinauer: Sunderland, MA. <http://www.mindsmachine.com>
 
@@ -110,6 +110,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neuroanatomy II.
+    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-21.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-21.Rmd).
 - Assignment
     - Read W&B: 2:29-42.
     - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
@@ -124,7 +125,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 #### Thu, January 28
 
-**NO CLASS**
+- Section 001 (11:15a), only 2nd half of class report.
 
 ### Week 04, February 1-5
 
