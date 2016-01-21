@@ -98,16 +98,19 @@ bibliography: bib/bibliography.bib
 
 ## Organization of the Nervous System
 
-### Central Nervous System (CNS) 
+- Central Nervous System (CNS)
+- Peripheral Nervous System (PNS)
+
+## Central Nervous System (CNS) 
 
 - Brain
 - Spinal Cord
 - Everything encased in bone
 
-### Peripheral Nervous System (PNS)
+## Peripheral Nervous System (PNS)
 
 - Autonomic Nervous System
-   - Sympathetic nervous system
+    - Sympathetic nervous system
     - Parasympathetic nervous system
     - Enteric nervous system
  - Somatic Nervous System
@@ -291,9 +294,7 @@ bibliography: bib/bibliography.bib
 ## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia)
 
 <div class="centered">
-<img src="http://www.structural-communication.com/Articles/images/L-basal-ganglia.jpg" height="500px">
-
-<http://www.structural-communication.com/Articles/images/L-basal-ganglia.jpg>
+<img src="http://humanphysiology.academy/Neurosciences%202015/Images/5/basalganglia%20sehati_org.jpeg" height="500px">
 </div>
 
 ## [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia)
@@ -310,11 +311,18 @@ bibliography: bib/bibliography.bib
 
 ## [Hippocampus](https://en.wikipedia.org/wiki/Hippocampus)
 
+- From Greek for "sea horse"
 - Immediately lateral to lateral ventricles
 - Memories of specific facts or events, spatial locations
 - Implicated in Alzheimer's Disease
 - [Fornix](https://en.wikipedia.org/wiki/Fornix_(neuroanatomy)) projects to hypothalamus
 - [Mammillary bodies](https://en.wikipedia.org/wiki/Mammillary_body)
+
+## From Greek for "sea horse"
+
+<div class="centered">
+<img src="http://static1.squarespace.com/static/52ec8c1ae4b047ccc14d6f29/t/53835846e4b08ed23a64d3aa/1401116743844/hippocampus_seahorse.jpg?format=300w" height=500px>
+</div>
 
 ## [Hippocampus](https://en.wikipedia.org/wiki/Hippocampus)
 
@@ -338,16 +346,13 @@ bibliography: bib/bibliography.bib
 <http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg>
 </div>
 
-### Cerebral Cortex
-### Spinal Cord
-### The Peripheral Nervous System
 ## Cerebral Cortex
 
-### Cerebral hemispheres
-### Groove (sulcus or sulci)
-### Bumps (gyrus or gyri)
-### Grey vs.white matter
-### Lobes
+- Cerebral hemispheres
+- Groove (sulcus or sulci)
+- Bumps (gyrus or gyri)
+- Grey vs.white matter
+- Lobes
 
 ## Cortical Gyri -- Lateral
 
@@ -412,7 +417,8 @@ bibliography: bib/bibliography.bib
 <div class="centered">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png" height="400px">
 
-<https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png>?????????</div>
+<https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png>
+</div>
 
 ## Representative fiber tracts in the cortex
 
