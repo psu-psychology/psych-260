@@ -57,7 +57,7 @@ bibliography: bib/bibliography.bib
 - Cerebral aqueduct 
 - 4th
 
-### [Cerebrospinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid)
+## [Cerebrospinal fluid (CSF)](https://en.wikipedia.org/wiki/Cerebrospinal_fluid)
 
 - Flows through ventricles, between brain and dura mater
 - Clears metabolites during sleep [@xie2013sleep].
