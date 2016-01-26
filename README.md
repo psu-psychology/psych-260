@@ -60,7 +60,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 - [Cellular outline](outlines/cellular-outline.md)
 - [Neurotransmission outline](outlines/neurotransmission-outline.md)
-- [Harvard Brain Atlas](http://www.med.harvard.edu/AANLIB/cases/casNA/pb9.htm)
+- [Harvard Brain Atlas](http://www.med.harvard.edu/AANLIB/cases/caseNA/pb9.htm)
 
 ---
 
