@@ -1,0 +1,250 @@
+---
+title: "260-2016-02-02"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Prelude (6:18)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zsSxrlIR_c" frameborder="0" allowfullscreen></iframe>
+
+## Today's topics
+
+- **Quiz 1**
+- Wrap-up on neuroanatomy
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| Forebrain      | Lateral              | Telencephalon      | Cerebral cortex |
+|                |                      |                    | Basal ganglia   |
+|                |                      |                    | Hippocampus, amygdala |
+|                | Third                | Diencephalon       | Thalamus        |
+|                |                      |                    | Hypothalamus    |
+| Midbrain       | Cerebral Aqueduct    | Mesencephalon      | Tectum, tegmentum |
+
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure         |
+|----------------|----------------------|--------------------|-------------------|
+| Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
+|                | --                   | Mylencephalon      | Medulla oblongata |
+
+
+## Temporal lobe 
+
+- Where is it?
+    - Ventral to frontal, parietal lobes
+    - Inferior to lateral fissure
+
+## [Temporal lobe](https://en.wikipedia.org/wiki/Temporal_lobe)
+
+- What does it do/contain?
+    - Primary [auditory cortex](https://en.wikipedia.org/wiki/Auditory_cortex), AI
+    - Object, face recognition
+    - Amygdala, hippocampus
+    - Storage of memories about events, objects 
+
+## Inferior Temporal Gyrus (ITG)
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png" height="400px"/>
+</a>
+</div>
+
+## Entorhinal Cortex (ER)
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png" height="400px"/>
+</a>
+</div>
+
+## [Parietal lobe](https://en.wikipedia.org/wiki/Parietal_lobe)
+
+- Where is it?
+    - Caudal to frontal lobe
+    - Dorsal to temporal lobe
+    - Posterior to central sulcus
+
+## [Parietal lobe](https://en.wikipedia.org/wiki/Parietal_lobe)
+
+- What does it do/contain?
+    - [Primary somatosensory cortex](https://en.wikipedia.org/wiki/Postcentral_gyrus)
+    - Perception of spatial relations, action planning
+    - Inferior and superior parietal lobules
+
+## [Inferior Parietal Lobule](https://en.wikipedia.org/wiki/Inferior_parietal_lobule)
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png" height="400px"/>
+</a>
+</div>
+
+## [Superior Parietal Lobule](https://en.wikipedia.org/wiki/Superior_parietal_lobule)
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png" height="400px"/>
+</a>
+</div>
+
+## [Occipital lobe](https://en.wikipedia.org/wiki/Occipital_lobe)
+
+- Where is it?
+    - Caudal to parietal & temporal lobes
+- What does it do/contain?
+    - [Primary visual cortex (V1)](https://en.wikipedia.org/wiki/Visual_cortex)
+
+## Visual Cortex
+
+<div class="centered">
+<a href="http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png">
+<img src="http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png" height=500px/>
+</a>
+</div>
+
+## [Insular cortex (insula)](https://en.wikipedia.org/wiki/Insular_cortex)
+
+-  Where is it?
+    - medial to temporal lobe
+    - deep inside lateral fissure
+
+## Insula
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png" width="700px"/>
+</a>
+</div>
+
+## Insula
+
+- What does it do/contain?
+    - Primary [gustatory cortex](https://en.wikipedia.org/wiki/Gustatory_cortex)
+    - self-awareness, interpersonal experiences, motor control
+
+## [Brodmann Areas](https://en.wikipedia.org/wiki/Brodmann_area)
+
+- [Korbinian Brodmann](https://en.wikipedia.org/wiki/Korbinian_Brodmann)
+- Cytoarchitectonic (cell architecture) differences in cerebral cortex
+
+<div class="centered">
+<a href="http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg">
+<img src="http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg" height="400px"/>
+</a>
+</div>
+
+## [Brodmann Areas](https://en.wikipedia.org/wiki/Brodmann_area)
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png">
+</a>
+</div>
+
+## [Spinal cord](http://www.scholarpedia.org/article/Spinal_cord)
+
+- Rostral/Caudal axis
+    - Spinal column w/ vertebrae
+    - Cervical (8), thoracic (12), lumbar (5), sacral (5), coccygeal (1)
+    - Spinal segments & 31 spinal nerve pairs 
+    - [Cauda equina](https://en.wikipedia.org/wiki/Cauda_equina), "horse tail"
+
+## [Spinal cord](http://www.scholarpedia.org/article/Spinal_cord)
+
+<div class="centered">
+<a href="http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg">
+<img src="http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg" height="500px">
+</a>
+</div>
+
+## [Spinal cord](http://www.scholarpedia.org/article/Spinal_cord)
+
+- Organization of the spinal cord
+    - Dorsal/Ventral
+        + Dorsal root (sensory)
+        + Ventral root (mostly motor)
+    - Grey (interior) vs. white matter (exterior)
+
+## [Spinal cord](http://www.scholarpedia.org/article/Spinal_cord)
+
+<div class="centered">
+<a href="http://www.laesieworks.com/spinal/images-spinal/SpinalCord.jpg">
+<img src="http://www.laesieworks.com/spinal/images-spinal/SpinalCord.jpg" height="500px">
+</a>
+</div>
+
+## Organization of the PNS 
+
+- Somatic division
+    + Voluntary control of skeletal muscles
+    + Somatosensory input
+- Autonomic division
+
+- Cranial nerves
+- Spinal nerves
+
+## [Cranial nerves](https://en.wikipedia.org/wiki/Cranial_nerves)
+
+- Afferents (input), efferents (output), or mixed
+- Emerge from brain, innervate head and neck
+- Olfactory (I), ocular (II), (VIII) auditory,
+vagus (X), etc. 
+
+## [Cranial nerves](https://en.wikipedia.org/wiki/Cranial_nerves)
+
+<div class="centered">
+<a href="http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg">
+<img src="http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg" height="500px">
+</a>
+</div>
+
+## [Autonomic nervous (ANS) system](http://www.scholarpedia.org/article/Autonomic_nervous_system)
+
+- CNS & PNS components
+- Controls "vegetative functions""
+    + Limited voluntary control
+- Two divisions
+    + Sympathetic
+    + Parasympathetic
+		
+## ANS
+
+<div class="centered">
+<a href="https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF">
+<img src="https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF" height=500px>
+</a>
+</div>
+
+## Sympathetic division
+
+- Prepares body for action
+- "Fight or flight""
+- Spinal cord
+    + ganglion chain along spinal column to End organs
+- NTs
+    + Preganglionic: ACh 
+    + Post: NE
+
+## Parasympathetic division
+
+- Around sympathetic
+- Restorative function
+- "Rest & digest"
+- Spinal cord -> ganglia near end organs -> end organ
+    + NT: ACh
+
