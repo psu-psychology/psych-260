@@ -69,6 +69,7 @@ bibliography: bib/bibliography.bib
 
 - Shape brain development, [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity)
 - Regulate local blood flow
+- Regulate/influence communication between neurons, [[@bazargani_astrocyte_2016]](http://doi.org/10.1038/nn.4201)
 - Disruption linked to cognitive impairment, disease [[@chung_glia_2015]](http://doi.org/10.1038/nn.4142)
 	
 ## Astrocytes
@@ -128,6 +129,22 @@ bibliography: bib/bibliography.bib
 <img src="http://www.bioscience.utah.edu/faculty/molecular-biology-faculty/vetter/vetterfig2011.jpg" height=450px>
 </a>
 </div>
+
+## [Neurons](https://en.wikipedia.org/wiki/Neuron)
+
+<div class="centered">
+<a href="http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg">
+<img src="http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg" height=450px/>
+</a>
+</div>
+
+## Fun facts about [neurons](https://en.wikipedia.org/wiki/Neuron)
+
+- Specialized for electrical & chemical communication
+- Post-mitotic -- don't divide
+- Most [born early in life](http://www.ninds.nih.gov/disorders/brain_basics/ninds_neuron.htm), [[@bhardwaj_neocortical_2006]](http://doi.org/10.1073/pnas.0605177103)
+- Among longest-lived cells in body, may scale with organism lifespan [[@magrassi_lifespan_2013]](http://doi.org/10.1073/pnas.1217505110)
+- Can extend over long distances
 
 ## Macrostructure of [neurons](https://en.wikipedia.org/wiki/Neuron)
 
