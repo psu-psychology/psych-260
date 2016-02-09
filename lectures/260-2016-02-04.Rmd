@@ -59,7 +59,6 @@ bibliography: bib/bibliography.bib
 ## Astrocytes
 
 - "Star-shaped"
-- Most numerous cell type
 - Physical and metabolic support
 	+ Blood/brain barrier
 	+ Ion (Ca++/K+) buffering
@@ -311,7 +310,7 @@ bibliography: bib/bibliography.bib
 
 - Neuron (and other cells) have *potential energy*
     + Inside neuron is -60-70 mV, with respect to outside
-    + About 1/15th typical AAA battery
+    + About 1/20th typical AAA battery
 - Like charges repel, opposites attract, so
     + Positively charged particles pulled in
     + Negatively charged particles pushed out
@@ -328,7 +327,6 @@ bibliography: bib/bibliography.bib
 - Potassium, K+
 - Sodium, Na+
 - Chloride, Cl-
-- Calcium, Ca++
 - Organic anions, A-
 
 ## Party On

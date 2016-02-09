@@ -133,7 +133,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Tue, February 2
 
 - Topic
-    - **Quiz 1**; [Sample/Study Questions](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/sample-questions.html)
+    - **Quiz 1**; [Sample/Study Questions](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/sample-questions.html); [Answer key](quiz/psych-260-quiz-1-ans.pdf).
     - Cells of the nervous system.
     - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-02.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-02.Rmd).
 
