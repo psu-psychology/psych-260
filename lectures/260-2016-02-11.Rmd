@@ -40,7 +40,7 @@ bibliography: bib/bibliography.bib
 </a>
 </div>
 
-## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html)] under typical conditions
+## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
 
 | Ion | [inside]  | [outside]    | Voltage    |
 |-----|-----------|--------------|------------|
@@ -299,7 +299,7 @@ bibliography: bib/bibliography.bib
 - The occipital lobe from the frontal lobe.
 - The temporal lobe from the parietal lobe.
 - **The parietal lobe from the frontal lobe.**
-- The left hemipshere from the right.
+- The left hemisphere from the right.
 
 ## These structures are located deep within the temporal lobe.
 
@@ -315,7 +315,7 @@ bibliography: bib/bibliography.bib
 - The putamen
 - The hypothalamus
 
-## Which mapping between lobe of the cerebral cortex and functional area is INCORRECT?
+## Which mapping between lobes of the cerebral cortex and functional area is INCORRECT?
 
 - Frontal lobe; primary motor cortex
 - Temporal lobe; primary auditory cortex
@@ -430,8 +430,8 @@ bibliography: bib/bibliography.bib
 ## Question
 
 - The force of diffusion will tend to push Na+
-    + Inward
-    + **Outward**
+    + **Inward**
+    + Outward
     
 ## Question
 
@@ -478,7 +478,7 @@ bibliography: bib/bibliography.bib
 
 ## Question
 
-- During the AP'srising phase, Na+ enters because
+- During the AP's rising phase, Na+ enters because
     + **Force of diffusion pushes Na+ in**
     + **Electrostatic force pushes Na+ in**
     + Electrostatic force pushes K+ out
