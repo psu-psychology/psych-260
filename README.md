@@ -164,6 +164,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topics
     - Neurophysiology III.
     - Exam 1 review.
+    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-11.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-11.Rmd).
 - Assignment
     - Read W&B 1:19, 2:46-47, 3:73.
 

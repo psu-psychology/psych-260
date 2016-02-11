@@ -119,7 +119,7 @@ bibliography: bib/bibliography.bib
 
 <div class="centered">
 <a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
-<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" height=550px>
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=700px>
 </a>
 </div>
 
