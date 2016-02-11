@@ -15,7 +15,7 @@ bibliography: bib/bibliography.bib
 
 ## Just for fun
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i6LGJ7evrAg" frameborder="0" allowfullscreen></iframe>
 
 ## Announcements
 
