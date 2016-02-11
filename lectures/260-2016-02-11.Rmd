@@ -34,11 +34,6 @@ bibliography: bib/bibliography.bib
     + Voltage that keeps current (inside/outside) concentrations the same
     + Voltage membrane potential will approach if **only** that ion flows
     
-<div class="centered">
-<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
-<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=400px>
-</a>
-</div>
 
 ## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
 
@@ -48,6 +43,11 @@ bibliography: bib/bibliography.bib
 | Na+ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
 | Cl- | ~10 mM    | ~110 mM      | - 65-80 mV  |
 
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=400px>
+</a>
+</div>
 
 ## AP propagation
 
