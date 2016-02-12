@@ -292,7 +292,7 @@ bibliography: bib/bibliography.bib
 - The occipital lobe from the frontal lobe.
 - The temporal lobe from the parietal lobe.
 - The parietal lobe from the frontal lobe.
-- The left hemipshere from the right.
+- The left hemisphere from the right.
 
 ## The central sulcus divides what from what?
 
