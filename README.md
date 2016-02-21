@@ -191,7 +191,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Neurochemistry II.
     - Hormones and the brain.
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-18.Rmd).
+    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-23.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-23.Rmd).
 
 - Assignment
     - Read W&B 4:82-99, 8:202-222.
