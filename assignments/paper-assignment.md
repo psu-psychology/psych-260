@@ -1,11 +1,11 @@
 # PSYCH 260/BBH 203 
-## Fall 2015
+## Spring 2016
 ## Paper Rubric for Participation Points
 
 ## Format, due date
 
 - **2-4 pages double-spaced**, worth 15 points
-- Due **Friday, December 4, 2015, 5:00 pm**
+- Due **Thursday, April 21, 2016** by 5:00 pm.
 
 ## Assignment
 

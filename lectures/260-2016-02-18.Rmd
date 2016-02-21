@@ -99,7 +99,7 @@ without any struggle or strain.</br>
     + Open/close channel
     + Faster, but short-acting effects
     
-## Postsynpatic receptor types
+## Postsynaptic receptor types
 
 - *Metabotropic* (receptor only)
     + Trigger 2nd messengers
@@ -186,6 +186,15 @@ Remember [Cl-out]>>[Cl-in]; Assume resting potential ~60 mV
 - Axoaxonic (to axon)
 - Axosecretory (to bloodstream)
 
+## Synapses on
+
+- dendrites
+    + usually excitatory 
+- cell bodies
+    + usually inhibitory 
+- axons 
+    + usually modulatory (change *p*(fire))
+    
 ## Summary of chemical transmission
 
 <div class="centered">
@@ -218,15 +227,6 @@ Remember [Cl-out]>>[Cl-in]; Assume resting potential ~60 mV
 <http://1.bp.blogspot.com/-ysSNMv3to_M/Tg2snEHiA3I/AAAAAAAACMA/vTQAJjI3RP4/s1600/network_giant_only.png>
 </div>
 
-## Synapses on
-
-- dendrites
-    + usually excitatory 
-- cell bodies
-    + usually inhibitory 
-- axons 
-    + usually modulatory (change p(fire))
-
 ## Neurotransmiters
 
 | Family      | Neurotansmitter                     |
@@ -248,9 +248,9 @@ Remember [Cl-out]>>[Cl-in]; Assume resting potential ~60 mV
 
 | Type         | Receptor   | Esp Permeable to |
 |--------------|------------|------------------|
-| Ionotropic   | *AMPA*       | Na+, K+          |
+| Ionotropic   | **AMPA**       | Na+, K+          |
 |              | Kainate    |                  |
-|              | *NMDA*       | Ca++              |
+|              | **NMDA**       | Ca++              |
 | Metabotropic | mGlu       |                  |
 
 ## GABA
@@ -261,8 +261,8 @@ Remember [Cl-out]>>[Cl-in]; Assume resting potential ~60 mV
 
 | Type         | Receptor   | Esp Permeable to |
 |--------------|------------|------------------|
-| Ionotropic   | *GABA-A*     | Cl-              |
-| Metabotropic | *GABA-B*     | K+            |
+| Ionotropic   | **GABA-A**     | Cl-              |
+| Metabotropic | **GABA-B**     | K+            |
 
 ## GABA
 
@@ -298,8 +298,8 @@ Remember [Cl-out]>>[Cl-in]; Assume resting potential ~60 mV
 
 | Type         | Receptor           | Esp Permeable to | Blocked by       |
 |--------------|--------------------|------------------|------------------|
-| Ionotropic   | *Nicotinic (nAChR)*  | Na+, K+          | e.g., Curare     |
-| Metabotropic | *Muscarinic (mAChR)* | K+               | e.g., Atropine   |
+| Ionotropic   | **Nicotinic (nAChR)**  | Na+, K+          | e.g., Curare     |
+| Metabotropic | **Muscarinic (mAChR)** | K+               | e.g., Atropine   |
 
 ## Curare
 

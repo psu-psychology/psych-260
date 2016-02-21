@@ -190,7 +190,9 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neurochemistry II.
-    - Hormones and the brain.  
+    - Hormones and the brain.
+    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-18.Rmd).
+
 - Assignment
     - Read W&B 4:82-99, 8:202-222.
     - [Neurotransmission outline](outlines/neurotransmission-outline.md)
@@ -234,6 +236,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Emotion, Fear, and Stress
+    - **Blog post #1 (of 3) due**
 - Assignment
     - Read W&B 11:302-324.
 
@@ -284,6 +287,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Audition.
+    - **Blog post #2 (of 3) due**
 - Assignment
     - Read W&B 6:140-156.
 
@@ -317,7 +321,7 @@ These outlines are a convenient way to organize and review some of the course ma
     - Learning & memory.
 - Assignment
     - Read W&B 13:354-370.
-    - **Papers and blog posts due**
+    - **Papers and blog post #3 (of 3) due**
 
 ### Week 16, April 25-29
 

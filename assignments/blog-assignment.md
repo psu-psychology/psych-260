@@ -1,18 +1,18 @@
 # PSYCH 260/BBH 203 
-## Fall 2015
+## Spring 2016
 ## Blog Rubric for Participation Points
 
 ## Format, due date
 
 - Create a blog at <http://sites.psu.edu> or add pages to an existing blog; make at least two posts.
 - Worth 15 points
-- Final posts due by **Friday, December 4, 2015 at 5:00 pm**.
+- Final posts due by **Thursday, April 21, 2016 at 5:00 pm**.
 
 ## Assignment
 
 Create a blog at <http://sites.psu.edu> or add to an existing blog you have created.
 
-Write at least three posts between now and **Friday, December 4, 2015 at 5:00 pm** that discuss different issues on any topic related to the biology of behavior. Your posts should be 1-3 paragraphs in length.
+Write at least three posts between now and **Thursday, April 21, 2016** that discuss different issues on any topic related to the biology of behavior. Your posts should be 1-3 paragraphs in length. Blog post #1 is due **Thursday, March 17, 2016**; Blog post #2 is due **Thursday, April 7, 2016**. Blog post #3 is due **Thursday, April 21, 2016.**
 
 You may choose to comment on articles from the popular or scientific press. You may choose to discuss a topic we covered in class, perhaps how it might relate to you or to someone you know. The guidelines for the [paper option](paper-assignment.md) may be useful to you in drafting your posts. 
 
