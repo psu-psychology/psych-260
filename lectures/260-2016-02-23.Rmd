@@ -45,7 +45,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 - **Quiz 2 on Thursday**
 - Review Exam 1 on Thursday
-- [Blog post](assignments/blog-assignment.md) and [paper](assignments/paper-assignment.md) assignments updated.
+- [Blog post](https://github.com/psu-psychology/psych-260/blob/master/assignments/blog-assignment.md) and [paper](https://github.com/psu-psychology/psych-260/blob/master/assignments/paper-assignment.md) assignments updated.
 
 ## Today's topics
 
