@@ -13,6 +13,22 @@ output:
 bibliography: bib/bibliography.bib
 ---
 
+## Prelude
+
+<div class="centered">
+<a href="http://www.avanai.se/wp-content/uploads/2010/05/Breastfeeding-humor.jpg">
+<img src="http://www.avanai.se/wp-content/uploads/2010/05/Breastfeeding-humor.jpg" height=500px>
+</a>
+</div>
+
+## Prelude
+
+<div class="centered">
+<a href="http://rlv.zcache.co.uk/growth_hormone_humor_t_shirts-r15a3fb04f8654a839e39d1dc46aa91aa_j2nwp_324.jpg">
+<img src="http://rlv.zcache.co.uk/growth_hormone_humor_t_shirts-r15a3fb04f8654a839e39d1dc46aa91aa_j2nwp_324.jpg" height=500px>
+</a>
+</div>
+
 ## Today's topics
 
 - Wrap up on hormones
