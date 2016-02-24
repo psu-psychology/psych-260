@@ -173,7 +173,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Tue, February 16
 
 - Topics
-  - **Exam 1**
+  - **Exam 1**, [Answer Key](exam/psych-260-exam-1-ans.pdf)
 
 #### Thu, February 18
 
@@ -201,8 +201,9 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topics
     - Hormones and the brain
+    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-25.Rmd).
     + **Quiz 2**.
-    + Exam 1 returned.
+    + [Exam 1 returned](exam/psych-260-exam-1-ans.pdf).
 
 ### Week 08, February 29 - March 4
 

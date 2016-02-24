@@ -1,0 +1,181 @@
+---
+title: "260-2016-02-25"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Today's topics
+
+- Wrap up on hormones
+- Quiz 2
+- Go over Exam 1
+
+## Principles of hormonal action
+
+- Gradual action
+- Change intensity or probability of behavior 
+- Behavior influences/influenced by hormones
+    + +/- Feedback
+- Multiple effects on different tissues
+
+## Principles of hormonal action
+
+- Produced in small amounts; released in bursts 
+- Levels vary daily, seasonally
+    + or are triggered by specific external/internal events
+- Effect cellular metabolism 
+- Influence only cells with receptors
+
+## Differences between neural and hormonal communication
+
+- Point to point vs.“broadcast”
+    + Wider broadcast than neuromodulators
+- Fast vs. slow-acting
+- Short-acting vs. long-acting
+- Digital (yes-no) vs. analog (graded) 
+- Voluntary control vs. involuntary
+
+## Similarities between neural and hormonal communication
+
+- Chemical messengers stored for later release 
+- Release follows stimulation
+- Action depends on specific receptors
+- 2nd messenger systems common
+
+## Where are hormones released
+
+<div class="centered">
+<img src="img/glands.jpg" height=450px>
+</div>
+
+## Where are hormones released?
+
+- CNS
+    + Hypothalamus
+    + *Pituitary*
+        * *Anterior*
+        * *Posterior*
+    + Pineal gland
+
+## Where are hormones released
+
+<div class="centered">
+<img src="img/glands.jpg" height=450px>
+</div>
+
+## Where are hormones released?
+
+- Rest of body
+    + *Thyroid*
+    +  *Adrenal (ad=adjacent, renal=kidney) gland*
+        * *Adrenal cortex*
+        * *Adrenal medulla*
+    + *Gonads* (testes/ovaries)
+
+## Two release systems 
+
+- Direct
+- Indirect
+
+## Direct hormone release into bloodstream
+
+- Hypothalamus (paraventricular, supraoptic nucleus) to
+- Posterior pituitary
+    + *Oxytocin*
+    + *Arginine Vasopressin (AVP, vasopressin)*
+        
+## Direct release
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1807_The_Posterior_Pituitary_Complex.jpg/594px-1807_The_Posterior_Pituitary_Complex.jpg" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1807_The_Posterior_Pituitary_Complex.jpg/594px-1807_The_Posterior_Pituitary_Complex.jpg>
+</div>
+
+## Indirect release
+
+- Hypothalamus -> *releasing hormones* 
+- Anterior pituitary -> *tropic hormones*
+- End organs
+    
+## Indirect release
+
+<div class="centered">
+<img src="img/indirect-release.jpg" height=450px>
+</div>
+
+## Case studies
+
+## Case 1: Responses to threat or challenge
+
+- Neural response
+    + *Sympathetic Adrenal Medulla (SAM) response*
+    + Sympathetic NS activation of adrenal medulla, other organs
+    + Releases NE and Epi
+
+## Case 1: Responses to threat or challenge
+
+- Endocrine response
+    + *Hypothalamic Pituitary Adrenal (HPA) axis*
+    + Adrenal hormones released
+- Hypothalamus
+    + *Corticotropin Releasing Hormone (CRH)*
+- Anterior pituitary
+    + *Adrenocorticotropic hormone (ACTH)*
+    
+## Case 1: Responses to threat or challenge
+
+- Adrenal cortex
+    + *Glucocorticoids (e.g., cortisol)*
+    + *Mineralocorticoids (e.g. aldosterone)*
+
+## ￼Adrenal hormones
+
+- *Steroids*
+    + Derived from cholesterol
+- *Cortisol*
+    + increases blood glucose, anti-inflammatory
+    + negative consequences of prolonged exposure 
+- *Aldosterone*
+    + Regulates Na (and water) retention in kidneys
+    
+## Case 2: Reproductive behavior -- the milk letdown reflex
+
+- Hypothalamus releases oxytocin into posterior pituitary
+- Targets milk ducts in breast tissue
+
+## Milk letdown reflex
+
+<div class="centered">
+<a href="https://my.bpcc.edu/content/blgy225/Endocrine/Prolactin.jpg">
+<img src="https://my.bpcc.edu/content/blgy225/Endocrine/Prolactin.jpg" height=450px>
+</a>
+</div>
+
+## Oxytocin's role
+
+- Sexual arousal
+- Released in bursts during orgasm
+- Stimulates uterine, vaginal contraction
+- Links to social interaction, bonding  [[@Weisman2013158]](http://dx.doi.org/10.1016/j.biopsych.2013.05.026)
+- Alters face processing in autism  [[@Domes2013164]](http://dx.doi.org/10.1016/j.biopsych.2013.02.007)
+
+## Oxytocin
+
+<div class="centered">
+<a href="http://columbusfreepress.com/sites/default/files/keep-calm-and-release-oxytocin-2(1).png">
+<img src="http://columbusfreepress.com/sites/default/files/keep-calm-and-release-oxytocin-2(1).png" height=500px>
+</a>
+</div>
+
+## References {.smaller}
+
