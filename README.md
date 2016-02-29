@@ -211,6 +211,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Evolution of the human brain.
+    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-01.Rmd).
 - Assignment
     - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
