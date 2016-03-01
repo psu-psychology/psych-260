@@ -69,7 +69,7 @@ bibliography: bib/bibliography.bib
 - Scientific method vs. other ways of knowing
 - Found in nature ≠ good for human society
 
-## Why Gilmore things it's controversial (in the U.S.)
+## Why Gilmore thinks it's controversial (in the U.S.)
 
 - Few negative consequences of 'disbelief'
 - U.S. culture individualistic, skeptical
