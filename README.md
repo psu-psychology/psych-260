@@ -76,7 +76,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Introduction to the course, history of neuroscience
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-12.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-12.Rmd).
 - Assignment
     - Read W&B 1:2-19.
     <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
@@ -86,7 +86,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Levels of analysis; neuroscience methods I
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-14-levels.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-14-levels.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-14-levels.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-14-levels.Rmd).
 - Assignments
     - Review W&B 2:24.
     - Read: [Levels of analysis outline](outlines/levels-of-analysis.md).
@@ -100,7 +100,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Methods to the madness, Neuroanatomy I
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-19.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-19.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-19.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-19.Rmd).
 
 - Assignment
     - Read: W&B 2:42-47; 3:50-54; 3:69-73.
@@ -111,7 +111,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neuroanatomy II.
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-21.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-21.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-21.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-21.Rmd).
 - Assignment
     - Read W&B: 2:29-42.
     - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
@@ -133,9 +133,9 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Tue, February 2
 
 - Topic
-    - **Quiz 1**; [Sample/Study Questions](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/sample-questions.html); [Answer key](quiz/psych-260-quiz-1-ans.pdf).
+    - **Quiz 1**; [Sample/Study Questions](https://rawgit.com/psu-psychology/psych-260/master/lectures/sample-questions.html); [Answer key](quiz/psych-260-quiz-1-ans.pdf).
     - Cells of the nervous system.
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-02.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-02.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-02.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-02.Rmd).
 
 - Assignment
     - Read W&B: 2:22-29.
@@ -145,7 +145,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic     
     - Neurophysiology I.
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-04.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-04.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-04.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-04.Rmd).
 - Assignment
     - Read W&B 3:48-54.
 
@@ -155,7 +155,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neurophysiology II.
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-09.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-09.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-09.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-09.Rmd).
 - Assignment
     - Read W&B 3:54-69
 
@@ -164,7 +164,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topics
     - Neurophysiology III.
     - Exam 1 review.
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-11.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-11.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-11.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-11.Rmd).
 - Assignment
     - Read W&B 1:19, 2:46-47, 3:73.
 
@@ -179,7 +179,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neurochemistry I.
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-18.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-18.Rmd).
 - Assignment
     -  Read W&B 4:76-82.
     -  [Neurotransmission outline](outlines/neurotransmission-outline.md)
@@ -191,7 +191,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Neurochemistry II.
     - Hormones and the brain.
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-23.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-23.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-23.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-23.Rmd).
 
 - Assignment
     - Read W&B 4:82-99, 8:202-222.
@@ -201,7 +201,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topics
     - Hormones and the brain
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-25.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-25.Rmd).
     + **Quiz 2**.
     + [Exam 1 returned](exam/psych-260-exam-1-ans.pdf). [Score distribution](lectures/img/grades.png)
  
@@ -211,7 +211,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Evolution of the human brain.
-    - Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-01.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-01.Rmd).
 - Assignment
     - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
@@ -219,7 +219,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - From evolution to development.
-    - Exam 2 review
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-03.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-03.Rmd).
+    - Exam 2 review: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-2-study-guide.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/exam-2-study-guide.Rmd)
 - Assignment
     - Read W&B 13:387-392.
 

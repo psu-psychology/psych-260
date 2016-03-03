@@ -1,0 +1,57 @@
+---
+title: "exam-2-study-guide"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Brain evolution
+
+- [Cambrian explosion](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html#14)
+- [Swanson/Cajal Four Node Nervous System](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html#20)
+- [Vertebrate brain/body size](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html#26)
+- [Features of human brains](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html#37)
+
+## Synaptic transmission
+
+- [Steps in](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#8)
+- [Ionotropic and metabotropic receptors](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#14)
+
+## Hormones and their function
+
+- [Released where in CNS?](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#10)
+- [Direct vs. indirect release](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#13)
+- [HPA](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#20), [SAM](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#19) axes
+- [Hormones vs. neurotransmitters](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#7)
+- [Milk let-down reflex and oxytocin](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#24)
+
+## Neurotransmitters
+
+- [Amino acids](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#33)
+- [Acetylcholine](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#39)
+- [Monoamines](https://https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-23.html#15)
+
+## Potentials
+
+- [Resting](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-09.html#22)
+- [Action](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-09.html#30)
+- [Postsynaptic](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#17)
+
+## Cells of the nervous system
+
+- [Glia](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-04.html#8)
+- [Neurons](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-04.html#20)
+
+## Brain anatomy
+
+- [Forebrain, midbrain, hindbrain](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-19.html#60)
+- [Lobes](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-21.html#52), [gyri, sulci](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-21.html#54)
+- [Directional terms](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-19.html#46), [planes of section](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-19.html#49)

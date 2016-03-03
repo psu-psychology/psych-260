@@ -1,0 +1,342 @@
+---
+title: "260-2016-03-03"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Today's Topics
+
+- From brain evolution to brain development
+- Or, how did the human brain get this way?
+
+## Ways human brains differ
+
+- Larger than body size of comparable mammals
+- Large cerebral cortex
+- Large-scale folding (gyri and sulci)
+- Large cortical association areas
+    + Not primary sensory or motor areas
+
+## Association areas
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/35/Lateral_surface_of_cerebral_cortex_-_gyri.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Lateral_surface_of_cerebral_cortex_-_gyri.png" height=550px>
+</a>
+</div>
+    
+## How did it get this way?
+
+- Prolonged (in time) pattern of development
+- Specialized pattern of development
+
+## Human brain development take homes
+
+- Prenatal
+    + Neuro- and gliogenesis
+    + Migration
+    + Synaptogenesis begins
+    + Differentiation
+    + Apoptosis
+    + Myelination begins
+    + Infant gene expression ≠ Adult
+    
+## Human brain development take homes
+
+- Postnatal
+    + Synaptogenesis
+    + Cortical expansion, activity-dependent change
+    + Myelination
+    + Prolonged period of postnatal/pre-reproductive development, i.e., childhood [@konner_evolution_2011]
+
+## Neurulation
+
+<div class="centered">
+<a href="http://thebrain.mcgill.ca/flash/i/i_09/i_09_cr/i_09_cr_dev/i_09_cr_dev_2a.jpg">
+<img src="http://thebrain.mcgill.ca/flash/i/i_09/i_09_cr/i_09_cr_dev/i_09_cr_dev_2a.jpg" height=450px>
+</a>
+</div>
+    
+## Formation of neural tube (neurulation)
+
+- Ectoderm, mesoderm, endoderm
+- Ectoderm folds on itself to form neural tube
+    + ~18-26 days post-fertilization
+- Neural tube becomes
+    + Ventricles
+    + Central canal of spinal cord
+    
+## Neurulation
+
+- Failures of neural tube closure
+    + Spina bifida
+    + Anencephaly
+    
+## Spina Bifida
+
+<div class="centered">
+<a href="http://www.stanfordchildrens.org/content-public/topic/images/05/161405.gif">
+<img src="http://www.stanfordchildrens.org/content-public/topic/images/05/161405.gif" height=450px>
+</a>
+</div>
+
+## Neurogenesis and gliogenesis
+
+- Stem cells along ventricles
+- Symmetric cell division
+    + Daughter cells can also divide, increases # of proliferative cells
+- Asymmetric cell division
+    + Daughter cells post-mitotic (don't divide)
+
+## Radial glia
+
+<div class="centered">
+<a href="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/radial-glia.jpg">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/radial-glia.jpg" height=450px>
+</a>
+</div>
+
+## Cell migration
+
+<div class="centered">
+<a href="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/neural-tube.jpg">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/neural-tube.jpg" height=450px>
+</a>
+</div>
+
+## Radial unit hypothesis
+
+<div class="centered">
+<a href="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg" height=450px>
+</a>
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+</div>
+
+## Migration
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZRF-gKZHINk" frameborder="0" allowfullscreen></iframe>
+
+## Migration
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/t-8bxeWqSV4" frameborder="0" allowfullscreen></iframe>
+
+## Glial migration
+
+<div class="centered">
+<a href="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F4.medium.gif">
+<img src="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F4.medium.gif" height=450px>
+</a>
+<http://physrev.physiology.org/content/81/2/871>
+</div>
+
+## Axon growth cone
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Fgmt2RBow0I" frameborder="0" allowfullscreen></iframe>
+
+## Axons follow
+
+- Chemoattractants
+    + e.g., Nerve Growth Factor (NGF)
+- Chemorepellents
+- Receptors in growth cone detect chemical gradients
+
+## Differentiation
+
+- Neuron vs. glial cell
+- Cell type
+- NTs released
+- Where to connect
+
+## Differential gene expression
+
+<div class="centered">
+<a href="img/johnson-2009.jpg">
+<img src="img/johnson-2009.jpg" height=450px>
+</a>
+[[johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027)
+</div>
+
+## Prefrontal vs. Other Ctx
+
+<div class="centered">
+<a href="johnson-2009-fig.jpg">
+<img src="img/johnson-2009-fig.jpg" height=450px>
+</a>
+
+[[johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027)
+</div>
+
+## Synaptogenesis
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/synaptic-density-infant.jpg" height=450px>
+</div>
+
+## Postnatal patterns of synaptogenesis
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/huttenlocher.jpg" height=450px>
+</div>
+
+## Proliferation, pruning
+
+- Early proliferation
+- Later pruning
+- Rates, peaks differ by area
+
+## Apoptosis
+
+- 20-80%, varies by area
+- Spinal cord >> cortex
+
+## Apoptosis and cortical expansion
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f3.jpg" height=450px>
+
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+</div>
+
+## Synaptic rearrangement
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/huttenlocher.jpg" height=450px>
+</div>
+
+## Myelination
+
+<div class="centered">
+<img src="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F6.large.jpg" height=450px>
+</div>
+
+## Myelination
+
+- Neonatal brain largely unmyelinated
+- Gradual myelination, peaks in mid-20s
+- Spinal cord before brain
+- Sensory before motor
+
+## Diffusion Tensor Imaging (DTI)
+
+- Structural MRI measure
+- Diffusion of water molecules
+- Diffusion in a specific direction (aniosotropy) -> white matter integrity
+
+## DTI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/atLQVgUwnrY" frameborder="0" allowfullscreen></iframe>
+
+## Myelination across human development
+
+<div class="centered">
+<img src="http://www.pnas.org/content/107/44/19067/F1.medium.gif" height=450px>
+
+[[@Hagmann02112010]](http:/doi.org/10.1073/pnas.1009073107)
+</div>
+
+## Myelination changes "network" properties
+
+<div class="centered">
+<img src="http://www.pnas.org/content/107/44/19067/F2.medium.gif" height=450px>
+
+[[@Hagmann02112010]](http:/doi.org/10.1073/pnas.1009073107)
+</div>
+
+## Synaptic rearrangment, myelination change cortical thickness
+
+- [@gogtay2004dynamic]
+- Areal differences in cortical thickness change
+
+## Human brain development take homes
+
+- Prenatal
+    + Neuro- and gliogenesis
+    + Migration
+    + Synaptogenesis begins
+    + Differentiation
+    + Apoptosis
+    + Myelination begins
+    + Infant gene expression ≠ Adult
+    
+## Human brain development take homes
+
+- Postnatal
+    + Synaptogenesis
+    + Cortical expansion, activity-dependent change
+    + Myelination
+    + Prolonged period of postnatal/pre-reproductive development 
+
+[@konner_evolution_2011]
+    
+## How brain development clarifies anatomical structure
+
+## 3-4 weeks
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/swanson-1.jpg" height=450px>
+</div>
+
+## 4 weeks
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg>
+</div>
+
+## ~4 weeks
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/swanson-2.jpg" height=450px>
+</div>
+
+## 6 weeks
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png>
+</div>
+
+## ~6 weeks
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/swanson-3.jpg" height=450px>
+</div>
+
+## Beyond
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/figs/swanson-4.jpg" height=450px>
+</div>
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| Forebrain      | Lateral              | Telencephalon      | Cerebral cortex |
+|                |                      |                    | Basal ganglia   |
+|                |                      |                    | Hippocampus, amygdala |
+|                | Third                | Diencephalon       | Thalamus        |
+|                |                      |                    | Hypothalamus    |
+| Midbrain       | Cerebral Aqueduct    | Mesencephalon      | Tectum, tegmentum |
+
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure         |
+|----------------|----------------------|--------------------|-------------------|
+| Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
+|                | --                   | Mylencephalon      | Medulla oblongata |
+
+## References {.smaller}
