@@ -202,8 +202,8 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topics
     - Hormones and the brain
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-25.Rmd).
-    + **Quiz 2**.
-    + [Exam 1 returned](exam/psych-260-exam-1-ans.pdf). [Score distribution](lectures/img/grades.png)
+    + [**Quiz 2**](quiz/psych-260-quiz-2-ans.pdf].
+    + [Exam 1 returned](exam/psych-260-exam-1-ans.pdf). [Score distribution](grades/img/2016-03-04.png)
  
 ### Week 08, February 29 - March 4
 
