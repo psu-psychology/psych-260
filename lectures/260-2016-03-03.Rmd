@@ -232,7 +232,7 @@ bibliography: bib/bibliography.bib
 - Neonatal brain largely unmyelinated
 - Gradual myelination, peaks in mid-20s
 - Spinal cord before brain
-- Sensory before motor
+- Sensory before motor, except in dorsal/ventral roots of PNS
 
 ## Diffusion Tensor Imaging (DTI)
 

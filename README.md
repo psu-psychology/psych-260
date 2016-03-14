@@ -344,7 +344,13 @@ These outlines are a convenient way to organize and review some of the course ma
 
 ### Week 17, May 2-6
 
-**FINAL EXAM TBA**
+#### Tue, May 3, 12:20-2:10 pm, 358 Willard
+
+- **Exam 4**, Section 001
+
+#### Thu, May 5, 4:40-6:30 pm, 208 Ford
+
+- **Exam 4**, Section 004
 
 ---
 
