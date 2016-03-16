@@ -240,6 +240,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Emotion, Fear, and Stress
     - **Blog post #1 (of 3) due**
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-17.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-17.Rmd).
 - Assignment
     - Read W&B 11:302-324.
 

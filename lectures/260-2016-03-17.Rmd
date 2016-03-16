@@ -1,0 +1,488 @@
+---
+title: "260-2016-03-17"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## I Second That Emotion
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/KI_0tQdEA5k" frameborder="0" allowfullscreen></iframe>
+
+## Happiness Is...
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/5eHWHjRPNV0" frameborder="0" allowfullscreen></iframe>
+
+## Announcements
+
+- **Exam 4/Final Scheduled**
+    + Section 001: Tue, 5/3, 12:20-2:10pm, 358 Willard
+    + Section 004: Thu, 5/5, 4:40-6:30pm, 208 Ford
+
+## Today's Topics
+
+- Biology of Emotion
+- Happiness
+- Fear
+- Stress
+
+## Biology of Emotion
+
+- What is emotion?
+- What are the types of emotions?
+- Biological systems involved in emotion
+
+## What is emotion?
+
+- Feelings
+- Physiological state
+- Actions
+- Propensity to act
+
+## What are the types of emotions?
+
+<div class="centered">
+<img src="http://puix.org/wp-content/uploads/plutchik-wheel-emotion.png" height=450px>
+
+[[@plutchik1980emotion]](img/plutchik-wheel-emotion.png)
+</div>
+
+## Emotions
+
+- Vary in valence
+    + Positive/negative
+- Vary in intensity (arousal)
+- Vary in action tendency
+    + Approach/avoid
+- Serve biological goals
+
+## Biological goals
+
+- Ingestion
+- Defense
+- Reproduction
+
+- Affiliation
+
+## Plutchik
+
+<div class="centered">
+<img src="http://puix.org/wp-content/uploads/plutchik-wheel-emotion.png" height=450px>
+
+<http://puix.org/wp-content/uploads/plutchik-wheel-emotion.png>
+[[@plutchik1980emotion]](img/plutchik-wheel-emotion.png)
+</div>
+
+## Do *all* emotions serve biological goals?
+
+- Shame
+- Guilt
+- Pride
+- Embarrassment
+- Regret
+
+## Are 'social' goals biological?
+
+## Emotional "computing"
+
+- Input
+- Processing/evaluation
+- Output
+
+## Emotional "computing"
+
+- **Input**
+- Processing/evaluation
+- Output
+
+## Emotional "computing"
+
+- Input
+    + External
+    + Internal
+    
+## External Input
+
+<div class="centered">
+<a href="http://www.bodylanguageuniversity.com/public/images/197.jpg">
+<img src="http://www.bodylanguageuniversity.com/public/images/197.jpg" height=500px>
+</a>
+</div>
+
+## External Input
+
+### Prosodic (tone of voice) cues
+
+<audio controls>
+<source src="snd/9999-ang-chk-a.wav" type="audio/wav">
+</audio>
+
+<audio controls>
+<source src="snd/9999-hap-chk-a.wav" type="audio/wav">
+</audio>
+
+## Emotional "computing"
+
+- Input
+- **Processing/evaluation**
+
+## Emotional "computing"
+
+- Input
+- Processing/evaluation
+    + Current state + past states (memory)
+    + Food/non
+    + Threat/non
+    + Mate/non; offspring/non
+
+## Emotional "computing"
+
+- Input
+- Processing/evaluation
+- **Output**
+
+## Emotional "computing"
+
+- Output
+    + Physiological state
+        * Autonomic nervous system
+        * Hormones
+
+## Emotional "computing"
+
+- Output
+    + Actions
+        * Facial expression
+        * Vocalization
+        * Gestures, body posture
+        * Locomotion or freezing
+
+## Are different emotions processed differently?
+
+## Bodily maps of emotions
+
+<div class="centered">
+<img src="http://www.pnas.org/content/111/2/646/F1.medium.gif" height=450px>
+
+[[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+</div>
+[[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+
+## [[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+
+<div class="centered">
+<img src="http://www.pnas.org/content/111/2/646/F2.medium.gif" height=450px>
+
+[[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+</div>
+
+## [[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+
+>> *We propose that emotions are represented in the somatosensory system as culturally universal categorical somatotopic maps. Perception of these emotion-triggered bodily changes may play a key role in generating consciously felt emotions.*
+    
+## Biological systems involved in specific emotions
+
+- Happiness
+- Fear
+
+## Components of happiness
+
+- [Aristotle](http://plato.stanford.edu/entries/aristotle-ethics/)
+- Hedonia
+    + Pleasure
+- Eudaimonia
+    + A life well-lived
+    
+## Neuroanatomy of happiness
+
+<div class="centered">
+<img src="img/kringelbach-2009-fig-1.jpg" width=700px>
+</div>
+
+[[@kringelbach2009towards]](http://dx.doi.org/10.1016/j.tics.2009.08.006)
+
+## Neuroanatomy of happiness
+
+<div class="centered">
+<img src="img/kringelbach-2009-fig-2.jpg" width=700px>
+</div>
+
+[[@kringelbach2009towards]](http://dx.doi.org/10.1016/j.tics.2009.08.006)
+
+## Rewards
+
+- A *reward* reinforces (makes more prevalent/probable) some behavior
+- Milner and Olds [[@milner_discovery_1989]](http://doi.org/10.1016/S0149-7634(89)80013-2) discovered 'rewarding' power of electrical self-stimulation
+- [[@heath1963electrical]](http://doi.org/10.1176/ajp.120.6.571) studied effects in human patients.
+
+## Electrical self-stimulation
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/de_b7k9kQp0" frameborder="0" allowfullscreen></iframe>
+
+## "Reward" circuitry in the brain
+
+<div class="centered">
+<img src="img/nestler-fig-1.jpg" height=450px>
+
+[[@nestler2006mesolimbic]](http://dx.doi.org/10.1016/j.biopsych.2005.09.018)
+</div>
+
+## Nodes in the "reward" circuit
+
+- Ventral tegmental area (VTA)
+- Nucleus accumbens (nAcc)
+- Hypothalamus (Hyp)
+- Amygdala (Amy)
+- Hippocampus (HP)
+- Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC)
+- Prefrontal cortex (PFC)
+
+## Nucleus accumbens and dorsal striatum
+
+<div class="centered">
+<img src="img/kohls-fig-2.jpg" height=450px>
+
+[[@kohls2012social]](http://dx.doi.org/10.1186/1866-1955-4-10)
+</div>
+
+## Psychopharmacology of 'happiness'
+
+- Dopamine
+- Opioids
+- Cannabinoids
+- Serotonin, Norepinephrine
+- ACh
+
+## Endogenous opioids (endorphins) from hyp, NST
+
+<div class="centered">
+<img src="img/endorphins-niaa.gif" height=450px>
+
+[[@clapp-niaa]](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm)
+</div>
+
+## Endogenous cannabinoid system
+
+- CB1 receptors in CNS; CB2 in body, immune system
+<div class="centered">
+<img src="img/fnins-07-00256-g001.jpg" height=400px>
+
+[[@flores_cannabinoid-hypocretin_2013]](http://dx.doi.org/10.3389/fnins.2013.00256)
+</div>
+
+## ACh projections in the CNS
+
+<div class="centered">
+<img src="img/ncpneuro0775-f4.jpg" height=450px>
+
+[[@cock_sleep_2008]](http://dx.doi.org/10.1038/ncpneuro0775)
+</div>
+
+## Generalizations about happiness/pleasure
+
+- Types of pleasure activate overlapping areas
+- Pleasure/happiness engage a network of brain areas
+- Pleasure/happiness signaling involves multiple neuromodulators, but DA especially important
+- “Reward” pathway activated by many different inputs.
+
+## Don't You Worry 'Bout a Thing
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/BOz3p6k5O2g" frameborder="0" allowfullscreen></iframe>
+
+## Inducing "fear-like" behavior in animals
+
+<div class="centered">
+<img src="img/ledoux-lab-fear_conditioning.jpg" height=450px>
+
+<http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg>
+</div>
+
+## Rat vs. Human
+
+<div class="centered">
+<img src="img/davis-anxiety-rat-vs-human.jpg" height=450px>
+
+Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
+</div>
+
+## Amygdala circuits
+
+<div class="centered">
+<img src="img/fear-conditioning-amygdala-nrn728-f2.gif" height=450px>
+
+[[@medina2002parallels]](http://dx.doi.org/10.1038/nrn728)
+</div>
+
+## Amygdala role
+
+- Convergent inputs
+    + Thalamus
+    + Cerebral cortex
+- Lesions of amygdala impair 'fear conditioning'
+- Project to
+    + CG (central gray matter) of tegmentum: behavior
+    + LH (lateral hyp): ANS
+    + PVN (paraventricular n. of hyp): hormones
+
+## Cerebral cortex role
+
+- Response discrimination?
+    + Cortex lesions cause generalized not cue-specific fear response 
+- Fast, crude responses vs. slower, detailed ones
+    + That’s a stick, not a snake!
+    + Prefrontal cortex and response inhibition
+
+## Emotion <==> Cognition?
+
+<div class="centered">
+<img src="img/pessoa-nrn.jpg" height=450px>
+
+[[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
+</div>
+
+## [[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
+
+<div class="centered">
+*Here, I will argue that complex cognitive–emotional behaviours have their basis in dynamic coalitions of networks of brain areas, none of which should be conceptualized as specifically affective or cognitive. Central to cognitive–emotional interactions are brain areas with a high degree of connectivity, called hubs, which are critical for regulating the flow and integration of information between regions.*
+</div>
+
+## Circuits for survival
+
+<div class="centered">
+<img src="img/ledoux-2012-f3.jpg" height=450px>
+
+[[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+## Emotion as global "state"
+
+<div class="centered">
+<img src="img/ledoux-2012-f4.jpg" height=450px>
+
+[[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+## "Emotional" stimuli serve multiple roles
+
+<div class="centered">
+<img src="img/ledoux-2012-table-1.jpg" height=450px>
+
+[[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+## Biological imperatives and stress
+
+- Sustenance
+    + Hunger, thirst
+- Well-being/defense
+    + Threat
+    
+## Biological imperatives and stress
+
+- Reproduction
+    + Rejection
+- Affiliation
+    + Loneliness
+     
+## Stress and the brain
+
+<div class="centered">
+<img src="img/mcewen-2007-f1.jpg" height=450px>
+
+[[@mcewen_physiology_2007]](http://dx.doi.org/10.1152/physrev.00041.2006)
+</div>
+
+## Brain under stress 
+
+- Brain detects threat
+- Mobilizes physiological, behavioral responses
+- Acute stress
+    + Short duration
+    + Fast action required
+    + HPA (Cortisol), SAM (NE/Epi) axes
+- vs. Chronic stress
+    
+## Glucocorticoids
+
+- Adrenal cortex releases hormones
+    + Cortisol (hydrocortisone)
+        * Increases blood glucose levels
+        * Suppresses immune system
+        * Reduces inflammation
+        * Aids in metabolism
+    + Receptors in brain and body
+
+## Cortisol and the brain
+
+<div class="centered">
+<img src="img/cortisol-molecular-brain.jpg" height=450px>
+
+<http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg>
+</div>
+
+## Glucocorticoid cascade hypothesis
+
+- Cort receptors in Hip
+- Hip regulates HPA axis via hyp
+- Prolonged cortisol exposure reduces hip response
+- Reduced volume, connectivity in hip
+- Hip critical for long-term memory formation
+- Chronic stress impairs long-term memory
+
+## But, cortisol -> stress link not straightforward
+
+<div class="centered">
+<img src="img/faresjo-2013.jpg" width=800px>
+
+[[@faresjo_higher_2013]](http://dx.doi.org/10.1371/journal.pone.0073828)
+</div>
+
+## Can Poverty Impede Cognitive Function?
+
+<div class="centered">
+<img src="img/mani-2013-F1.large.jpg" width=800px>
+
+[[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
+</div>
+
+## [[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
+
+<div class="centered">
+<img src="img/mani-2013-F4.jpg" width=800px>
+
+[[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
+</div>
+
+## Why Zebras Don't Get Ulcers
+
+<div class="centered">
+<img src="img/zebras-sapolsky.jpg" height=450px>
+</div>
+
+## Your stress ain't like mine
+
+- Phasic (short-term) vs. Chronic (long-term)
+- Physical stress (hunger, thirst, injury, disease) vs. social stress
+
+## Main points
+
+- Biological approach to emotion
+    + Behavior
+    + Physiological states
+    + Subjective feelings
+    + Adaptive function
+- Networks of brain systems, multiple NT systems
+
+## Why Worry Now?
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/7no9Ak2uSrQ" frameborder="0" allowfullscreen></iframe>
+
+## References {.smaller}
