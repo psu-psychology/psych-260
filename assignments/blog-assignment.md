@@ -22,7 +22,7 @@ Summarize and discuss the main points of the articles as follows:
 2. Discuss what is known about the neural mechanisms underlying the behavior in question, what are the strengths and weaknesses of the approach to studying the biology of behavior undertaken by the investigators you are writing about, and how the current results expand or alter our knowledge about the topic.
 3. Discuss why the new discovery or issue covered in the article is important and interesting, and what questions about the topic remain to be answered. In other words, why should a general audience care about this topic, and what do we still need to know?
 
-If your non-textbook references are unavailable online, submit printed paper copies.
+If your non-textbook references are unavailable online, submit printed paper copies. NOTE: Remember to include proper APA in-text citations and also include full references for your sources at the end of each post. 
 
 ERIN OR I WILL BE HAPPY TO DISCUSS POSSIBLE ARTICLES AND TOPICS WITH YOU.
 
