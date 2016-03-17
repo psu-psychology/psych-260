@@ -13,9 +13,9 @@ output:
 bibliography: bib/bibliography.bib
 ---
 
-## I Second That Emotion
+## Let it go...
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/KI_0tQdEA5k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0MK7qz13bU" frameborder="0" allowfullscreen></iframe>
 
 ## Happiness Is...
 
@@ -443,6 +443,19 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 <img src="img/faresjo-2013.jpg" width=800px>
 
 [[@faresjo_higher_2013]](http://dx.doi.org/10.1371/journal.pone.0073828)
+</div>
+
+## Let it go...
+
+- Reaction to stress more important than its frequency [[@sin_linking_2016]](http://doi.org/10.1097/PSY.0000000000000306)
+- *"...Individual differences in daily negative affect and responses to daily stressors were more strongly related to cardiovascular autonomic regulation than the frequency of such stressors."*
+
+## [[@sin_linking_2016]](http://doi.org/10.1097/PSY.0000000000000306)
+
+<div class="centered">
+<a href="img/sin-etal-2016.jpg">
+<img src="img/sin-etal-2016.jpg" height=500px>
+</a>
 </div>
 
 ## Can Poverty Impede Cognitive Function?
