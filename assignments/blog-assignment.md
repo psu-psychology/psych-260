@@ -14,7 +14,17 @@ Create a blog at <http://sites.psu.edu> or add to an existing blog you have crea
 
 Write at least three posts between now and **Thursday, April 21, 2016** that discuss different issues on any topic related to the biology of behavior. Your posts should be 1-3 paragraphs in length. Blog post #1 is due **Thursday, March 17, 2016**; Blog post #2 is due **Thursday, April 7, 2016**. Blog post #3 is due **Thursday, April 21, 2016.**
 
-You may choose to comment on articles from the popular or scientific press. You may choose to discuss a topic we covered in class, perhaps how it might relate to you or to someone you know. The guidelines for the [paper option](paper-assignment.md) may be useful to you in drafting your posts. 
+You may choose to comment on articles from the popular or scientific press. You can find appropriate articles in general interest magazines such as Time, The Economist, in a newspaper such as The New York Times, in general science publications such as Scientific American, The American Scientist, Science News, or Discover, or scientific journals such as Science, Nature, Current Directions in Psychological Science, etc. You may choose to discuss a topic we covered in class, perhaps how it might relate to you or to someone you know but you should incorporate the scientific literature.
+
+Summarize and discuss the main points of the articles as follows:
+
+1. Describe the main purposes and findings of the research reported on in the articles. Remember the strategy that good reporters use: Who did what to whom, when and how did they do it, and why?
+2. Discuss what is known about the neural mechanisms underlying the behavior in question, what are the strengths and weaknesses of the approach to studying the biology of behavior undertaken by the investigators you are writing about, and how the current results expand or alter our knowledge about the topic.
+3. Discuss why the new discovery or issue covered in the article is important and interesting, and what questions about the topic remain to be answered. In other words, why should a general audience care about this topic, and what do we still need to know?
+
+If your non-textbook references are unavailable online, submit printed paper copies. NOTE: Remember to include proper APA in-text citations and also include full references for your sources at the end of each post. 
+
+ERIN OR I WILL BE HAPPY TO DISCUSS POSSIBLE ARTICLES AND TOPICS WITH YOU.
 
 Be mindful of personal privacy. You should not reveal sensitive or personal information about yourself or another person in any way that could cause harm or embarrassment.
 
