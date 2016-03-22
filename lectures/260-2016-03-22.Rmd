@@ -130,11 +130,11 @@ bibliography: bib/bibliography.bib
 
 ## Glucocorticoid cascade hypothesis
 
-- Cort receptors in Hip
-- Hip regulates HPA axis via hyp
+- Cort receptors in Hipp
+- Hipp regulates HPA axis via hyp
 - Prolonged cortisol exposure reduces hip response
-- Reduced volume, connectivity in hip
-- Hip critical for long-term memory formation
+- Reduced volume, connectivity in hipp
+- Hipp critical for long-term memory formation
 - Chronic stress impairs long-term memory
 
 ## But, cortisol -> stress link not straightforward
@@ -158,6 +158,16 @@ bibliography: bib/bibliography.bib
 </a>
 </div>
 
+## [[@sin_linking_2016]](http://doi.org/10.1097/PSY.0000000000000306)
+
+*In summary, this study indicates that adults who exhibited greater subjective stress in daily life—specifically, negative affect, perceived stressor severity, and affective reactivity to stressors—had **lower levels of resting laboratory-based HRV**, compared with those who were better equipped to handle day-to-day challenges. By contrast, the frequency of daily stressors was unrelated to HRV.*
+
+## HRV and Parasympathetic Activity
+
+- Xth cranial (vagus) nerve -> heart
+- Heart rate varies with respiration (expire: slower; inspire: faster)
+- HRV indirect indicator of parasympathetic activity
+
 ## Can Poverty Impede Cognitive Function?
 
 <div class="centered">
@@ -173,6 +183,10 @@ bibliography: bib/bibliography.bib
 
 [[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
 </div>
+
+## [[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
+
+*"Although farmers do show more stress before harvest, that does not account for diminished cognitive performance. Instead, it appears that poverty itself reduces cognitive capacity. We suggest that this is because poverty-related concerns consume mental resources, leaving less for other tasks."*
 
 ## Why Zebras Don't Get Ulcers
 
