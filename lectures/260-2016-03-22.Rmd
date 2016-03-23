@@ -344,6 +344,7 @@ bibliography: bib/bibliography.bib
 - Tricyclics
     + Inhibit NE, 5-HT reuptake
     + Upregulate monoamine levels, but non-selective = side effects
+    
 
 ## Drugs
 
@@ -351,17 +352,11 @@ bibliography: bib/bibliography.bib
     + Fluoxetine (Prozac, Paxil, Zoloft)
     + Prolong duration 5-HT in synaptic cleft
     + Also increase brain steroid production
-- Serotonin Norepinephrine Reuptake Inhibitors (SNRIs)
+- Selective Serotonin Norepinephrine Reuptake Inhibitors (SNRIs)
 
-## Cymbalta Ad
+## Cymbalta (SNRI)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/OTZvnAF7UsA" frameborder="0" allowfullscreen></iframe>
-
-## Problems with monoamine hypothesis
-
-- Too simplistic
-- NE, 5-HT interact
-- Drugs fast acting (min), but improvement slow (weeks)
 
 ## How well do the drugs work?
 
@@ -370,6 +365,12 @@ bibliography: bib/bibliography.bib
 - If SSRI didn't work, could switch drugs. ~25% became symptom free.
 - 16% of participants dropped out due to tolerability issues
 - Took 6-7 weeks to show response.
+
+## Problems with monoamine hypothesis
+
+- Too simplistic
+- NE, 5-HT interact
+- Drugs fast acting (min), but improvement slow (weeks)
 
 ## What do drugs do, then?
 
