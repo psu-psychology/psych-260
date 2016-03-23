@@ -331,6 +331,11 @@ These outlines are a convenient way to organize and review some of the course ma
 
 ### Week 16, April 25-29
 
+#### Mon, April 25
+
+- Special Lecture (not required): Bruce McEwen
+    - 3:30-5, Ruth Pike Auditorium, BBH Building
+
 #### Tue, April 26
 
 - Topic
