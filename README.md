@@ -299,6 +299,11 @@ These outlines are a convenient way to organize and review some of the course ma
     - **Blog post #2 (of 3) due**
 - Assignment
     - Read W&B 6:140-156.
+- **Special Lecture (optional)**, [Dr. Richard Davidson](https://www.waisman.wisc.edu/pi-Davidson-Richard.htm), “Well-being is a Skill: Perspectives from Contemplative Neuroscience”, Ruth Pike Auditorium, 22 BBH Building, 4:00 pm.
+
+### Fri, April 8
+
+- **Special Lecture (optional)**, [Dr. Richard Davidson](https://www.waisman.wisc.edu/pi-Davidson-Richard.htm), “Order and Disorder in the Emotional Brain”, Foster Auditorium, 102 Paterno Library, 12:00 pm.
 
 ### Week 14, April 11-15
 
