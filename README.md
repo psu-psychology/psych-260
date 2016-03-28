@@ -233,7 +233,7 @@ These outlines are a convenient way to organize and review some of the course ma
 ##### Tue, March 15
 
 - Topic
-    - **Exam 2**
+    - [**Exam 2**](exam/psych-260-exam-2-ans.pdf)
 
 #### Thu, March 17
 
@@ -269,9 +269,10 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Tue, March 29
 
 - Topics
-    - **Quiz 3**
-    - Exam 2 returned.
+    - **Quiz 3**.
     - Sensory systems.
+    - [Exam 2](exam/psych-260-exam-2-ans.pdf) returned.
+
 - Assignment
     - Read W&B 5:106-114.
 
