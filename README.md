@@ -259,7 +259,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Psychopathology II.
-      - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-24.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-24.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-24.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-24.Rmd).
 
 - Assignment
     - Read W&B 12:340-352.
@@ -271,6 +271,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topics
     - **Quiz 3**.
     - Sensory systems.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-29.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-29.Rmd).
     - [Exam 2](exam/psych-260-exam-2-ans.pdf) returned.
 
 - Assignment
