@@ -281,6 +281,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Somatosensation.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-31.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-31.Rmd).
+
 - Assignment
     - Read W&B 5:114-122.
 
