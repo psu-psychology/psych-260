@@ -292,6 +292,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Action
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-05.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-05.Rmd).
 - Assignment
     - Read W&B 5:122-138
 
