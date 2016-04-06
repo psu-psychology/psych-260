@@ -301,6 +301,8 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Audition.
     - **Blog post #2 (of 3) due**
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-07.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-07.Rmd).
+
 - Assignment
     - Read W&B 6:140-156.
 - **Special Lecture (optional)**, [Dr. Richard Davidson](https://www.waisman.wisc.edu/pi-Davidson-Richard.htm), “Well-being is a Skill: Perspectives from Contemplative Neuroscience”, Ruth Pike Auditorium, 22 BBH Building, 4:00 pm.
