@@ -251,7 +251,6 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Psychopathology I.
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-22.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-22.Rmd).
-
 - Assignment
     - Read W&B 12:326-340.
 
@@ -260,7 +259,6 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Psychopathology II.
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-24.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-24.Rmd).
-
 - Assignment
     - Read W&B 12:340-352.
 
@@ -273,7 +271,6 @@ These outlines are a convenient way to organize and review some of the course ma
     - Sensory systems.
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-29.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-29.Rmd).
     - [Exam 2](exam/psych-260-exam-2-ans.pdf) returned.
-
 - Assignment
     - Read W&B 5:106-114.
 
@@ -282,7 +279,6 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Somatosensation.
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-31.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-31.Rmd).
-
 - Assignment
     - Read W&B 5:114-122.
 
@@ -302,7 +298,6 @@ These outlines are a convenient way to organize and review some of the course ma
     - Audition.
     - **Blog post #2 (of 3) due**
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-07.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-07.Rmd).
-
 - Assignment
     - Read W&B 6:140-156.
 - **Special Lecture (optional)**, [Dr. Richard Davidson](https://www.waisman.wisc.edu/pi-Davidson-Richard.htm), “Well-being is a Skill: Perspectives from Contemplative Neuroscience”, Ruth Pike Auditorium, 22 BBH Building, 4:00 pm.
@@ -317,6 +312,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Vision I.
+        - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-12.Rmd).
 - Assignment
     - Read W&B 7:168-180.
 
@@ -324,7 +320,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Vision II.
-    - Exam 3 review
+    - Exam 3 review.
 - Assignment
     - Read W&B 7:180-201.
 
