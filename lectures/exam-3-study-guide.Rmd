@@ -1,0 +1,71 @@
+---
+title: "exam-3-study-guide"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Vision
+
+- Detecting what, where
+- How similar to, different from other sensory systems
+
+## Action
+
+- Monosynaptic stretch reflex
+- Intrafusal/extrafusal muscle fibers
+- Parkinson's, Huntington's
+- Wolpert's ideas about role of brain's in movement planning
+
+## Audition
+
+- Role of anatomical components
+- Detecting what, where
+
+## Somatosensation
+
+- Functional segregation
+- Similarities to, differences from vision, audition
+- Relation between sensitivity, receptor density, receptive field size, and corresponding cortical area.
+
+## Disorders
+
+- Monoamine hypothesis of depression, treatments
+- Dopamine hypothesis of schizophrenia
+
+## Emotion
+
+- Fear, stress circuits
+- Reward/happiness circuits
+
+## Hormones
+
+- oxytocin
+
+## Brain development
+
+- Sequence of major stages
+
+## Neuroanatomy
+
+- Ventricles
+- Lobes of the cerebral cortex
+- Parts of the brain
+
+## Neurophysiology
+
+- Resting, action potentials
+- Postsynaptic potentials, end plate potential (muscle fiber)
+
+## Next time
+
+- Exam 3
+
+## References {.smaller}

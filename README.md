@@ -320,7 +320,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Vision II.
-    - Exam 3 review.
+    - Exam 3 review. [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-3-study-guide.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/exam-3-study-guide.Rmd).
 - Assignment
     - Read W&B 7:180-201.
 
