@@ -267,7 +267,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Tue, March 29
 
 - Topics
-    - **Quiz 3**. [Answer Key](quiz/psych-260-quiz-3-ans).
+    - **Quiz 3**. [Answer Key](quiz/psych-260-quiz-3-ans.pdf).
     - Sensory systems.
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-29.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-29.Rmd).
     - [Exam 2](exam/psych-260-exam-2-ans.pdf) returned.
