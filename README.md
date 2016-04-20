@@ -312,7 +312,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Vision I.
-        - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-12.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-12.Rmd).
 - Assignment
     - Read W&B 7:168-180.
 
@@ -335,6 +335,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Learning & memory.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-21.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-21.Rmd).
 - Assignment
     - Read W&B 13:354-370.
     - **Papers and blog post #3 (of 3) due**
