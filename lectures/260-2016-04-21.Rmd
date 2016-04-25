@@ -33,9 +33,9 @@ bibliography: bib/bibliography.bib
 
 ## Memory capacity of the human brain?
 
-- 1e12 neurons
+- 1e11 neurons
 - 1e3 synapses/neuron
-- 1e15 synapses or 1.25e14 bytes
+- 1e14 synapses or 1.25e13 bytes
 - 1e9 gigabyte, 1e12 terabyte, 1e15 petabyte
 
 <http://www.scientificamerican.com/article.cfm?id=what-is-the-memory-capacity>
@@ -113,7 +113,6 @@ bibliography: bib/bibliography.bib
 - Trump
 - Duck
 - Draper
-- Duck
 
 ## [Long-term potentiation (LTP)](https://en.wikipedia.org/wiki/Long-term_potentiation) {.smaller}
 
@@ -247,7 +246,7 @@ bibliography: bib/bibliography.bib
 
 - Disease 
     + Alzheimer’s, herpes virus
-- Korsakoff’s syndrome
+- [Korsakoff’s syndrome](https://en.wikipedia.org/wiki/Korsakoff%27s_syndrome)
     + Result of severe alcoholism
     + Impairs medial thalamus & mammillary bodies
 
@@ -287,7 +286,7 @@ bibliography: bib/bibliography.bib
 
 ## Next time...
 
-- The hippocampus, memory, and anti-memory
+- The hippocampus, memory
 - Alzheimer's disease
 
 ## References {.smaller}
