@@ -352,6 +352,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - **Quiz 4**
     - Learning and Memory II
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-26.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-26.Rmd).
 - Assignment
     - Read W&B 13:370-379.
 
