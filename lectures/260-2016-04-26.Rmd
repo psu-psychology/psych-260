@@ -19,8 +19,7 @@ bibliography: bib/bibliography.bib
 
 ## Today's Topics
 
-- Quiz 4
-- Special lecture
+- **No Quiz 4 -- My mistake, your bonus**
 - Learning and memory
     + Alzheimer's Disease
     + Hippocampus
