@@ -329,7 +329,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Tue, April 19
 
 - Topic
-    - **Exam 3**
+    - **Exam 3**. [Answer Key](exam/psych-260-exam-3-ans.pdf).
 
 #### Thu, April 21
 
