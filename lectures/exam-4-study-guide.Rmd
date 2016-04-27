@@ -1,0 +1,87 @@
+---
+title: "exam-4-review"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K8MWjFO9NCc" frameborder="0" allowfullscreen></iframe>
+
+## Announcements
+
+- Extra credit blogs posts due by Sunday, 5/1 at midnight.
+- Exam 4
+    + Section 001: Tue 5/3, 12:20p, 358 Willard
+    + Section 004: Thu 5/5, 4:40p, 208 Ford
+
+## Today's topics
+
+- Review for Exam 4
+- Cerebral Symphony
+
+## History
+
+- Descartes
+
+## Methods
+
+- Spatial/temporal resolution
+- Structural/functional methods
+
+## Anatomy
+
+- Directional terms, slices
+- Gross
+    + Forebrain/midbrain/hindbrain
+    + ventricles/CSF, meninges, blood supply
+    + Gyri/sulci
+    + gray/white matter
+    
+## Cellular anatomy
+
+- Parts of the neuron
+    
+## Neurophysiology
+
+- Resting potential
+- Action potential phases, causes/components
+- Synaptic transmission
+- Synaptic plasticity, LTP, NMDA receptors
+
+## Neurochemistry
+
+- Big Three -- Glu, GABA, ACh
+- Neuromodulators -- DA, NE, 5-HT
+
+## Evolution and development
+
+- History of life on Earth
+- Vertebrates vs. non, humans vs. other vertebrates
+- Prenatal vs. postnatal brain development
+
+## Emotion
+
+- Pleasure/reward system
+- Fear, stress in behavior and brain
+
+## Perception and Action
+
+- Topographic maps: somatosensation, audition, vision
+- Perceiving what vs. where: audition, vision
+- Functional segregation: by receptor, type of info
+- Receptive fields
+
+## Memory
+
+- Amnesia
+- NMDA receptors and Hebbian learning

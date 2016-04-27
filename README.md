@@ -359,8 +359,8 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Thu, April 28
 
 - Topic
-    - Review for Exam 4
-    - The Cerebral Symphony
+    - Review for Exam 4. Study guide: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-4-study-guide.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/exam-4-study-guide.Rmd).
+    - The Cerebral Symphony. [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-28.html)
 
 ### Week 17, May 2-6
 
@@ -379,7 +379,7 @@ These outlines are a convenient way to organize and review some of the course ma
 ### Elements
 
 | Component | Description                                  | Points |
-|-----------|----------------------------------------------|--------|
+|-----------|----------------------------------------------|--------:|
 | Exams     |There will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You may choose not to take the final. | 120 |
 | Quizzes | There will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade. | 30 |
 | Participation | There are a total of 15 points available by completing **EITHER** a paper or blog assignment. | 15 |
