@@ -382,11 +382,11 @@ These outlines are a convenient way to organize and review some of the course ma
 |-----------|----------------------------------------------|--------|
 | Exams     |There will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You may choose not to take the final. | 120 |
 | Quizzes | There will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade. | 30 |
-| Participation | There are a total of 15 points available by completing either a paper or blog assignment. | 15 |
-| *Blog* | You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, <http://sites.psu.edu>. You may create up to 3 posts and earn 5 points/post, for a total of 15 possible points. [Assignment](https://github.com/psu-psychology/psych-260/blob/master/assignments/blog-assignment.md) | |
-| *Paper* | You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. [Assignment](https://github.com/psu-psychology/psych-260/blob/master/assignments/paper-assignment.md)| |
+| Participation | There are a total of 15 points available by completing **EITHER** a paper or blog assignment. | 15 |
+|  |   *Blog*: You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, <http://sites.psu.edu>. You may create up to 3 posts and earn 5 points/post, for a total of 15 possible points. [Assignment](https://github.com/psu-psychology/psych-260/blob/master/assignments/blog-assignment.md) | |
+| |  *Paper*: You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. [Assignment](https://github.com/psu-psychology/psych-260/blob/master/assignments/paper-assignment.md)| |
 | | **TOTAL POINTS POSSIBLE** | 165 |
-| Extra Credit | There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them. | |
+| Extra Credit | There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them. [Here](assignments/extra-credit.md) is an extra credit opportunity. | |
 
 [Data about recent performance](grades/analysis.pdf)
 
