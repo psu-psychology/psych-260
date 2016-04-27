@@ -350,7 +350,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Tue, April 26
 
 - Topic
-    - **Quiz 4**
+    - **Quiz 4**. [Answer Key](quiz/psych-260-quiz-4-ans.pdf)
     - Learning and Memory II
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-26.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-26.Rmd).
 - Assignment
