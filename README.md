@@ -358,7 +358,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 ### Week 14, November 21-25
 
-** THANKSGIVING BREAK -- NO CLASS **
+**THANKSGIVING BREAK -- NO CLASS**
 
 ### Week 15, November 28 - December 2
 
