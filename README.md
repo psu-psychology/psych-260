@@ -407,7 +407,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 ### Week 17, December 12-16
 
-** FINALS WEEK -- Exam 4 TBA **
+**FINALS WEEK -- Exam 4 TBA**
 
 ---
 
