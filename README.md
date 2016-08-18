@@ -1,5 +1,6 @@
-# PSYCH 260/BBH 203 Syllabus
-## Spring 2016
+# PSYCH 260.002H Syllabus
+## Neurological Bases of Human Behavior
+## Fall 2016
 
 ## Instructor
 
@@ -14,23 +15,17 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 
 ### Teaching Assistant
 
-**Erin Guty**</br>
+**Alex Mattern**</br>
+xxx Moore Building</br>
+xxx-xxx-xxxx</br>
+<aclmattern@gmail.com></br>
 Graduate Assistant</br>
-372 Moore Building</br>
-<exg5204@psu.edu></br>
-Office hours T 1:30-3:00 pm and by appointment.</br>
+Office hours by appointment.</br>
 
 ## Meeting Location and Time
 
-### Section 001
-
-T R 11:15 AM - 12:30 PM</br>
-358 [Willard Building](http://schedule.psu.edu/googleMapRequest.html?cbldgloc=WILLARD)
-
-### Section 004
-
-T R 4:15 PM - 5:30 PM</br>
-208 [Donald H Ford Building](http://schedule.psu.edu/googleMapRequest.html?cbldgloc=FORD%20BL)
+MWF 9:05AM - 9:55AM</br>
+202 [Carpenter Building](http://schedule.psu.edu/googleMapRequest.html?cbldgloc=CARPNTR)
 
 ## Goals
 
@@ -42,9 +37,9 @@ There is perhaps no more fascinating scientific frontier than the study of the b
 
 ## Resources
 
-### Textbook (optional)
+### Textbook
 
-Watson, N.V. & Breedlove, S.M. (2012). The Minds's Machine, 2/E. Sinauer: Sunderland, MA. <http://www.mindsmachine.com>
+Watson, N.V. & Breedlove, S.M. (2012). The Minds's Machine, 2/E. Sinauer: Sunderland, MA. <http://2e.mindsmachine.com>
 
 ### Web links
 
@@ -68,309 +63,369 @@ These outlines are a convenient way to organize and review some of the course ma
 
 ## Schedule
 
-[PSU Academic Calendar](http://www.registrar.psu.edu/academic_calendar/spring16.cfm)
+[PSU Academic Calendar](http://www.registrar.psu.edu/academic_calendar/fall16.cfm)
 
-### Week 01, January 11-15
+### Week 01, August 22-26
 
-#### Tue, January 11
+#### Mon, Aug 22
 
 - Topic
-    - Introduction to the course, history of neuroscience
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-12.Rmd).
+    - Introduction to the course
+    - What is a system?
 - Assignment
     - Read W&B 1:2-19.
-    <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
+    - Review <https://en.wikipedia.org/wiki/Systems_theory>
+
+#### Wed, August 24
+
+- Topic
+    - History of neuroscience
+- Assignments
+    - <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
    - Scan <https://faculty.washington.edu/chudler/hist.html>
 
-#### Thu, January 13
+#### Fri, August 26
 
 - Topic
     - Levels of analysis; neuroscience methods I
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-14-levels.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-14-levels.Rmd).
 - Assignments
-    - Review W&B 2:24.
+    - Review W&B 2:24, 26, 44-49, 3:53, 70-76.
     - Read: [Levels of analysis outline](outlines/levels-of-analysis.md).
     - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
     - Optional
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688).
 
-### Week 02, January 18-22
+### Week 02, August 29 - September 2
 
-#### Tue, January 19
+#### Mon, August 29
 
 - Topic
-    - Methods to the madness, Neuroanatomy I
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-19.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-19.Rmd).
-
+    - Methods to the madness
 - Assignment
-    - Read: W&B 2:42-47; 3:50-54; 3:69-73.
     - Watch:[Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 
-#### Thu, January 21
+#### Wed, August 31
+
+- Topic
+    - Tour of [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu)
+
+#### Fri, September 2
+
+- Topic
+    - Neuroanatomy I.
+- Assignment
+    - Read W&B: 2:30-43.
+    - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
+
+### Week 03, September 5-9
+
+#### Mon, September 5
+
+**LABOR DAY -- NO CLASS**
+
+#### Wed, September 7
 
 - Topic
     - Neuroanatomy II.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-21.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-01-21.Rmd).
+    - Lecture notes: 
 - Assignment
-    - Read W&B: 2:29-42.
+    - Read W&B: 2:30-43.
     - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 
-### Week 03, January 25-29
-
-#### Tue, January 26
+#### Fri, September 9
 
 - Topic
     - Neuroanatomy Lab.
     - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 
-#### Thu, January 28
+### Week 04, September 12-16
 
-- Section 001 (11:15a), only 2nd half of class report.
-
-### Week 04, February 1-5
-
-#### Tue, February 2
+#### Mon, September 12
 
 - Topic
-    - **Quiz 1**; [Sample/Study Questions](https://rawgit.com/psu-psychology/psych-260/master/lectures/sample-questions.html); [Answer key](quiz/psych-260-quiz-1-ans.pdf).
+    - **Quiz 1**
     - Cells of the nervous system.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-02.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-02.Rmd).
-
 - Assignment
-    - Read W&B: 2:22-29.
+    - Read W&B: 2:20-29.
     - [Cellular outline](outlines/cellular-outline.md)
 
-#### Thu, February 4
+#### Wed, September 14
 
 - Topic     
     - Neurophysiology I.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-04.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-04.Rmd).
 - Assignment
-    - Read W&B 3:48-54.
+    - Read W&B 3:50-55.
 
-### Week 05, February 8-12
+#### Fri, September 16
 
-#### Tue, February 9
+- Topic     
+    - Neurophysiology II.
+- Assignment
+    - Read W&B 3:55-59.
+
+### Week 05, September 19-23
+
+#### Mon, September 19
 
 - Topic
-    - Neurophysiology II.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-09.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-09.Rmd).
-- Assignment
-    - Read W&B 3:54-69
-
-#### Thu, February 11
-
-- Topics
     - Neurophysiology III.
-    - Exam 1 review.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-11.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-11.Rmd).
 - Assignment
-    - Read W&B 1:19, 2:46-47, 3:73.
+    - Read W&B 3:59-69
 
-### Week 06, February 15-19
-
-#### Tue, February 16
+#### Wed, September 21
 
 - Topics
-  - **Exam 1**, [Answer Key](exam/psych-260-exam-1-ans.pdf)
+    - Exam 1 review
 
-#### Thu, February 18
+#### Fri, September 23
+
+- Topics
+  - **Exam 1**
+
+### Week 06, September 26-30
+
+#### Mon, September 26
 
 - Topic
     - Neurochemistry I.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-18.Rmd).
 - Assignment
-    -  Read W&B 4:76-82.
+    -  Read W&B 4:82-86.
     -  [Neurotransmission outline](outlines/neurotransmission-outline.md)
 
-### Week 07, February 22-26
-
-#### Tue, February 23
+#### Wed, September 28
 
 - Topic
     - Neurochemistry II.
-    - Hormones and the brain.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-23.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-23.Rmd).
-
 - Assignment
-    - Read W&B 4:82-99, 8:202-222.
-    - [Neurotransmission outline](outlines/neurotransmission-outline.md)
+    - Read W&B: 4:86-107.
 
-#### Thursday, February 25
+#### Fri, September 30
 
 - Topics
     - Hormones and the brain
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-02-25.Rmd).
-    + **Quiz 2**. [Answer Key](quiz/psych-260-quiz-2-ans.pdf).
-    + [Exam 1 returned](exam/psych-260-exam-1-ans.pdf). [Score distribution](grades/img/2016-03-04.png)
+- Assignment
+    - Read W&B 8:208-226
 
-### Week 08, February 29 - March 4
+### Week 07, October 3-7
 
-#### Tue, March 1
+#### Mon, October 3
+
+- Topic
+    + **Quiz 2**
+    + Exam 1 returned
+
+#### Wed, October 5
+
+- Topic
+    - Your brain on sex
+- Assignment
+    - Read W&B 8:226-253
+    
+#### Fri, October 7
+
+- Topic
+    - Biological rhythms and sleep
+- Assignment
+    - Read W&B 10:278-308.
+    
+### Week 08, October 10-14
+
+#### Mon, October 10
+
+- Topic
+    - Homeostasis.
+- Assignment
+    - Read W&B 9:254-277.
+    - 1st blog post due.
+
+#### Wed, October 12
+
+- Topic
+    - Exam 2 review
+
+#### Fri, October 14
+
+- Topic
+    - **Exam  2**
+
+### Week 09, October 17-21
+
+#### Mon, October 17
 
 - Topic
     - Evolution of the human brain.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-01.Rmd).
 - Assignment
     - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
-#### Thu, March 3
+#### Wed, October 19
 
 - Topic
     - From evolution to development.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-03.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-03.Rmd).
-    - Exam 2 review: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-2-study-guide.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/exam-2-study-guide.Rmd)
-- Assignment
-    - Read W&B 13:387-392.
+    - Read W&B 13:393-407.
 
-### Week 09, March 7-11
-
-**Spring Break -- NO CLASS**
-
-### Week 10, March 14-18
-
-##### Tue, March 15
+#### Fri, October 21
 
 - Topic
-    - [**Exam 2**](exam/psych-260-exam-2-ans.pdf)
+    - The developing brain
 
-#### Thu, March 17
+### Week 10, October 24-28
+
+##### Mon, October 24
+
+- Topic
+    - Psychopathology I.
+- Assignment
+    - Read W&B 12:338-352.
+
+#### Wed, October 26
+
+- Topic
+    - Psychopathology II.
+- Assignment
+    - Read W&B 12:352-360.
+
+#### Fri, October 28
+
+- Topic
+    - Psychopathology III.
+    - Exam 3 returned.
+- Assignment
+    - Read W&B 12:360-366.
+
+### Week 11, October 31 - November 4 
+
+#### Mon, October 31
 
 - Topic
     - Emotion, Fear, and Stress
     - **Blog post #1 (of 3) due**
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-17.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-17.Rmd).
 - Assignment
-    - Read W&B 11:302-324.
+    - Read W&B 11:310-336.
 
-### Week 11, March 21-25    
-
-#### Tue, March 22
-
-- Topic
-    - Psychopathology I.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-22.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-22.Rmd).
-- Assignment
-    - Read W&B 12:326-340.
-
-#### Thu, March 24
-
-- Topic
-    - Psychopathology II.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-24.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-24.Rmd).
-- Assignment
-    - Read W&B 12:340-352.
-
-### Week 12, March 28 - April 1
-
-#### Tue, March 29
+#### Wed, November 2
 
 - Topics
-    - **Quiz 3**. [Answer Key](quiz/psych-260-quiz-3-ans.pdf).
-    - Sensory systems.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-29.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-29.Rmd).
-    - [Exam 2](exam/psych-260-exam-2-ans.pdf) returned.
-- Assignment
-    - Read W&B 5:106-114.
+    - **Quiz 3**
+    - Emotion, Fear, and Stress II.
 
-#### Thu, March 30
+#### Fri, November 4
+
+- Topics
+    - Sensory systems.
+- Assignment
+    - Read W&B 5:110-121
+    
+### Week 12, November 7-11
+
+#### Mon, November 7
 
 - Topic
-    - Somatosensation.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-31.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-03-31.Rmd).
+    - Somatosensation & pain
 - Assignment
-    - Read W&B 5:114-122.
+    - Read W&B 5:121-126; 6:162-164
 
-### Week 13, April 4-8
-
-#### Tue, April 5
+#### Wed, November 9
 
 - Topic
     - Action
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-05.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-05.Rmd).
 - Assignment
-    - Read W&B 5:122-138
+    - Read W&B 5:126-143
+    - 2nd blog post due.
 
-#### Thu, April 7
+#### Fri, November 11
 
 - Topic
-    - Audition.
-    - **Blog post #2 (of 3) due**
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-07.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-07.Rmd).
+    - Audition
 - Assignment
-    - Read W&B 6:140-156.
-- **Special Lecture (optional)**, [Dr. Richard Davidson](https://www.waisman.wisc.edu/pi-Davidson-Richard.htm), “Well-being is a Skill: Perspectives from Contemplative Neuroscience”, Ruth Pike Auditorium, 22 BBH Building, 4:00 pm.
+    - Read W&B 6:144-162
 
-### Fri, April 8
+### Week 13, November 14-18
 
-- **Special Lecture (optional)**, [Dr. Richard Davidson](https://www.waisman.wisc.edu/pi-Davidson-Richard.htm), “Order and Disorder in the Emotional Brain”, Foster Auditorium, 102 Paterno Library, 12:00 pm.
+#### Mon, November 14
 
-### Week 14, April 11-15
+- Topic
+    - Exam 3 review
+    
+#### Wed, November 16
 
-#### Tue, April 12
+- **Exam 3**
+
+#### Fri, November 18
+
+- Topic
+    - Speed of nervous system conduction lab
+
+### Week 14, November 21-25
+
+** THANKSGIVING BREAK -- NO CLASS **
+
+### Week 15, November 28 - December 2
+
+#### Mon, November 28
 
 - Topic
     - Vision I.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-12.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-12.Rmd).
 - Assignment
-    - Read W&B 7:168-180.
+    - Read W&B 7:174-185.
 
-#### Thu, April 14
+#### Wed, November 30
 
 - Topic
     - Vision II.
-    - Exam 3 review. [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-3-study-guide.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/exam-3-study-guide.Rmd).
 - Assignment
-    - Read W&B 7:180-201.
+    - Read W&B 7:185-207.
 
-### Week 15, April 18-22
-
-#### Tue, April 19
+#### Fri, December 2
 
 - Topic
-    - **Exam 3**. [Answer Key](exam/psych-260-exam-3-ans.pdf).
+    - **Quiz 4**
+    - Exam 3 returned.
+    - Papers or blog posts due.
 
-#### Thu, April 21
+### Week 16, December 5-9
+
+#### Mon, December 5
 
 - Topic
     - Learning & memory.
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-21.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-21.Rmd).
 - Assignment
-    - Read W&B 13:354-370.
-    - **Papers and blog post #3 (of 3) due**
-
-### Week 16, April 25-29
-
-#### Mon, April 25
-
-- Special Lecture (not required): Bruce McEwen
-    - 3:30-5, Ruth Pike Auditorium, BBH Building
-
-#### Tue, April 26
+    - Read 13:368-383
+    
+#### Wed, December 7
 
 - Topic
-    - **Quiz 4**. [Answer Key](quiz/psych-260-quiz-4-ans.pdf)
-    - Learning and Memory II
-    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-26.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/260-2016-04-26.Rmd).
+    - Learning & memory II.
 - Assignment
-    - Read W&B 13:370-379.
+    - Read 13:368-383-393
 
-#### Thu, April 28
+#### Fri, December 9
 
 - Topic
-    - Review for Exam 4. Study guide: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-4-study-guide.html), [RMarkdown](https://github.com/psu-psychology/psych-260/blob/master/lectures/exam-4-study-guide.Rmd).
-    - The Cerebral Symphony. [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-04-28.html)
+    - Review for Exam 4.
+    - Neuroscience and society.
 
-### Week 17, May 2-6
+### Week 17, December 12-16
 
-#### Tue, May 3, 12:20-2:10 pm, 358 Willard
+** FINALS WEEK -- Exam 4 TBA **
 
-- **Exam 4**, Section 001
+---
 
-#### Thu, May 5, 4:40-6:30 pm, 208 Ford
+## Deadlines at a glance
 
-- **Exam 4**, Section 004
+| Date      | What's due/happening |
+|-----------|----------------------|
+| M Sep 12  | Quiz 1               |
+| F Sep 23  | Exam 1               |
+| M Oct 3   | Quiz 2               |
+| M Oct 10  | Blog post 1 due      |
+| F Oct 14  | Exam 2               |
+| W Nov 2   | Quiz 3               |
+| M Nov 9   | Blog post 2 due      |
+| W Nov 16  | Exam 3               |
+| F Dec 2   | Quiz 4               |
+| F Dec 2   | Short paper or Blog post 3 due |
+| TBA       | Exam 4               |
 
 ---
 
@@ -431,3 +486,11 @@ No make-up quizzes will be given. You may ask for a copy of the quiz for studyin
 #### Accommodation for persons with disabilities
 
 The Pennsylvania State University encourages qualified persons with disabilities to participate in its programs and activities. If you anticipate needing any type of accommodation in this course or have questions about physical access, please contact the instructor as soon as possible.
+
+---
+
+### Tips for navigating the course web site
+
+- Open the syllabus in your favorite browser, then download the syllabus by printing or saving as PDF this document: <https://github.com/psu-psychology/psych-260/blob/master/README.md>
+- You may play through the slides -- all are web pages located [here](/lectures)-- by opening the relevant link from the syllabus in your favorite browser and pressing the arrow keys.
+- To download/print the slides, open them in your browers, select save as PDF the document. The slides are in landscape (horizontal wide) orientation, so you will probably want to change the orientation of the printout.
