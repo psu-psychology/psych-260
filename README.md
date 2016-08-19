@@ -72,7 +72,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Introduction to the course
     - What is a system?
-    - Lecture notes: [HTML](http://rawgit.com/psu-psych/psych-260/master/lectures/2260-2016-08-22.html). [Rmd](lectures/2016-08-22.Rmd).
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-22.html). [Rmd](lectures/260-2016-08-22.Rmd).
 - Assignment
     - Read W&B 1:2-19.
     - Review <https://en.wikipedia.org/wiki/Systems_theory>
