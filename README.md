@@ -17,7 +17,7 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 
 **Alex Mattern**</br>
 247D Moore Building</br>
-<aclmattern@gmail.com></br>
+<acm272@psu.edu></br>
 Graduate Assistant</br>
 Office hours by appointment.</br>
 
