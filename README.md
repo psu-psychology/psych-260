@@ -16,8 +16,7 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 ### Teaching Assistant
 
 **Alex Mattern**</br>
-xxx Moore Building</br>
-xxx-xxx-xxxx</br>
+247D Moore Building</br>
 <aclmattern@gmail.com></br>
 Graduate Assistant</br>
 Office hours by appointment.</br>
