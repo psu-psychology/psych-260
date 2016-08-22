@@ -16,7 +16,7 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U" frameborder="0" allowfullscreen></iframe>
 
-## PSYCH 260/BBH 203 {.flexbox .vcenter}
+## PSYCH 260H.002 {.flexbox .vcenter}
 
 <div class="centered">
 ### Neurological Bases of Human Behavior

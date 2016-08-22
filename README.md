@@ -39,7 +39,7 @@ There is perhaps no more fascinating scientific frontier than the study of the b
 
 ### Textbook
 
-Watson, N.V. & Breedlove, S.M. (2012). The Minds's Machine, 2/E. Sinauer: Sunderland, MA. <http://2e.mindsmachine.com>
+Watson, N.V. & Breedlove, S.M. (2016). The Minds's Machine, 2/E. Sinauer: Sunderland, MA. <http://2e.mindsmachine.com>
 
 ### Web links
 
@@ -290,7 +290,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Psychopathology III.
-    - Exam 3 returned.
+    - Exam 2 returned.
 - Assignment
     - Read W&B 12:360-366.
 
