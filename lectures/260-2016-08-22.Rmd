@@ -82,6 +82,11 @@ Associate Professor of Psychology
 </a>
 </div>
 
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UHDfvfYCY0U" frameborder="0" allowfullscreen></iframe>
+<http://www.nature.com/news/human-brain-mapped-in-unprecedented-detail-1.20285>
+
 ## Today's topics
 
 - Course overview
@@ -200,12 +205,21 @@ Associate Professor of Psychology
 - Interactions
 - Forces/influences
 - Boundaries
+- Inputs/outputs/processes
 
 ## Systems...
 
 - "Behave" or change state across time
 - Return to starting state
 - Appear to be regulated, controlled, influenced by feedback loops
+
+## May be thought of as [networks](https://en.wikipedia.org/wiki/Network_science)
+
+<div class="centered">
+<a href="https://source.wustl.edu/2013/08/brain-flexible-hub-network-helps-humans-adapt/">
+<img src="https://source.wustl.edu/wp-content/uploads/2013/08/ColeCoverFlexHub470x340.jpg" height=450px>
+</a>
+</div>
 
 ## Next time...
 
