@@ -80,6 +80,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - History of neuroscience
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-24.html). [Rmd](lectures/260-2016-08-24.Rmd).
+
 - Assignments
     - <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
    - Scan <https://faculty.washington.edu/chudler/hist.html>
