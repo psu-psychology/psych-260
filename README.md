@@ -43,6 +43,9 @@ Watson, N.V. & Breedlove, S.M. (2016). The Minds's Machine, 2/E. Sinauer: Sunder
 ### Web links
 
 Course syllabus: <https://github.com/psu-psychology/psych-260/blob/master/README.md></br>
+
+A short video showing how to save the syllabus as a PDF file is [right here](mov/psych-260-save-syllabus.mp4).
+
 Course repository: <https://github.com/psu-psychology/psych-260></br>
 BrainFacts.org from The Society for Neuroscience: <http://www.brainfacts.org>
 
