@@ -19,7 +19,7 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 247D Moore Building</br>
 <acm272@psu.edu></br>
 Graduate Assistant</br>
-Office hours by appointment.</br>
+Office hours Friday 10-12pm and by appointment.</br>
 
 ## Meeting Location and Time
 
