@@ -44,8 +44,6 @@ Watson, N.V. & Breedlove, S.M. (2016). The Minds's Machine, 2/E. Sinauer: Sunder
 
 Course syllabus: <https://github.com/psu-psychology/psych-260/blob/master/README.md></br>
 
-A short video showing how to save the syllabus as a PDF file is [right here](mov/psych-260-save-syllabus.mp4).
-
 Course repository: <https://github.com/psu-psychology/psych-260></br>
 BrainFacts.org from The Society for Neuroscience: <http://www.brainfacts.org>
 
@@ -84,7 +82,6 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - History of neuroscience
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-24.html). [Rmd](lectures/260-2016-08-24.Rmd).
-
 - Assignments
     - <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
    - Scan <https://faculty.washington.edu/chudler/hist.html>
@@ -93,6 +90,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Levels of analysis; neuroscience methods I
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-26.html). [Rmd](lectures/260-2016-08-26.Rmd).
+
 - Assignments
     - Review W&B 2:24, 26, 44-49, 3:53, 70-76.
     - Read: [Levels of analysis outline](outlines/levels-of-analysis.md).
