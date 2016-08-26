@@ -91,7 +91,6 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Levels of analysis; neuroscience methods I
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-26.html). [Rmd](lectures/260-2016-08-26.Rmd).
-
 - Assignments
     - Review W&B 2:24, 26, 44-49, 3:53, 70-76.
     - Read: [Levels of analysis outline](outlines/levels-of-analysis.md).
@@ -105,6 +104,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Methods to the madness
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-29.html). [Rmd](lectures/260-2016-08-29.Rmd).
 - Assignment
     - Watch:[Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
@@ -113,6 +113,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Tour of [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu)
+    
+[**Lecture by Marc Howard, "Representations of Time and Space in the Mind and Brain", 4:15p in 108 Wartik**](https://www.huck.psu.edu/content/events/2016-08-31-200000marc-howardrepresentations-time-and-space-mind-and-brain)
 
 #### Fri, September 2
 
