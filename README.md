@@ -112,7 +112,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Wed, August 31
 
 - Topic
-    - Tour of [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu)
+    - Tour of [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu). Meet in lobby of  [Chandlee](http://www.registrar.psu.edu/soc_maps/chandlee.html).
     
 [**Lecture by Marc Howard, "Representations of Time and Space in the Mind and Brain", 4:15p in 108 Wartik**](https://www.huck.psu.edu/content/events/2016-08-31-200000marc-howardrepresentations-time-and-space-mind-and-brain)
 
@@ -178,6 +178,8 @@ These outlines are a convenient way to organize and review some of the course ma
     - Neurophysiology III.
 - Assignment
     - Read W&B 3:59-69
+
+**Lecture by Greg Miller, “Biological Consequences of Socioeconomic Disadvantage in Early Life", 3:30-4:30 pm in 022 BBH Building.**
 
 #### Wed, September 21
 
