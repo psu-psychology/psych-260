@@ -120,6 +120,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neuroanatomy I.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-02.html). [Rmd](lectures/260-2016-09-02.Rmd).
 - Assignment
     - Read W&B: 2:30-43.
     - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
