@@ -153,6 +153,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - **Quiz 1**
     - Cells of the nervous system.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-12.html). [Rmd](lectures/260-2016-09-12.Rmd).
 - Assignment
     - Read W&B: 2:20-29.
     - [Cellular outline](outlines/cellular-outline.md)
