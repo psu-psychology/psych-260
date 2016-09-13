@@ -151,7 +151,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, September 12
 
 - Topic
-    - **Quiz 1**
+    - **Quiz 1**. [Answer key](quiz/psych-260-quiz-1-ans.pdf)
     - Cells of the nervous system.
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-12.html). [Rmd](lectures/260-2016-09-12.Rmd).
 - Assignment
@@ -162,6 +162,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic     
     - Neurophysiology I.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-14.html). [Rmd](lectures/260-2016-09-14.Rmd).
 - Assignment
     - Read W&B 3:50-55.
 
