@@ -1,5 +1,5 @@
 ---
-title: "260-2016-09-16-resting-potential"
+title: "260-2016-09-16-action-potential"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 output:
