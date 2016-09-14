@@ -170,8 +170,10 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic     
     - Neurophysiology II.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-16.html). [Rmd](lectures/260-2016-09-16.Rmd).
 - Assignment
     - Read W&B 3:55-59.
+    - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
 
 ### Week 05, September 19-23
 
