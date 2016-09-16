@@ -181,10 +181,16 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neurophysiology III.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-19.html). [Rmd](lectures/260-2016-09-19.Rmd).
+
 - Assignment
     - Read W&B 3:59-69
 
 **Lecture by Greg Miller, “Biological Consequences of Socioeconomic Disadvantage in Early Life", 3:30-4:30 pm in 022 BBH Building.**
+
+#### Tue, September 20
+
+**Lecture by Stephen Simpson, "Putting the balance back in diet: the nutritional geometry of ageing, obesity and metabolic health", 4:00 pm Berg Auditorium (100 Life Sciences Building)**
 
 #### Wed, September 21
 

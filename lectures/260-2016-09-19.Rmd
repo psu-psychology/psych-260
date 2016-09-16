@@ -1,0 +1,135 @@
+---
+title: "260-2016-09-19-action-potentials"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Ease on down, ease on down
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w15F4r09Pro" frameborder="0" allowfullscreen></iframe>
+
+## **Propagation** is the way...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ul7X5js1vE" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- The neuron in action
+
+## Action potential
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" height=450px>
+</a>
+</div>
+ 
+## Action potential
+
+- Threshold of excitation
+- Increase (rising phase/depolarization)
+- Peak
+    + at positive voltage
+- Decline (falling phase/repolarization)
+- Return to resting potential (refractory period)
+
+## Action potential break-down
+
+| Phase             | Neuron State |
+|-------------------|--------------|
+| Rise to threshold | + input makes membrane potential more + |
+| Rising phase      | Voltage-gated Na+ channels open, Na+ enters |
+| Peak              | Voltage-gated Na+ channels close and deactivate; voltage-gated K+ channels open |
+| Falling phase     | K+ exits |
+| Refractory period | Na+/K+ pump restores [Na+], [K+]; voltage-gated K+ channels close |
+
+## Driving force and equilibrium potential
+
+- "Driving Force" on a given ion depends on its equilibrium potential.
+- Driving force larger if membrane potential far from equilibrium potential for ion.
+- *Equilibrium potential*
+    + Voltage that keeps current (inside/outside) concentrations the same
+    + Voltage membrane potential will approach if **only** that ion flows
+    
+## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
+
+| Ion | [inside]  | [outside]    | Voltage    |
+|-----|-----------|--------------|------------|
+| K+  | ~150 mM   | ~4 mM        | ~ -90 mV    |
+| Na+ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
+| Cl- | ~10 mM    | ~110 mM      | - 65-80 mV  |
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=400px>
+</a>
+</div>
+
+## AP propagation
+
+- Propagation
+    + move down axon, away from soma, toward axon terminals.
+- Unmyelinated axon
+    + Each segment "excites" the next
+    
+## AP propagation is like
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/H0K2dvB-7WY" frameborder="0" allowfullscreen></iframe>    
+
+## AP propagation
+
+- Myelinated axon
+    + AP "jumps" between Nodes of Ranvier, *saltatory conduction*
+    + Nodes of Ranvier == unmyelinated sections of axon
+    + voltage-gated Na+, K+ channels exposed
+    + Current flows through myelinated segments
+    
+## Question
+
+- Why does AP flow in one direction, away from soma?
+    + Soma does not have (many) voltage-gated Na+ channels.
+    + Soma is not myelinated.
+    + Refractory periods mean polarization only in one direction.
+    
+## Question
+
+- Why does AP flow in one direction, away from soma?
+    + **Soma does not have (many) voltage-gated Na+ channels.**
+    + Soma is not myelinated.
+    + **Refractory periods mean polarization only in one direction.**
+    
+## Conduction velocities
+
+<iframe width="600" height="450" src="https://en.wikipedia.org/wiki/Nerve_conduction_velocity" frameborder="0" allowfullscreen></iframe>
+
+## What happens when AP runs out of axon?
+
+- Rapid change in voltage triggers neurotransmitter (NT) release
+- Voltage-gated calcium Ca++ channels open
+- Ca++ causes *synaptic vesicles* to bind with presynaptic membrane, merge
+- NTs diffuse across *synaptic cleft*
+- NTs bind with *receptors* on *postsynaptic membrane*
+- NTs unbind, are inactivated
+
+## Information processing
+
+- AP amplitudes don't vary (much)
+    + All or none
+- AP frequency and timing vary
+    + Rate vs. timing codes
+    
+## Next time...
+
+- Review for Exam 1.
+- Come with questions.
+
+## References {.smaller}
