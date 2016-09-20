@@ -1,0 +1,265 @@
+---
+title: "exam-1-study-quide"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Today's topics
+
+- Exam 1 review
+
+## Topic outline
+
+- History
+- Methods
+    - [Structural vs. functional](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-26.html#19)
+    - High [spatial/temporal resolution](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-26.html#7) vs. low
+
+## Topic outline
+
+- Neuroanatomy
+    - [Directional terms](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-02.html#7), [slice planes](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-02.html#10)
+    - [Forebrain, midbrain, hindbrain](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-02.html#22)
+    - [Cortical landmarks](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-07.html#15)
+    - [Supporting structures](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-02.html#11)
+    
+## Topic outline
+
+- [Glial cell types]() & [functions](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-12.html#8)
+- [Why are neurons special](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-12.html#19)
+- [Basic neuronal anatomy](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-12.html#20)
+
+## Topic outline
+
+- [The resting potential](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-14.html#20)
+- [The action potential](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-16.html#26)
+- [Action potential propagation](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-19.html#12)
+
+## The image illustrates what type of slice?
+
+<div class="centered">
+<img src="img/brain.jpg" height=500px>
+</div>
+
+## The image illustrates what type of slice?
+
+ - Sagittal
+ - Horizontal
+ - Coronal
+ - Axial
+
+## The image illustrates what type of slice?
+
+ - **Sagittal**
+ - Horizontal
+ - Coronal
+ - Axial
+
+## All of the following structures can be seen in the figure EXCEPT
+
+- Cerebellum
+- Corpus callosum
+- Lateral ventricles
+- Cerebral cortex
+
+## All of the following structures can be seen in the figure EXCEPT
+
+- Cerebellum
+- Corpus callosum
+- **Lateral ventricles**
+- Cerebral cortex
+
+## The figure illustrates which imaging method?
+
+- CT
+- PET
+- Magnetoencephalography (MEG)
+- MRI
+
+## The figure illustrates which imaging method?
+
+- CT
+- PET
+- Magnetoencephalography (MEG)
+- **MRI**
+
+## Descartes thought that this structure was the place where the soul influenced the human body's voluntary movements.
+
+- The pons
+- The pituitary gland
+- The pineal gland
+- The reflexive complex
+
+## Descartes thought that this structure was the place where the soul influenced the human body's voluntary movements.
+
+- The pons
+- The pituitary gland
+- **The pineal gland**
+- The reflexive complex
+
+## The tongue is _____ with respect to the nose.
+
+- Inferior
+- Superior
+- Dorsal
+- Medial
+
+## The tongue is _____ with respect to the nose.
+
+- **Inferior**
+- Superior
+- Dorsal
+- Medial
+
+## Auditory information enters the CNS via the 8th (VIII) cranial nerve and projects through this sound-responsive nucleus of the midbrain tectum.
+
+- lateral geniculate nucleus
+- striatum
+- substantia nigra
+- inferior colliculus
+
+## Auditory information enters the CNS via the 8th (VIII) cranial nerve and projects through this sound-responsive nucleus of the midbrain tectum.
+
+- lateral geniculate nucleus
+- striatum
+- substantia nigra
+- **inferior colliculus**
+
+## Neural degeneration in this midbrain structure is associated with Parkinson’s Disease.
+
+- hypothalamus
+- substantia nigra
+- insula
+- amygdala
+
+## Neural degeneration in this midbrain structure is associated with Parkinson’s Disease.
+
+- hypothalamus
+- **substantia nigra**
+- insula
+- amygdala
+
+## Electroencephalography (EEG) has _____ temporal resolution than functional MRI, but _____ spatial resolution.
+
+- better; similar
+- better; worse
+- worse; better
+- worse; similar
+
+## Electroencephalography (EEG) has _____ temporal resolution than functional MRI, but _____ spatial resolution.
+
+- better; similar
+- **better; worse**
+- worse; better
+- worse; similar
+
+## Which of these landmarks separates the frontal from the parietal lobe?
+
+- Lateral fissure
+- Longitudinal fissure
+- Anterior cingulate gyrus
+- Central sulcus
+
+## Which of these landmarks separates the frontal from the parietal lobe?
+
+- Lateral fissure
+- Longitudinal fissure
+- Anterior cingulate gyrus
+- **Central sulcus**
+
+## Gray matter is mainly composed of:
+
+- Axons
+- Cell bodies
+- Myelin
+- None of the above
+
+## Gray matter is mainly composed of:
+
+- Axons
+- **Cell bodies**
+- Myelin
+- None of the above
+
+## Which of these is NOT a component of the forebrain?
+
+- Cerebral cortex
+- Basal ganglia
+- Hypothalamus
+- Medulla
+
+## Which of these is NOT a component of the forebrain?
+
+- Cerebral cortex
+- Basal ganglia
+- Hypothalamus
+- **Medulla**
+
+## Which brain lobe contains the primary and supplementary motor cortex?
+
+- Frontal
+- Temporal
+- Parietal
+- Occipital 
+
+## Which brain lobe contains the primary and supplementary motor cortex?
+
+- **Frontal**
+- Temporal
+- Parietal
+- Occipital
+
+## During a threatening situation signals are sent through the amygdala to what brain structure that controls the ANS and the endocrine/hormal processes?
+
+- Hippocampus
+- Thalamus
+- Hypothalamus
+- Basal Ganglia
+
+## During a threatening situation signals are sent through the amygdala to what brain structure that controls the ANS and the endocrine/hormal processes?
+
+- Hippocampus
+- Thalamus
+- **Hypothalamus**
+- Basal Ganglia
+
+## Which of these of techniques relays on the hemodynamic response function in order to draw conclusions about brain activity?
+
+- fMRI
+- PET
+- Ca++ Imaging
+- EEG
+
+## Which of these of techniques relays on the hemodynamic response function in order to draw conclusions about brain activity?
+
+- **fMRI**
+- PET
+- Ca++ Imaging
+- EEG
+
+## What is the name of the area in the brain at the brainstem where the blood/brain barrier is thin?
+
+- Tectum
+- Area Postrema
+- Medulla Oblongata
+- Tegmentum
+
+## What is the name of the area in the brain at the brainstem where the blood/brain barrier is thin?
+
+- Tectum
+- **Area Postrema**
+- Medulla Oblongata
+- Tegmentum
+
+## Next time...
+
+- Exam 1

@@ -196,6 +196,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topics
     - Exam 1 review
+    - Study guide:  [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-1-study-guide.html). [Rmd](lectures/exam-1-study-guide.Rmd).
 
 #### Fri, September 23
 
