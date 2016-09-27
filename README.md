@@ -201,7 +201,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Fri, September 23
 
 - Topics
-  - **Exam 1**
+  - **Exam 1**. [Answer key](exam/psych-260-exam-1-ans.pdf).
 
 ### Week 06, September 26-30
 
@@ -210,7 +210,6 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - Neurochemistry I.
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-26.html). [Rmd](lectures/260-2016-09-26.Rmd).
-
 - Assignment
     -  Read W&B 4:82-86.
     -  [Neurotransmission outline](outlines/neurotransmission-outline.md)
@@ -219,6 +218,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neurochemistry II.
+        - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-28.html). [Rmd](lectures/260-2016-09-28.Rmd).
+
 - Assignment
     - Read W&B: 4:86-107.
 
