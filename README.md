@@ -218,7 +218,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Neurochemistry II.
-        - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-28.html). [Rmd](lectures/260-2016-09-28.Rmd).
+      - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-28.html). [Rmd](lectures/260-2016-09-28.Rmd).
 
 - Assignment
     - Read W&B: 4:86-107.
@@ -227,6 +227,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topics
     - Hormones and the brain
+      - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-30.html). [Rmd](lectures/260-2016-09-30.Rmd).
 - Assignment
     - Read W&B 8:208-226
 
