@@ -26,6 +26,12 @@ knitr::opts_chunk$set(echo = FALSE)
 - Wrap-up on hormones
 - Your brain on sex
 
+## Case 1: Reponses to threat or challenge
+
+<div class="centered">
+<img src="http://archive.cnx.org/resources/8db70bfd813df0dc99a51d563a59b4cf8abe690d/Stress_Response.jpg" height=450px>
+</div>
+
 ## Case 1: Responses to threat or challenge
 
 - Neural response
