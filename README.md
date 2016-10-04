@@ -243,6 +243,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Your brain on sex
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-05.html). [Rmd](lectures/260-2016-10-05.Rmd).
+
 - Assignment
     - Read W&B 8:226-253
     
