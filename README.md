@@ -252,6 +252,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Biological rhythms and sleep
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-07.html). [Rmd](lectures/260-2016-10-07.Rmd).
 - Assignment
     - Read W&B 10:278-308.
     
@@ -441,9 +442,9 @@ These outlines are a convenient way to organize and review some of the course ma
 
 | Date      | What's due/happening |
 |-----------|----------------------|
-| M Sep 12  | Quiz 1               |
-| F Sep 23  | Exam 1               |
-| M Oct 3   | Quiz 2               |
+| M Sep 12  | [Quiz 1](quiz/psych-260-quiz-1-ans.pdf)               |
+| F Sep 23  | [Exam 1](exam/psych-260-exam-1-ans.pdf)               |
+| M Oct 3   | [Quiz 2](quiz/psych-260-quiz-2-ans.pdf)               |
 | M Oct 10  | Blog post 1 due      |
 | F Oct 14  | Exam 2               |
 | W Nov 2   | Quiz 3               |
