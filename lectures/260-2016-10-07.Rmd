@@ -201,7 +201,7 @@ bibliography: bib/bibliography.bib
 [[@hobson2002cognitive]](http://dx.doi.org/10.1038/nrn915)
 </div>
 
-## Other ￼Structures and their functions
+## Other structures and their functions
 
 - Pons
     + Triggers REM sleep

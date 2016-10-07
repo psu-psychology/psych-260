@@ -238,7 +238,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     + **Quiz 2**. [Answer key](quiz/psych-260-quiz-2-ans.pdf).
     + Exam 1 returned. [Answer key](exam/psych-260-exam-1-ans.pdf).
-    + [Summary of grades](grades/img/2016-10-06.png).
+    + [Summary of grades](grades/img/2016-10-06-grades.png).
 
 #### Wed, October 5
 
