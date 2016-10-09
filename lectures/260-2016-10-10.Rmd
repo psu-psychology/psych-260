@@ -1,0 +1,267 @@
+---
+title: "260-2016-10-10-homeostasis"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuM8kqayIrY" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- **Exam 2** on Friday
+- Extra point for mistake on Quiz 2, Question 9
+- [Homeostasis](https://en.wikipedia.org/wiki/Homeostasis)
+
+## What is homeostasis?
+
+<iframe src="https://en.wikipedia.org/wiki/Homeostasis">
+</iframe>
+
+## Homeostatic mechanisms depend on negative feedback
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Ideal_feedback_model.svg" height=400px>
+</div>
+
+## Domains
+
+- Temperature
+- Food intake/body mass
+
+## Temperature regulation
+
+<div class="centered">
+<img src="https://i.ytimg.com/vi/GETzh1Rb52o/maxresdefault.jpg" height=450px>
+</div>
+
+----
+
+<div class="centered">
+<img src="http://www.healthguideness.com/wp-content/uploads/2015/09/best-meat-cuts-barbecue-recipes-pork-chops.jpg" height=450px>
+</div>
+
+## Temperature regulation
+
+- Too cold: ice crystals disrupt cell membranes
+- Too hot: molecular disruption
+
+## Varieties of thermal regulation
+
+| Regulation Type | Endothermic | Ectothermic |
+|-----------------|-------------|-------------|
+| Homeothermic    | Birds, mammals, some large fish | Tropical reptiles |
+| Poikilothermic | Some birds, mammals | Most fish, amphibians, invertebrates |
+
+## Ectothermy vs. endothermy
+
+- Ectothermy
+    + Behavioral regulation >> metabolic regulation
+    + Older (evolutionarily-speaking), more species
+    
+----
+
+<div class="centered">
+<img src="https://nextdoornature.files.wordpress.com/2012/07/sunning-fence-lizard-photo-bandelier-national-monument-ccl.jpg" height=500px>
+</div>
+
+----
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Junonia_lemonias_DSF_by_Kadavoor.JPG" height=450px>
+</div>
+
+## Ectothermy vs. endothermy
+
+- Endothermy
+    + Metabolic regulation > behavioral
+    + Newer and fewer species
+
+----
+
+<div class="centered">
+<img src="http://study.com/cimages/multimages/16/panting.jpg">
+</div>
+
+----
+
+<div>
+<img src="http://biobook.kuensting.org/bb/organisms/vertebrates/800px-Piranga_rubra_-Manizales,_Caldas,_Colombia-8.jpg">
+</div>
+
+## Benefits/costs of endothermy
+
+- Benefits
+    + Sustained muscular activity?
+    + Occupy more, more diverse ecological niches
+    + Sociality, behavioral complexity?
+- Costs
+    + Metabolism
+    + Food seeking
+    + Body size
+
+## Big bodies conserve heat; little ones lose it
+
+- Heat produced ~ volume or mass (~ length^3)
+- Heat loss ~ surface area (~ length^2)
+- Big animals have >> volume/surface area ratio
+
+----
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Polar_Bear_-_Alaska_(cropped).jpg" height=450px>
+</div>
+
+----
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Noaa-walrus22.jpg" height=450px>
+</div>
+
+----
+
+<div class="centered">
+<img src="http://4.bp.blogspot.com/-JoKsDBt93Wg/USR56KXRgyI/AAAAAAAABNE/w1R5-wYNJE0/s1600/Hummin22.jpg">
+</div>
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJnn-wMPU9w" frameborder="0" allowfullscreen></iframe>
+
+## [Bergman's rule](https://en.wikipedia.org/wiki/Bergmann%27s_rule)
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bergmann%27s_Rule.svg/512px-Bergmann%27s_Rule.svg.png" height=450px>
+</div>
+
+----
+
+<div class="centered">
+<img src="img/body-size-heat.jpg" width=900px>
+</div>
+
+## Inputs/outputs
+
+- Inputs
+    + Body temperature
+    + External temperature
+    + Brain (hypothalamus)
+- Outputs
+    + Autonomic/endocrine
+    + Somatic/behavioral
+    
+## Control mechanisms
+
+- **No single controller.**
+- Responses to heating ≠ responses to cooling
+
+----
+
+<div class="centered">
+<img src="https://en.wikipedia.org/wiki/Thermoregulation#/media/File:Thermoregulation_simplified.png" height=450px>
+</div>
+
+## Response to heating
+
+| Response Type | Response to Heating | Response to Cooling |
+|---------------|---------------------|---------------------|
+| Autonomic/endocrine | Vasodilation  | Piloerection        |
+|                     | Sweating      | Increased fat metab |
+| Somatic/behavioral  | Panting       | Shivering
+|                     | Heat avoidance | Heat seeking       |
+|                     |                | Huddling           |
+
+----
+
+<div class="centered">
+<img src="https://media.apnarm.net.au/img/media/images/2016/02/02/sunburn-pchoh4lto2wcjzw1nl2_fct413x309x105.0_ct620x465.jpg">
+</div>
+
+----
+
+<div class="centered">
+<img src="https://s-media-cache-ak0.pinimg.com/564x/4c/22/9f/4c229f4c41acdf78e70d4c20130549ae.jpg">
+</div>
+
+## Control mechanisms
+
+- Hypothalamus
+    + Preoptic area (POA)
+        - Autonomic response
+    + Lateral hypothalamus
+        - Behavioral responses
+- Brain stem, spinal cord
+
+----
+
+<div class="centered">
+<img src="img/responses-to-heat.jpg" height=450px>
+</div>
+
+----
+
+<div class="centered">
+<img src="img/responses-to-cold.jpg" height=450px>
+</div>
+
+## Big brains, big appetites
+
+<div class="centered">
+<img src="img/brain-wt-body-wt.jpg" height=450px>
+</div>
+
+----
+
+<div class="centered">
+<img src="img/body-wt-metabolism.jpg" height=450px>
+</div>
+
+## Big brains/complex behavior related
+
+- Why?
+
+## Food seeking
+
+- Grazing vs. gathering vs. hunting
+- Quality vs. quantity
+- Time/energy to find & consume
+
+## Just keeping the lights on...
+
+- 60-70% daily calories -> basal metabolism
+- 20% behavior
+- 10% thermoregulation & digestion
+
+## Why dieting is hard, often ineffective
+
+<div class="centered">
+<img src="img/dieting-is-hard.jpg" height=450px>
+</div>
+
+----
+
+<div class="centered">
+<img src="https://www.cdc.gov/obesity/images/data/brfss_2015_obesity-600px.jpg">
+</div>
+
+----
+
+<div class="centered">
+<img src="img/fao-hunger-2015.jpg" height=450px>
+
+<http://http://www.fao.org/hunger/en/>
+</div>
+
+## Next time...
+
+- Review for Exam 2

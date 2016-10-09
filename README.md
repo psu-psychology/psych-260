@@ -262,6 +262,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Homeostasis.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-10.html). [Rmd](lectures/260-2016-10-10.Rmd).
 - Assignment
     - Read W&B 9:254-277.
     - 1st blog post due.
