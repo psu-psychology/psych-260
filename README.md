@@ -269,27 +269,26 @@ These outlines are a convenient way to organize and review some of the course ma
 
 #### Wed, October 12
 
-- Topic
-    - Exam 2 review
+**NO CLASS**
 
 #### Fri, October 14
 
 - Topic
-    - **Exam  2**
+    - Exam 2 review
 
 ### Week 09, October 17-21
 
 #### Mon, October 17
 
 - Topic
-    - Evolution of the human brain.
-- Assignment
-    - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+    - **Exam  2**
 
 #### Wed, October 19
 
 - Topic
-    - From evolution to development.
+    - Evolution of the human brain.
+- Assignment
+    - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
     - Read W&B 13:393-407.
 
 #### Fri, October 21
