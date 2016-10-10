@@ -168,7 +168,7 @@ bibliography: bib/bibliography.bib
 ----
 
 <div class="centered">
-<img src="https://en.wikipedia.org/wiki/Thermoregulation#/media/File:Thermoregulation_simplified.png" height=450px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Thermoregulation_simplified.png/1280px-Thermoregulation_simplified.png" height=450px>
 </div>
 
 ## Response to heating
