@@ -235,6 +235,7 @@ bibliography: bib/bibliography.bib
 - Grazing vs. gathering vs. hunting
 - Quality vs. quantity
 - Time/energy to find & consume
+- Foraging theory: Maximize energy intake, minimize energy expenditure, per unit time.
 
 ## Just keeping the lights on...
 

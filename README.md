@@ -106,7 +106,7 @@ These outlines are a convenient way to organize and review some of the course ma
     - Methods to the madness
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-29.html). [Rmd](lectures/260-2016-08-29.Rmd).
 - Assignment
-    - Watch:[Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
+    - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 
 #### Wed, August 31
@@ -286,7 +286,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Wed, October 19
 
 - Topic
-    - Evolution of the human brain.
+    - Evolution and development of the human brain.
 - Assignment
     - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
     - Read W&B 13:393-407.
@@ -294,31 +294,31 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Fri, October 21
 
 - Topic
-    - The developing brain
+    - Psychopathology I.
+- Assignment
+    - Read W&B 12:338-352.
 
 ### Week 10, October 24-28
 
 ##### Mon, October 24
 
 - Topic
-    - Psychopathology I.
-- Assignment
-    - Read W&B 12:338-352.
-
-#### Wed, October 26
-
-- Topic
     - Psychopathology II.
 - Assignment
     - Read W&B 12:352-360.
 
-#### Fri, October 28
+#### Wed, October 26
 
 - Topic
     - Psychopathology III.
     - Exam 2 returned.
 - Assignment
     - Read W&B 12:360-366.
+
+#### Fri, October 28
+
+- Topic
+    - Exam 2 returned.
 
 ### Week 11, October 31 - November 4 
 

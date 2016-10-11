@@ -344,3 +344,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Quiz 2
 - Review of Exam 1
+
+## References {.smaller}

@@ -13,45 +13,52 @@ output:
 bibliography: bib/bibliography.bib
 ---
 
-## Brain evolution
+## Sex, sleep, homeostasis
 
-- [Cambrian explosion](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html#14)
-- [Swanson/Cajal Four Node Nervous System](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html#20)
-- [Vertebrate brain/body size](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html#26)
-- [Features of human brains](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-03-01.html#37)
+- [Sleep stages](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-07.html#15)
+- [Brain structures in circadian rhythms](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-07.html#8)
+- [Sex in humans vs. other animals](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-05.html#19)
+- [Sex differences in male vs. female brains](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-05.html#25)
+- [Endothermy vs. ectothermy](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-10.html#11)
+- [Body size, heat loss, brain size](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-10.html#18)
 
 ## Synaptic transmission
 
-- [Steps in](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#8)
-- [Ionotropic and metabotropic receptors](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#14)
+- [Steps in](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-26.html#5)
+- [Ionotropic and metabotropic receptors](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-26.html#11)
+- [Mechanisms of NT inactivation](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-26.html#15)
 
 ## Hormones and their function
 
-- [Released where in CNS?](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#10)
-- [Direct vs. indirect release](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#13)
-- [HPA](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#20), [SAM](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#19) axes
-- [Hormones vs. neurotransmitters](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#7)
-- [Milk let-down reflex and oxytocin](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-25.html#24)
+- [Released where in CNS?]https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-30.html#28)
+- [Direct vs. indirect release](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-30.html#31)
+- [HPA](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-30.html#38), [SAM](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-30.html#37) axes
+- [Hormones vs. neurotransmitters](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-30.html#25)
+- [Milk let-down reflex and oxytocin](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-30.html#41)
 
 ## Neurotransmitters
 
-- [Amino acids](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#33)
-- [Acetylcholine](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#39)
-- [Monoamines](https://https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-23.html#15)
+- [Amino acids](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-26.html#30)
+- [Acetylcholine (ACh)](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-28.html#11)
+- [Monoamines](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-28.html#17)
 
 ## Potentials
 
-- [Resting](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-09.html#22)
-- [Action](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-09.html#30)
-- [Postsynaptic](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-18.html#17)
+- [Resting](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-14.html#23)
+- [Action](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-16.html#26)
+- [Postsynaptic](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-26.html#14)
 
 ## Cells of the nervous system
 
-- [Glia](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-04.html#8)
-- [Neurons](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-02-04.html#20)
+- [Glia](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-12.html#8)
+- [Neurons](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-12.html#18)
+
+## Neuroscience methods
+
+- [Structural](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-26.html#20) vs. [functional](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-08-29.html#8)
 
 ## Brain anatomy
 
-- [Forebrain, midbrain, hindbrain](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-19.html#60)
-- [Lobes](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-21.html#52), [gyri, sulci](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-21.html#54)
-- [Directional terms](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-19.html#46), [planes of section](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-01-19.html#49)
+- [Cortical landmarks](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-07.html#15)
+- [Organization of the brain](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-02.html#22)
+- [Cranial nerves](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-07.html#55) and [Autonomic nervous system](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-09-07.html#57)
