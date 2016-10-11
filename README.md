@@ -275,6 +275,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Exam 2 review
+    - Study guide:  [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-2-study-guide.html). [Rmd](lectures/exam-2-study-guide.Rmd).
 
 ### Week 09, October 17-21
 

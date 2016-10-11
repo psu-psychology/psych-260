@@ -13,6 +13,15 @@ output:
 bibliography: bib/bibliography.bib
 ---
 
+## Announcements
+
+- Exam 2 on Monday, October 17
+- **Will** have class both Wednesday and Friday of next week (10/19 and 10/21)
+
+## Today's topics
+
+- Exam 2 review
+
 ## Sex, sleep, homeostasis
 
 - [Sleep stages](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-07.html#15)
