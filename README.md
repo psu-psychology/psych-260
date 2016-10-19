@@ -288,6 +288,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Evolution and development of the human brain.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-19.html). [Rmd](lectures/260-2016-10-19.Rmd).
 - Assignment
     - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
     - Read W&B 13:393-407.
@@ -296,6 +297,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Psychopathology I.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-21.html). [Rmd](lectures/260-2016-10-21.Rmd).
 - Assignment
     - Read W&B 12:338-352.
 
@@ -312,7 +314,6 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Psychopathology III.
-    - Exam 2 returned.
 - Assignment
     - Read W&B 12:360-366.
 
@@ -327,7 +328,6 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Emotion, Fear, and Stress
-    - **Blog post #1 (of 3) due**
 - Assignment
     - Read W&B 11:310-336.
 
@@ -352,6 +352,7 @@ These outlines are a convenient way to organize and review some of the course ma
     - Somatosensation & pain
 - Assignment
     - Read W&B 5:121-126; 6:162-164
+    - **Blog post #2 (of 3) due**
 
 #### Wed, November 9
 
@@ -409,7 +410,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topic
     - **Quiz 4**
     - Exam 3 returned.
-    - Papers or blog posts due.
+    - **Papers or blog post #3 (of 3) due**
 
 ### Week 16, December 5-9
 
@@ -435,7 +436,9 @@ These outlines are a convenient way to organize and review some of the course ma
 
 ### Week 17, December 12-16
 
-**FINALS WEEK -- Exam 4 TBA**
+#### Mon, December 12, 10:10a - noon
+
+- **Exam 4**
 
 ---
 
