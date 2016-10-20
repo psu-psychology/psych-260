@@ -307,6 +307,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Psychopathology II.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-24.html). [Rmd](lectures/260-2016-10-24.Rmd).
+
 - Assignment
     - Read W&B 12:352-360.
 
@@ -474,7 +476,7 @@ These outlines are a convenient way to organize and review some of the course ma
 | | **TOTAL POINTS POSSIBLE** | 165 |
 | Extra Credit | There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them. [Here](assignments/extra-credit.md) is an extra credit opportunity. | |
 
-[Data about recent performance](grades/analysis.pdf)
+[Data about recent performance in previous years](grades/analysis.pdf)
 
 ### Grading Scheme
 
