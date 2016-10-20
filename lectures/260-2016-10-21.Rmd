@@ -20,8 +20,10 @@ bibliography: bib/bibliography.bib
 ## Today's Topics
 
 - Schizophrenia
-- [Score distribution](grades/2016-10-20.png) (through Exam 2)
-- **Exam 4** scheduled for Mon, Dec 12 10:10a, same room
+
+## Announcements
+- [Score distribution](../grades/img/2016-10-20.png) (through Exam 2)
+- **Exam 4** scheduled for Mon, Dec 12 10:10a, this room
 
 ## Schizophrenia
 
