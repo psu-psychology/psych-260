@@ -316,13 +316,14 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Psychopathology III.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-10-26.html). [Rmd](lectures/260-2016-10-26.Rmd).
 - Assignment
     - Read W&B 12:360-366.
 
 #### Fri, October 28
 
 - Topic
-    - Exam 2 returned.
+    - Exam 2 returned. [Answer key](exam/psych-260-exam-2-ans.pdf).
 
 ### Week 11, October 31 - November 4 
 

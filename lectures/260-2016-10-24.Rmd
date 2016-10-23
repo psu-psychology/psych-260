@@ -21,6 +21,17 @@ bibliography: bib/bibliography.bib
 
 - Bipolar disorder
 
+## Major affective (emotional) disorders
+
+- Types
+    + Bipolar disorder
+    + Depression
+    + Anxiety
+- Heritability
+    + *proportion of variance in trait accounted for by genetic factors*
+    + Monozygotic: .69
+    + Dizygotic: .13
+
 ## Up/Down Documentary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eyiZfzbgaW4" frameborder="0" allowfullscreen></iframe>
@@ -102,6 +113,12 @@ bibliography: bib/bibliography.bib
     + Usually to treat epilepsy
     + e.g. lamotrigine (Lamictal)
 - Antipsychotics
+
+## Lithium "discovered" accidentally
+
+- Injections of manic patients' urine with lithium compound (chemical stabilizer) into guinea pig test animals.
+- Had calming effect
+- John Cade
 
 ## Effects of Lithium
 
