@@ -125,7 +125,7 @@ bibliography: bib/bibliography.bib
     + Lowered thyroid function
     + High/chronic cortisol levels
     
-## Pharmcological factors
+## Pharmacological factors
 
 - Monoamine hypothesis
     + More: euphoria
@@ -176,6 +176,23 @@ bibliography: bib/bibliography.bib
 - 16% of participants dropped out due to tolerability issues
 - Took 6-7 weeks to show response.
 
+## Who will benefit from drug therapy?
+
+- Depends on
+    + Early life stress
+    + Brain (amygdala) response to emotional faces
+- [[@goldstein-piekarski_human_2016]](http://doi.org/10.1073/pnas.1606671113)
+- Low-stress + low amyg reactivity -> > responding
+- High stress + high amyg reactivity -> > responding
+
+----
+
+<div class="centered">
+<img src="http://www.pnas.org/content/113/42/11955/F2.medium.gif" height=450px>
+
+[[@goldstein-piekarski_human_2016]](http://doi.org/10.1073/pnas.1606671113)
+</div>
+
 ## Problems with monoamine hypothesis
 
 - Too simplistic
@@ -188,7 +205,7 @@ bibliography: bib/bibliography.bib
     + Serotonin presynaptic autoreceptors compensate
     + Postsynaptic upregulation of NE/5-HT effects
 - Stimulate neurogenesis?
-    + Link to neurotrophin BDNF
+    + Link to neurotrophin, brain-derived nerve growth factor (BDNF)
     + BDNF boosts neurogenesis
 
 ## Exercise as a treatment
