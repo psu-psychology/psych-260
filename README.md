@@ -340,6 +340,7 @@ These outlines are a convenient way to organize and review some of the course ma
 - Topics
     - **Quiz 3**
     - Emotion, Fear, and Stress II.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-11-02.html). [Rmd](lectures/260-2016-11-02.Rmd).
 
 #### Fri, November 4
 

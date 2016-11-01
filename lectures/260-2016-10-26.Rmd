@@ -89,7 +89,7 @@ bibliography: bib/bibliography.bib
 ## Disrupted connectivity
 
 - Resting state fMRI (rsFMRI) in 421 patients with major depressive disorder and 488 control subjects.
-- Reduced connectivity between orbitotronal cortex (OFC) and other areas of the brain
+- Reduced connectivity between orbitofrontal cortex (OFC) and other areas of the brain
 - Increased connectivity between lateral PFC and other brain areas
 
 [[@cheng_medial_2016]](http://doi.org/10.1093/brain/aww255)
