@@ -282,7 +282,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Mon, October 17
 
 - Topic
-    - **Exam  2**
+    - [**Exam  2**](exam/psych-260-exam-2-ans.pdf)
 
 #### Wed, October 19
 
@@ -324,6 +324,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Exam 2 returned. [Answer key](exam/psych-260-exam-2-ans.pdf).
+    - [Summary of grades](grades/img/2016-11-03-grades.png).
 
 ### Week 11, October 31 - November 4 
 
@@ -338,7 +339,7 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Wed, November 2
 
 - Topics
-    - **Quiz 3**
+    - [**Quiz 3**](quiz/psych-260-quiz-3-ans.pdf)
     - Emotion, Fear, and Stress II.
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-11-02.html). [Rmd](lectures/260-2016-11-02.Rmd).
 
@@ -348,6 +349,7 @@ These outlines are a convenient way to organize and review some of the course ma
     - Wrap-up on stress.
     - Sensory systems.
     - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-11-04.html). [Rmd](lectures/260-2016-11-04.Rmd).
+    - [Summary of grades](grades/img/2016-11-03-grades.png).
 - Assignment
     - Read W&B 5:110-121
     
@@ -457,8 +459,8 @@ These outlines are a convenient way to organize and review some of the course ma
 | F Sep 23  | [Exam 1](exam/psych-260-exam-1-ans.pdf)               |
 | M Oct 3   | [Quiz 2](quiz/psych-260-quiz-2-ans.pdf)               |
 | M Oct 10  | Blog post 1 due      |
-| F Oct 14  | Exam 2               |
-| W Nov 2   | Quiz 3               |
+| F Oct 14  | [Exam 2](exam/psych-260-exam-2-ans.pdf)               |
+| W Nov 2   | [Quiz 3](quiz/psych-260-quiz-3-ans.pdf)               |
 | M Nov 9   | Blog post 2 due      |
 | W Nov 16  | Exam 3               |
 | F Dec 2   | Quiz 4               |
