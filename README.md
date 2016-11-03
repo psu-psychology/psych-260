@@ -345,7 +345,9 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Fri, November 4
 
 - Topics
+    - Wrap-up on stress.
     - Sensory systems.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-11-04.html). [Rmd](lectures/260-2016-11-04.Rmd).
 - Assignment
     - Read W&B 5:110-121
     
