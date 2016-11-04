@@ -204,6 +204,13 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 [[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
 </div>
 
+
+## Stress and coping across the animal kingdom
+
+- Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
+- Rats will cooperate to release distressed cage mage, foregoing food rewards
+- [[@sapolsky_psychiatric_2016]](http://doi.org/10.1038/nn.4397)
+
 ## Why Zebras Don't Get Ulcers
 
 <div class="centered">
