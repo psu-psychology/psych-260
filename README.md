@@ -359,6 +359,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Somatosensation & pain
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-11-07.html). [Rmd](lectures/260-2016-11-07.Rmd).
 - Assignment
     - Read W&B 5:121-126; 6:162-164
     - **Blog post #2 (of 3) due**
@@ -367,6 +368,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Action
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-11-09.html). [Rmd](lectures/260-2016-11-09.Rmd).
 - Assignment
     - Read W&B 5:126-143
     - 2nd blog post due.
