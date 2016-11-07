@@ -36,6 +36,12 @@ bibliography: bib/bibliography.bib
 - Firearm permit
 - Current utility bill, bank statement, paycheck, or government check
 
+## Who pays for [neuroscience research](https://www.sfn.org/advocacy/neuroscience-funding/us-funding-priorities/us-neuroscience-funding-process?
+
+- You do!
+- U.S. National Institutes of Health, ~$32 billion for all diseases in 2016
+- U.S. National Science Foundation, ~$7.46 billion for all sciences
+
 ## Today's Topics
 
 - Wrap up on [sensory systems](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-11-04.html#20)
