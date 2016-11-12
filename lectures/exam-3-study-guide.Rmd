@@ -12,22 +12,12 @@ output:
 bibliography: bib/bibliography.bib
 ---
 
-## Vision
-
-- Detecting what, where
-- How similar to, different from other sensory systems
-
 ## Action
 
 - Monosynaptic stretch reflex
 - Intrafusal/extrafusal muscle fibers
 - Parkinson's, Huntington's
-- Wolpert's ideas about role of brain's in movement planning
-
-## Audition
-
-- Role of anatomical components
-- Detecting what, where
+- Wolpert's ideas about role of brains in movement planning
 
 ## Somatosensation
 
@@ -37,21 +27,29 @@ bibliography: bib/bibliography.bib
 
 ## Disorders
 
-- Monoamine hypothesis of depression, treatments
+- Serotonin hypothesis of depression, treatments
+- Treatments for bipolar disorder
 - Dopamine hypothesis of schizophrenia
 
 ## Emotion
 
+- Plutchik
 - Fear, stress circuits
 - Reward/happiness circuits
 
+## Sleep
+
+- Suprachiasmatic Nucleus, melatonin
+
 ## Hormones
 
-- oxytocin
+- Oxytocin
+- Cortisol
 
 ## Brain development
 
 - Sequence of major stages
+- Neural tube formation
 
 ## Neuroanatomy
 

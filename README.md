@@ -387,6 +387,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Exam 3 review
+    - Study guide:  [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-3-study-guide.html). [Rmd](lectures/exam-3-study-guide.Rmd).
     
 #### Wed, November 16
 
