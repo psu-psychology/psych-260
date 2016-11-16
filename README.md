@@ -397,6 +397,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Speed of nervous system conduction lab
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-11-18.html). [Rmd](lectures/260-2016-11-18.Rmd).
 
 ### Week 14, November 21-25
 
