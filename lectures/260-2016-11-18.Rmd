@@ -64,7 +64,11 @@ bibliography: bib/bibliography.bib
 ## Measuring distance
 
 ```{r}
-distance = read.csv("ankleshoulder.csv", header = TRUE)
+distance = read.csv("csv/ankleshoulder.csv", header = TRUE)
+
+# load Gilmore's favorite plotting, analysis libraries
+library(ggplot2)
+library(dplyr)
 
 dist.hist = ggplot(data = distance, aes(x=ankleshoulder)) +
   geom_histogram(bins = 5)
@@ -90,11 +94,8 @@ The total distance is `r dist.sum` cm.
 ## Measuring time
 
 ```{r}
-time = read.csv("time.csv", header=TRUE)
+time = read.csv("csv/time.csv", header=TRUE)
 
-# load Gilmore's favorite plotting, analysis libraries
-library(ggplot2)
-library(dplyr)
 
 # Plot data
 time.plot = ggplot(data = time, aes(x=trial, y=time, color=condition)) +
@@ -145,14 +146,22 @@ speed.hist
 ## Plot time series of speeds
 
 ```{r plot-speed}
-#speed.plot = ggplot(data = time.diff, aes())
+speed.plot = ggplot(data = time.diff, aes(x=trial, y=speed)) +
+  geom_point() +
+  geom_line()
+```
+
+---
+
+```{r}
+speed.plot
 ```
 
 ## Summarizing findings
 
 - We tested the mean speed of neural propagation in a sample of n=`r dim(distance)[1]` college-age adults.
-- The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']` cm/s with a range of [`r with(time.diff, summary(speed))['Min.']`, `r with(time.diff, summary(speed))['Max.']`] cm/s.
-- These findings ARE/ARE NOT in accord with values we would expect from the literature.
+- The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']/100` m/s with a range of [`r with(time.diff, summary(speed))['Min.']/100`, `r with(time.diff, summary(speed))['Max.']/100`] m/s.
+- These findings are generally in accord with values we would expect from the literature.
 
 ## Limitations
 
