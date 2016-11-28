@@ -424,7 +424,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - **Quiz 4**
-    - Exam 3 returned.
+    - Exam 3 returned. [Answer key](exam/psych-260-exam-3-ans.pdf). [Grade summary](grades/img/2016-11-28.png).
+)
     - **Papers or blog post #3 (of 3) due**
 
 ### Week 16, December 5-9
