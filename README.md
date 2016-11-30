@@ -417,6 +417,7 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Vision II.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-11-30.html). [Rmd](lectures/260-2016-11-30.Rmd).
 - Assignment
     - Read W&B 7:185-207.
 
