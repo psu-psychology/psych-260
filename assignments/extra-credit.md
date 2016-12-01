@@ -6,4 +6,4 @@ This opportunity is available to you if you completed either the paper or blog p
 
 If you were one of the handful of students who wrote a paper AND completed the blog posts, you need not do anything more. We will automatically take one or the other of these assignments and give you extra credit.
 
-**Extra credit blog posts must be completed by SUNDAY, MAY 1, 2016 at MIDNIGHT**
+**Extra credit blog posts must be completed by FRIDAY, DECEMBER 9, 2016 at MIDNIGHT**
