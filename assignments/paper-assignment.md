@@ -1,11 +1,11 @@
-# PSYCH 260/BBH 203 
-## Spring 2016
+# PSYCH 260.002H
+## Fall 2016
 ## Paper Rubric for Participation Points
 
 ## Format, due date
 
 - **3-5 pages double-spaced**, worth 15 points
-- Due **Friday, December 12, 2016 at 5:00 pm** by 5:00 pm.
+- Due **Friday, December 2, 2016 at 5:00 pm**.
 
 ## Assignment
 
@@ -17,7 +17,7 @@ Choose two articles from the popular or scientific press on the same issue or re
 2. In another paragraph or two, discuss what is known about the neural mechanisms underlying the behavior in question, what are the strengths and weaknesses of the approach to studying the biology of behavior undertaken by the investigators you are writing about, and how the current results expand or alter our knowledge about the topic.
 3. In a concluding paragraph, discuss why the new discovery or issue covered in the article is important and interesting, and what questions about the topic remain to be answered. In other words, why should a general audience care about this topic, and what do we still need to know?
 4. If your non-textbook references are unavailable online, submit printed paper copies.
-5. Your paper should be about two to four pages in length, using double-spacing, margins no smaller than 1" and a 12 point typeface. This is approximately 500-1,000 words.
+5. Your paper should be about three to five pages in length, using double-spacing, margins no smaller than 1" and a 12 point typeface. This is approximately 500-1,000 words.
 6. ALEX OR I WILL BE HAPPY TO DISCUSS POSSIBLE ARTICLES AND TOPICS WITH YOU.
 
 ## How to submit
