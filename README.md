@@ -434,6 +434,8 @@ These outlines are a convenient way to organize and review some of the course ma
 
 - Topic
     - Learning & memory.
+    - Lecture notes: [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-12-05.html). [Rmd](lectures/260-2016-12-05.Rmd).
+- Assignment
 - Assignment
     - Read 13:368-383
     
