@@ -96,7 +96,7 @@ bibliography: bib/bibliography.bib
 
 ## NMDA receptor (NMDA-R) and *'Hebbian' learning*
 
-- Named for N-methyl-D-asparate, selective agonist
+- Named for N-methyl-D-aspartate, selective agonist
 - Coincidence detector
     + Sending cell has released NT (glu)
     + Receiving cell is/has been recently active (depolarized)
