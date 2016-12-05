@@ -471,7 +471,7 @@ These outlines are a convenient way to organize and review some of the course ma
 | W Nov 2   | [Quiz 3](quiz/psych-260-quiz-3-ans.pdf)               |
 | M Nov 9   | Blog post 2 due      |
 | W Nov 16  | [Exam 3](exam/psych-260-exam-3-ans.pdf)               |
-| F Dec 2   | Quiz 4               |
+| F Dec 2   | [Quiz 4](quiz/psych-260-quiz-4-ans.pdf)               |
 | F Dec 2   | Short paper or Blog post 3 due |
 | TBA       | Exam 4               |
 
