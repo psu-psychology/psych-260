@@ -188,7 +188,7 @@ bibliography: bib/bibliography.bib
 ## AD
 
 - Treatments include
-    + Acetylcholinesterase (AChE) inhbitors (e.g. Aricept)
+    + Acetylcholinesterase (AChE) inhibitors (e.g. Aricept)
     + Glutamatergic (NMDA) partial antagonists (e.g., Memantine)
     
 ## New hope for treatment, [[@kaufman_fyn_2015]](http://doi.org/10.1002/ana.24394)
