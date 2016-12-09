@@ -17,17 +17,10 @@ bibliography: bib/bibliography.bib
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K8MWjFO9NCc" frameborder="0" allowfullscreen></iframe>
 
-## Announcements
-
-- Extra credit blogs posts due by Sunday, 5/1 at midnight.
-- Exam 4
-    + Section 001: Tue 5/3, 12:20p, 358 Willard
-    + Section 004: Thu 5/5, 4:40p, 208 Ford
-
 ## Today's topics
 
 - Review for Exam 4
-- Cerebral Symphony
+- [Cerebral Symphony](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-12-09.html)
 
 ## History
 
