@@ -1,5 +1,5 @@
 ---
-title: "exam-4-review"
+title: "exam-4-study-guide"
 author: Rick Gilmore
 date: "`r Sys.time()`"
 output:
@@ -45,6 +45,7 @@ bibliography: bib/bibliography.bib
     + Forebrain/midbrain/hindbrain
     + ventricles/CSF, meninges, blood supply
     + Gyri/sulci
+    + lobes, insula/insular cortex
     + gray/white matter
     
 ## Cellular anatomy
@@ -54,14 +55,18 @@ bibliography: bib/bibliography.bib
 ## Neurophysiology
 
 - Resting potential
+    + force of diffusion, electrostatic pressure
 - Action potential phases, causes/components
 - Synaptic transmission
+    + EPSPs, IPSPs
 - Synaptic plasticity, LTP, NMDA receptors
 
 ## Neurochemistry
 
 - Big Three -- Glu, GABA, ACh
 - Neuromodulators -- DA, NE, 5-HT
+- Hormones
+    + Oxytocin, vasopressin
 
 ## Evolution and development
 
@@ -85,3 +90,4 @@ bibliography: bib/bibliography.bib
 
 - Amnesia
 - NMDA receptors and Hebbian learning
+- Hippocampus size and memory demands

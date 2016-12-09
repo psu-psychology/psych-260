@@ -449,8 +449,9 @@ These outlines are a convenient way to organize and review some of the course ma
 #### Fri, December 9
 
 - Topic
-    - Review for Exam 4.
-    - Neuroscience and society.
+    - Review for Exam 4. 
+    - The Cerebral Symphony. [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/exam-4-study-guide.html). [Rmd](lectures/exam-4-study-guide.Rmd).
+ [HTML](https://rawgit.com/psu-psychology/psych-260/master/lectures/260-2016-12-09.html). [Rmd](lectures/260-2016-12-09.Rmd).
 
 ### Week 17, December 12-16
 
